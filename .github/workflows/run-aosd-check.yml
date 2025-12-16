@@ -27,6 +27,6 @@ jobs:
       - name: Run GitHub Action for ORT
         uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
         with:
-          ort-parameters: |
-            ort.scanner.skipExcluded=true
+          ort-cli-args: >
+            -P ort.scanner.skipExcluded=true
           ort-cli-report-args: '-f AOSD2.1 -o results/reports/aosd2.1'
