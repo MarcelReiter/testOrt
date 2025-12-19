@@ -39,7 +39,7 @@ android {
 }
 
 dependencies {
-    implementation(project(":feature1"))
+    implementation(projects.feature1)
 
     implementation(libs.lottie)
     implementation(libs.androidx.core.ktx)
