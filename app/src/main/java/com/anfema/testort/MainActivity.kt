@@ -20,6 +20,7 @@ import androidx.compose.ui.unit.dp
 import com.airbnb.lottie.compose.LottieAnimation
 import com.airbnb.lottie.compose.LottieCompositionSpec
 import com.airbnb.lottie.compose.rememberLottieComposition
+import com.anfema.feature1.Feature1
 import com.anfema.testort.ui.theme.TestOrtTheme
 
 class MainActivity : ComponentActivity() {
@@ -32,7 +33,7 @@ class MainActivity : ComponentActivity() {
                 Scaffold(
                     topBar = {
                         TopAppBar(
-                            title = { Text("Lottie Test") }
+                            title = { Text(Feature1().title) }
                         )
                     },
                     modifier = Modifier.fillMaxSize()
