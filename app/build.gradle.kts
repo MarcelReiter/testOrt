@@ -1,3 +1,5 @@
+import com.android.build.api.dsl.ApplicationExtension
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -36,6 +38,9 @@ android {
     buildFeatures {
         compose = true
     }
+
+    configureApplicationProductFlavor("server", ServerFlavor.values().toList())
+    configureApplicationProductFlavor("services", ServicesFlavor.values().toList())
 }
 
 dependencies {
@@ -57,4 +62,70 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
+}
+
+
+/**
+ * Warning: a very similar implementation exists as LibraryExtension
+ * see [context(LibraryExtension).configureProductFlavor]
+ */
+internal fun ApplicationExtension.configureApplicationProductFlavor(
+    dimensionName: String,
+    flavors: List<Flavor>,
+) {
+    flavorDimensions.add(dimensionName)
+    productFlavors {
+        flavors.forEach {
+            create(it.id) {
+                dimension = dimensionName
+                versionNameSuffix = it.versionNameSuffix
+                applicationIdSuffix = it.applicationIdSuffix
+            }
+        }
+    }
+}
+
+internal sealed interface Flavor {
+    val id: String
+    val versionNameSuffix: String?
+    val applicationIdSuffix: String?
+}
+
+internal enum class ServerFlavor(
+    override val id: String,
+    override val versionNameSuffix: String?,
+    override val applicationIdSuffix: String?,
+) : Flavor {
+    Tui(
+        id = "tui",
+        versionNameSuffix = "_tui",
+        applicationIdSuffix = ".tui"
+    ),
+    PreLive(
+        id = "prelive",
+        versionNameSuffix = "_prelive",
+        applicationIdSuffix = ".prelive"
+    ),
+    Live(
+        id = "live",
+        versionNameSuffix = null,
+        applicationIdSuffix = ".live"
+    )
+}
+
+internal enum class ServicesFlavor(
+    override val id: String,
+    override val versionNameSuffix: String?,
+    override val applicationIdSuffix: String?,
+) : Flavor {
+    Google(
+        id = "google",
+        versionNameSuffix = "_google",
+        applicationIdSuffix = null
+    ),
+    Huawei(
+        id = "huawei",
+        versionNameSuffix = "_huawei",
+        applicationIdSuffix = null
+    )
 }
