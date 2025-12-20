@@ -24,6 +24,10 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
 
+      - name: Copy ORT-related files/folders to their default locations, so ORT actually picks them up
+        run: |
+          mv ort/.ort.yml .ort.yml
+
       - name: Run GitHub Action for ORT
         uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
         with:
