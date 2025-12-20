@@ -14,6 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.anfema.feature1.Feature1
+import com.anfema.feature2.Feature2
 import com.anfema.testort.ui.theme.TestOrtTheme
 
 class MainActivity : ComponentActivity() {
@@ -31,7 +32,7 @@ class MainActivity : ComponentActivity() {
                         .fillMaxSize(),
                 ) {
                     Text(
-                        text = "ORT Test with ${Feature1().title}",
+                        text = "ORT Test with ${Feature1().title} & ${Feature2().title}",
                         style = MaterialTheme.typography.displayMedium,
                         textAlign = TextAlign.Center
                     )
