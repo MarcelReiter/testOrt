@@ -45,6 +45,7 @@ android {
 
 dependencies {
     implementation(projects.feature1)
+    implementation(projects.feature2)
 
     implementation(libs.lottie)
     implementation(libs.androidx.core.ktx)

@@ -24,3 +24,4 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 rootProject.name = "TestOrt"
 include(":app")
 include(":feature1")
+include(":feature2")
