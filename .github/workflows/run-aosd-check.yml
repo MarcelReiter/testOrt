@@ -28,3 +28,9 @@ jobs:
         uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
         with:
           run: 'cache-dependencies,analyzer,scanner,evaluator,advisor,reporter,upload-results'
+
+      - name: Run GitHub Action for ORT
+        if: failure()
+        uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
+        with:
+          run: 'upload-results'
