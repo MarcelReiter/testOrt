@@ -35,7 +35,7 @@ jobs:
           run: 'cache-dependencies,analyzer,scanner,reporter,upload-results'
 
       - name: Run GitHub Action for ORT
-        if: failure()
+        if: failure() || cancelled()
         uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
         with:
           run: 'upload-results'
