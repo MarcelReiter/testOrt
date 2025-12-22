@@ -1,0 +1,3 @@
+ort:
+  # docs: https://oss-review-toolkit.org/ort/docs/configuration/ort-yml#curationsd
+  enableRepositoryPackageCurations: true

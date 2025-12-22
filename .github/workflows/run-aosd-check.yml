@@ -27,6 +27,7 @@ jobs:
       - name: Copy ORT-related files/folders to their default locations, so ORT actually picks them up
         run: |
           mv ort/.ort.yml .ort.yml
+          mkdir -p ~/.ort/config && mv ort/* ~/.ort/config/
 
       - name: Run GitHub Action for ORT
         uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
