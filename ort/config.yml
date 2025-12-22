@@ -1,3 +1,10 @@
 ort:
   # docs: https://oss-review-toolkit.org/ort/docs/configuration/ort-yml#curationsd
   enableRepositoryPackageCurations: true
+
+  # docs: https://oss-review-toolkit.org/ort/docs/plugins/scanners/ScanCode#example
+  scanner:
+    scanners:
+      ScanCode:
+        options:
+          commandLine: "--license"
