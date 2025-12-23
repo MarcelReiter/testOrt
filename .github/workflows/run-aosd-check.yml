@@ -1,0 +1,42 @@
+name: run-aosd-check
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ort:
+    name: Check AOSD with ort
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use HTTPS instead of SSH for Git cloning
+        run: git config --global url.https://github.com/.insteadOf ssh://git@github.com/
+
+      - name: Checkout project
+        uses: actions/checkout@v5
+
+      - name: Setup JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Copy ORT-related files/folders to their default locations, so ORT actually picks them up
+        run: |
+          mv ort/.ort.yml .ort.yml
+          mkdir -p ~/.ort/config && mv ort/* ~/.ort/config/
+
+      - name: Run GitHub Action for ORT
+        uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
+        with:
+          run: 'cache-dependencies,analyzer,reporter,upload-results'
+          ort-cli-report-args: '-f WebApp,AOSD2.1'
+
+      - name: Run GitHub Action for ORT
+        if: failure() || cancelled()
+        uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
+        with:
+          run: 'upload-results'
