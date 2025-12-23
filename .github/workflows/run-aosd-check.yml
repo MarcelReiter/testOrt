@@ -32,7 +32,7 @@ jobs:
       - name: Run GitHub Action for ORT
         uses: oss-review-toolkit/ort-ci-github-action@v1.1.0
         with:
-          run: 'cache-dependencies,analyzer,scanner,reporter,upload-results'
+          run: 'cache-dependencies,analyzer,reporter,upload-results'
           ort-cli-report-args: '-f WebApp,AOSD2.1'
 
       - name: Run GitHub Action for ORT
