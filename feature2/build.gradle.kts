@@ -30,6 +30,10 @@ android {
     }
 }
 
+dependencies {
+    implementation(libs.lottie)
+}
+
 internal fun LibraryExtension.configureLibraryProductFlavor(
     dimensionName: String,
     flavors: List<Flavor>,
