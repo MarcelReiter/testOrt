@@ -1,7 +1,3 @@
-analyzer:
-  # Enabling skip_excludes offers massive performance benefits:
-  # Instead of "disabling" excluded dependencies they are now actually ignored totally
-  skip_excluded: true
 excludes:
   # docs on excluding scopes: https://oss-review-toolkit.org/ort/docs/configuration/ort-yml#excluding-scopes
   scopes:
