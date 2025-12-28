@@ -1,3 +1,8 @@
+includes:
+  paths:
+    - pattern: app/**
+      reason: SOURCE_OF
+      comment: "app depends on everything which will later be actually part of the app. All other folders would just be duplication - or not part of the final app"
 excludes:
   # docs on excluding scopes: https://oss-review-toolkit.org/ort/docs/configuration/ort-yml#excluding-scopes
   scopes:
