@@ -1,0 +1,17 @@
+ort:
+  scanner:
+    # docs: https://oss-review-toolkit.org/ort/docs/plugins/scanners/ScanCode#example
+    scanners:
+      ScanCode:
+        options:
+          # for defaults see: https://github.com/oss-review-toolkit/ort/blob/ae1c15e434d1697e4008f9d4592756de1a7b85aa/plugins/scanners/scancode/src/main/kotlin/ScanCodeConfig.kt#L32
+          commandLine: "--copyright,--license,--strip-root"
+    storages:
+      fileBasedStorage:
+        backend:
+          localFileStorage:
+            directory: "/project/ort/cache"
+            compression: false
+
+    storageReaders: ["fileBasedStorage"]
+    storageWriters: ["fileBasedStorage"]
