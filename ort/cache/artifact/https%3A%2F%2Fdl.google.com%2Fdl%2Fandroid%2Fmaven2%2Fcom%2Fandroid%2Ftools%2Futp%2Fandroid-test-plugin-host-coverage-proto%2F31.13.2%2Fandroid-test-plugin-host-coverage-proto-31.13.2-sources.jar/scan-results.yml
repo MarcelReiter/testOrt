@@ -1,0 +1,27 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/android/tools/utp/android-test-plugin-host-coverage-proto/31.13.2/android-test-plugin-host-coverage-proto-31.13.2-sources.jar"
+      hash:
+        value: "46a75896cc7fdea27028c46f37efdb60d3f7b000"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:46:35.000156637Z"
+    end_time: "2026-03-04T12:46:38.000049085Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "NOTICE"
+        start_line: 3
+        end_line: 188
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2005-2021, The Android Open Source Project"
+      location:
+        path: "NOTICE"
+        start_line: 1
+        end_line: 1

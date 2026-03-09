@@ -1,0 +1,27 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/android/tools/utp/utp-common/31.13.2/utp-common-31.13.2-sources.jar"
+      hash:
+        value: "c1a6a9db7ef0518a82ca663bda0b92d78ee2a50c"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:12:04.000161949Z"
+    end_time: "2026-03-04T12:12:05.000873896Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/tools/utp/plugins/common/HostPluginAdapter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/tools/utp/plugins/common/HostPluginAdapter.kt"
+        start_line: 2
+        end_line: 2

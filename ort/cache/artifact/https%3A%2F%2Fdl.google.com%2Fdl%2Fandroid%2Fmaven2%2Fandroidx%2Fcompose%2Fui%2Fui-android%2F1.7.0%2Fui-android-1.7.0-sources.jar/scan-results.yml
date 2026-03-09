@@ -1,0 +1,3393 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-android/1.7.0/ui-android-1.7.0-sources.jar"
+      hash:
+        value: "db103590e594bd9f54209de743519cc2dd7530c7"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:13:27.000029665Z"
+    end_time: "2026-03-04T12:13:47.000129529Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AndroidAutofill.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AndroidAutofillType.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AutofillCallback.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AutofillUtils.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/ContentDataType.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/ContentType.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/contentcapture/AndroidContentCaptureManager.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/contentcapture/ContentCaptureManager.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/draganddrop/ComposeDragShadowBuilder.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/draganddrop/DragAndDrop.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/focus/FocusInteropUtils.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/vector/compat/AndroidVectorResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/vector/compat/XmlVectorParser.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/hapticfeedback/PlatformHapticFeedback.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/key/Key.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/key/KeyEvent.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/InternalPointerEvent.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/MotionEventAdapter.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerEvent.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerIcon.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerInputEvent.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerInteropFilter.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerInteropUtils.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/input/rotary/RotaryScrollEvent.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/layout/GraphicLayerInfo.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/node/DelegatableNode.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/node/UiApplier.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/node/ViewInterop.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AccessibilityIterators.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidAccessibilityManager.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidClipboardManager.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidComposeView.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidComposeViewAccessibilityDelegateCompat.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidCompositionLocals.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidFontResourceLoader.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidPlatformTextInputSession.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidTextToolbar.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidUiDispatcher.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidUiFrameClock.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidUriHandler.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidViewConfiguration.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidViewsHandler.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ClipboardExtensions.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ComposeView.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/DeviceRenderNode.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/DisposableSaveableStateRegistry.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/GlobalSnapshotManager.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/GraphicsLayerOwnerLayer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/LayerMatrixCache.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/NestedScrollInteropConnection.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/OutlineResolver.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/PlatformTextInputMethodRequest.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/PlatformTextInputSession.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/RenderNodeApi23.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/RenderNodeApi29.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/RenderNodeLayer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/SemanticsUtils.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewCompositionStrategy.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewLayer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewLayerContainer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewRootForInspector.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewRootForTest.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/WeakCache.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/WindowRecomposer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/Wrapper.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/accessibility/CollectionInfo.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/actionmodecallback/FloatingTextActionModeCallback.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/actionmodecallback/PrimaryTextActionModeCallback.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/actionmodecallback/TextActionModeCallback.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/AutofillIdCompat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/ContentCaptureSessionCompat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/ViewCompatShims.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/ViewStructureCompat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/ColorResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/FontResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/ImageResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/PainterResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/PrimitiveResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/Resources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/StringResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/res/VectorResources.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/scrollcapture/ComposeScrollCaptureCallback.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/scrollcapture/ScrollCapture.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/semantics/SemanticsProperties.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/CursorAnchorInfoBuilder.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/CursorAnchorInfoController.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/InputEventCallback2.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/InputMethodManager.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/InputState.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/NullableInputConnectionWrapper.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/RecordingInputConnection.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/TextInputServiceAndroid.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/AndroidView.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/AndroidViewHolder.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/FocusGroupNode.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/InteropView.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/InteropViewFactoryHolder.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/window/AndroidDialog.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/window/AndroidPopup.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/window/SecureFlagPolicy.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/Alignment.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/AtomicReference.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/ComposedModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/Expect.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/Modifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/MotionDurationScale.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/SessionMutex.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/UiComposable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/ZIndexModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/Autofill.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/AutofillTree.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/AutofillType.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/ContentDataType.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/ContentType.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draganddrop/DragAndDrop.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draganddrop/DragAndDropManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draganddrop/DragAndDropNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Alpha.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Blur.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Clip.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/DrawModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/PainterModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Rotate.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Scale.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Shadow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/BeyondBoundsLayout.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusChangedModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusDirection.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusEventModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusEventModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusInvalidationManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusOrderModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusOwnerImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusProperties.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusPropertiesModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRequester.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRequesterModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRequesterModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRestorer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTargetModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTargetNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTransactionManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTransactions.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTraversal.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/OneDimensionalFocusSearch.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/TwoDimensionalFocusSearch.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/GraphicsLayerModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/GraphicsLayerScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/TransformOrigin.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/DrawCache.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/ImageVector.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/Vector.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/VectorComposable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/VectorCompose.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/VectorPainter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/hapticfeedback/HapticFeedback.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/hapticfeedback/HapticFeedbackType.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/InputModeManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/Key.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/KeyEvent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/KeyInputModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/KeyInputModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/SoftKeyboardInterceptionModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/SoftwareKeyboardInterceptionModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/nestedscroll/NestedScrollModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/nestedscroll/NestedScrollNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/HitPathTracker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/InternalPointerInput.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerEvent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerIcon.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerInputEventProcessor.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerInputTestUtil.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/SuspendingPointerInputFilter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/util/PointerIdArray.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/util/VelocityTracker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/rotary/RotaryInputModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/rotary/RotaryInputModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/input/rotary/RotaryScrollEvent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/internal/InlineClassHelper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/internal/JvmDefaultWithCompatibility.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/AlignmentLine.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ApproachLayoutModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ApproachMeasureScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/BeyondBoundsLayout.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ContentScale.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/IntrinsicMeasurable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/IntrinsicMeasureScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Layout.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutCoordinates.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutId.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutInfo.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LookaheadLayoutCoordinates.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LookaheadScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Measurable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/MeasurePolicy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/MeasureScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Measured.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/MultiContentMeasurePolicy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/OnGloballyPositionedModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/OnPlacedModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/OnRemeasuredModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ParentDataModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/PinnableContainer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Placeable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/PlacementScopeMarker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/RemeasurementModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/RootMeasurePolicy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Ruler.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ScaleFactor.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/SubcomposeLayout.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/TestModifierUpdater.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocal.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalConsumer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/BackwardsCompatNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ComposeUiNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/CompositionLocalConsumerModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DelegatableNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DelegatingNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DepthSortedSet.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DrawModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/GlobalPositionAwareModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/HitTestResult.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/InnerNodeCoordinator.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/InternalCoreApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/InteroperableComposeUiNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/IntrinsicsPolicy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutAwareModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutModifierNodeCoordinator.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNodeAlignmentLines.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNodeDrawScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNodeLayoutDelegate.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutTreeConsistencyChecker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LookaheadDelegate.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MeasureAndLayoutDelegate.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MeasureBlocks.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MeasureScopeWithLayoutNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ModifierNodeElement.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MutableVectorWithMutationTracking.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MyersDiff.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NestedVectorStack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NodeChain.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NodeCoordinator.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NodeKind.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ObserverModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OnPositionedDispatcher.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OwnedLayer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/Owner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OwnerScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OwnerSnapshotObserver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ParentDataModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/PointerInputModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/Ref.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/RootForTest.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/SemanticsModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/TraversableNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/TreeSet.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/node/WeakReference.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/AccessibilityManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/AtomicInt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ClassHelpers.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ClipboardManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/CompositionLocals.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/DebugUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InfiniteAnimationPolicy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InspectableValue.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InspectionMode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InvertMatrix.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/PlatformTextInputMethodRequest.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/PlatformTextInputModifierNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ShapeContainingUtil.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/SoftwareKeyboardController.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/Subcomposition.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/Synchronization.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/TestTag.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/TextToolbar.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/TextToolbarStatus.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/UriHandler.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ViewConfiguration.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/WindowInfo.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsConfiguration.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsModifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsProperties.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsSort.kt"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/state/ToggleableState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/text/TextMeasurerHelper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/viewinterop/InteropView.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/viewinterop/InteropViewFactoryHolder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/window/Dialog.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/window/Popup.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/Actual.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/AtomicReference.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/node/JvmTreeSet.jvm.kt"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/node/WeakReference.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/platform/JvmActuals.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AndroidAutofill.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AutofillCallback.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/vector/compat/AndroidVectorResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/vector/compat/XmlVectorParser.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/MotionEventAdapter.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidComposeView.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidFontResourceLoader.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/ColorResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/ImageResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/PrimitiveResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/StringResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/VectorResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/InputState.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/RecordingInputConnection.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/TextInputServiceAndroid.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/Alignment.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/Modifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/Autofill.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/AutofillTree.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/DrawModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/ImageVector.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/Vector.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/InternalPointerInput.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerInputTestUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/util/VelocityTracker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/IntrinsicMeasurable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/DebugUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InspectionMode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/TestTag.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsConfiguration.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsProperties.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AndroidAutofillType.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/hapticfeedback/PlatformHapticFeedback.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/key/Key.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/key/KeyEvent.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/InternalPointerEvent.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerEvent.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerInputEvent.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerInteropFilter.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerInteropUtils.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/node/UiApplier.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/node/ViewInterop.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AccessibilityIterators.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidClipboardManager.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidComposeViewAccessibilityDelegateCompat.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidCompositionLocals.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidTextToolbar.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidUriHandler.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidViewConfiguration.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidViewsHandler.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ComposeView.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/DeviceRenderNode.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/DisposableSaveableStateRegistry.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/GlobalSnapshotManager.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/OutlineResolver.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/RenderNodeApi23.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/RenderNodeApi29.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/RenderNodeLayer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewCompositionStrategy.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewLayer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewLayerContainer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewRootForTest.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/WindowRecomposer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/Wrapper.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/actionmodecallback/FloatingTextActionModeCallback.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/actionmodecallback/PrimaryTextActionModeCallback.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/actionmodecallback/TextActionModeCallback.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/FontResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/PainterResources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/AndroidView.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/AndroidViewHolder.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/window/AndroidDialog.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/window/AndroidPopup.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/window/SecureFlagPolicy.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/ComposedModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/ZIndexModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/AutofillType.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draganddrop/DragAndDropManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Alpha.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Clip.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/PainterModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Rotate.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Scale.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Shadow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusChangedModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusEventModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusOrderModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRequester.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRequesterModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTraversal.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/GraphicsLayerModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/GraphicsLayerScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/TransformOrigin.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/DrawCache.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/VectorCompose.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/VectorPainter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/hapticfeedback/HapticFeedback.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/hapticfeedback/HapticFeedbackType.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/Key.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/KeyEvent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/KeyInputModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/nestedscroll/NestedScrollModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/HitPathTracker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerEvent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerInputEventProcessor.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/SuspendingPointerInputFilter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/AlignmentLine.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ContentScale.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/IntrinsicMeasureScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Layout.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutCoordinates.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutId.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutInfo.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LayoutModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Measurable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/MeasureScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Measured.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/OnGloballyPositionedModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/OnRemeasuredModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ParentDataModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Placeable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/RemeasurementModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/RootMeasurePolicy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ScaleFactor.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/SubcomposeLayout.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/TestModifierUpdater.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DepthSortedSet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/InternalCoreApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNodeDrawScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNodeLayoutDelegate.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutTreeConsistencyChecker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MeasureAndLayoutDelegate.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MeasureBlocks.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OnPositionedDispatcher.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OwnedLayer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/Owner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OwnerScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/OwnerSnapshotObserver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/Ref.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/TreeSet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/AtomicInt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ClassHelpers.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ClipboardManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/CompositionLocals.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InspectableValue.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/Subcomposition.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/TextToolbar.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/TextToolbarStatus.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/UriHandler.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ViewConfiguration.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/state/ToggleableState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/window/Popup.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/node/JvmTreeSet.jvm.kt"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/platform/JvmActuals.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/pointer/PointerIcon.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/layout/GraphicLayerInfo.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidAccessibilityManager.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidUiDispatcher.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidUiFrameClock.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/LayerMatrixCache.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ViewRootForInspector.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/WeakCache.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/accessibility/CollectionInfo.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/InputEventCallback2.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/InputMethodManager.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/UiComposable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draw/Blur.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusProperties.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTransactions.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/OneDimensionalFocusSearch.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/TwoDimensionalFocusSearch.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/VectorComposable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/InputModeManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/PointerIcon.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/rotary/RotaryInputModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/rotary/RotaryScrollEvent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/MeasurePolicy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/OnPlacedModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocal.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalConsumer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ComposeUiNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/HitTestResult.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/IntrinsicsPolicy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutNodeAlignmentLines.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/RootForTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/AccessibilityManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InfiniteAnimationPolicy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/InvertMatrix.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/ShapeContainingUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/SoftwareKeyboardController.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/Synchronization.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/WindowInfo.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/NestedScrollInteropConnection.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/res/Resources.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/semantics/SemanticsProperties.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/CursorAnchorInfoBuilder.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/Expect.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/MotionDurationScale.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/BeyondBoundsLayout.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusInvalidationManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/nestedscroll/NestedScrollNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/internal/JvmDefaultWithCompatibility.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/BeyondBoundsLayout.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LookaheadLayoutCoordinates.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/LookaheadScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/MultiContentMeasurePolicy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/PinnableContainer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/Ruler.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/modifier/ModifierLocalModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/BackwardsCompatNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DelegatableNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DelegatingNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/DrawModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/GlobalPositionAwareModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/InnerNodeCoordinator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutAwareModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LayoutModifierNodeCoordinator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/LookaheadDelegate.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MeasureScopeWithLayoutNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ModifierNodeElement.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MutableVectorWithMutationTracking.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/MyersDiff.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NestedVectorStack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NodeChain.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NodeCoordinator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/NodeKind.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ObserverModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/ParentDataModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/PointerInputModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/SemanticsModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/text/TextMeasurerHelper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/Actual.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/draganddrop/ComposeDragShadowBuilder.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/draganddrop/DragAndDrop.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/focus/FocusInteropUtils.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/input/rotary/RotaryScrollEvent.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/AndroidPlatformTextInputSession.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/ClipboardExtensions.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/PlatformTextInputMethodRequest.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/PlatformTextInputSession.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/AutofillIdCompat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/ContentCaptureSessionCompat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/ViewCompatShims.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/coreshims/ViewStructureCompat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/CursorAnchorInfoController.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/text/input/NullableInputConnectionWrapper.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/InteropView.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/InteropViewFactoryHolder.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/AtomicReference.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/SessionMutex.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draganddrop/DragAndDrop.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/draganddrop/DragAndDropNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusDirection.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusEventModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusOwnerImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusPropertiesModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRequesterModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusRestorer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTargetModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTargetNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/focus/FocusTransactionManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/KeyInputModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/SoftKeyboardInterceptionModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/key/SoftwareKeyboardInterceptionModifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/pointer/util/PointerIdArray.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/input/rotary/RotaryInputModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/internal/InlineClassHelper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/PlacementScopeMarker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/CompositionLocalConsumerModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/InteroperableComposeUiNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/TraversableNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/node/WeakReference.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/PlatformTextInputMethodRequest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/platform/PlatformTextInputModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/semantics/SemanticsSort.kt"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/viewinterop/InteropView.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/viewinterop/InteropViewFactoryHolder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/AtomicReference.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/node/WeakReference.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/AutofillUtils.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/ContentDataType.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/autofill/ContentType.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/contentcapture/AndroidContentCaptureManager.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/contentcapture/ContentCaptureManager.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/node/DelegatableNode.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/GraphicsLayerOwnerLayer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/platform/SemanticsUtils.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/scrollcapture/ComposeScrollCaptureCallback.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/scrollcapture/ScrollCapture.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/viewinterop/FocusGroupNode.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/ContentDataType.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/autofill/ContentType.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ApproachLayoutModifierNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/layout/ApproachMeasureScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/window/Dialog.kt"
+        start_line: 2
+        end_line: 2

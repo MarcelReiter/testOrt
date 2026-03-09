@@ -1,0 +1,137 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/android/tools/annotations/31.13.2/annotations-31.13.2-sources.jar"
+      hash:
+        value: "2dff0483cbbfde717e139107b065a36b4a64b982"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:11:59.000668042Z"
+    end_time: "2026-03-04T12:12:02.000201352Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "NOTICE"
+        start_line: 4
+        end_line: 189
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/NonNull.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/Nullable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/TestOnly.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/VisibleForTesting.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/concurrency/AnyThread.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/concurrency/GuardedBy.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/concurrency/Immutable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/concurrency/Slow.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/concurrency/UiThread.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/annotations/concurrency/WorkerThread.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2005-2013, The Android Open Source Project"
+      location:
+        path: "NOTICE"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/NonNull.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/Nullable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/VisibleForTesting.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/concurrency/GuardedBy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/concurrency/Immutable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/concurrency/AnyThread.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/concurrency/Slow.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/concurrency/UiThread.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/concurrency/WorkerThread.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/annotations/TestOnly.java"
+        start_line: 2
+        end_line: 2

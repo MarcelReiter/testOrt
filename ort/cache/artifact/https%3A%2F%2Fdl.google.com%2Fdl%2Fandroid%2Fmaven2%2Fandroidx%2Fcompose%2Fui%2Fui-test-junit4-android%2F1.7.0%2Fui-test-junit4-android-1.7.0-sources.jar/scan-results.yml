@@ -1,0 +1,49 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-test-junit4-android/1.7.0/ui-test-junit4-android-1.7.0-sources.jar"
+      hash:
+        value: "1d5b2336ba824d4fc68ea12e83d4edc04fc8a843"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:45:51.000099763Z"
+    end_time: "2026-03-04T12:45:53.000269333Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/test/junit4/AndroidComposeTestRule.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/test/junit4/StateRestorationTester.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/test/junit4/ComposeTestRule.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/test/junit4/AndroidComposeTestRule.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/test/junit4/StateRestorationTester.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/test/junit4/ComposeTestRule.jvm.kt"
+        start_line: 2
+        end_line: 2

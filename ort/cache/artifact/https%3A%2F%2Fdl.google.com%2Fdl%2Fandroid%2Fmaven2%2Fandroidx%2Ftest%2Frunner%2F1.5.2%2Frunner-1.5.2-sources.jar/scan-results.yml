@@ -1,0 +1,1248 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/test/runner/1.5.2/runner-1.5.2-sources.jar"
+      hash:
+        value: "afd05fc4f8a8375097741bd497654ccbefd63b89"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:15:51.000354763Z"
+    end_time: "2026-03-04T14:15:57.000972064Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/AbstractFilter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/CustomFilter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/FlakyTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/LargeTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/MediumTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/RequiresDevice.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/SdkSuppress.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/SmallTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/filters/Suppress.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/JUnitDescriptionParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/JUnitValidator.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/OrchestratedInstrumentationListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestDiscoveryEventService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestDiscoveryEventServiceConnection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestDiscoveryListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClient.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClientArgs.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClientConnectListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClientException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestEventServiceConnection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestEventServiceConnectionBase.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestPlatformEventService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestPlatformEventServiceConnection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestPlatformListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestRunEventService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/TestRunEventServiceConnection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/client/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/events/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/AndroidLogOnlyBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/AndroidRunnerBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/ClassPathScanner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/DirectTestLoader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/EmptyTestRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/ErrorReportingRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/NonExecutingRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/RunnerArgs.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/ScanningTestLoader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/TestExecutor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/TestLoader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/TestRequestBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/TestSize.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/coverage/InstrumentationCoverageReporter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/coverage/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/filters/TestsRegExFilter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/filters/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidJUnit3Builder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidSuiteBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidTestResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidTestSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/DelegatingFilterableTestSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/DelegatingTestResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/DelegatingTestSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/JUnit38ClassRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/NonExecutingTestResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/NonExecutingTestSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/NonLeakyTestSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit3/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/AndroidAnnotatedBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/AndroidJUnit4Builder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/AndroidJUnit4ClassRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/RunAfters.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/RunBefores.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/UiThreadStatement.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/ActivityFinisherRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/CoverageListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/DelayInjector.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/InstrumentationResultPrinter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/InstrumentationRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/LogRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/SuiteAssignmentPrinter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/TraceRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/listener/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/tracker/AnalyticsBasedUsageTracker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/tracker/UsageTracker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/tracker/UsageTrackerRegistry.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/runner/tracker/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/util/AndroidRunnerBuilderUtil.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/util/AndroidRunnerParams.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/internal/util/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/callback/BundleConverter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/callback/NoOpOrchestratorConnection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/callback/OrchestratorV1Connection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/junit/BundleJUnitUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/junit/ParcelableDescription.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/junit/ParcelableFailure.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/junit/ParcelableResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/listeners/OrchestrationListenerManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/listeners/OrchestrationRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/ITestRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/TestIdentifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/TestResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/TestRunResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/AndroidJUnit4.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/AndroidJUnitRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/UsageTrackerFacilitator.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/intercepting/SingleActivityFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/permission/GrantPermissionCallable.java"
+        start_line: 4
+        end_line: 14
+      score: 98.82
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/permission/PermissionRequester.java"
+        start_line: 4
+        end_line: 14
+      score: 98.82
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/permission/RequestPermissionCallable.java"
+        start_line: 4
+        end_line: 14
+      score: 98.82
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/permission/ShellCommand.java"
+        start_line: 4
+        end_line: 14
+      score: 98.82
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/permission/UiAutomationShellCommand.java"
+        start_line: 4
+        end_line: 14
+      score: 98.82
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/screenshot/BasicScreenCaptureProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/screenshot/ScreenCapture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/screenshot/ScreenCaptureProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/screenshot/Screenshot.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/screenshot/TakeScreenshotCallable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/screenshot/UiAutomationWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/suites/AndroidClasspathSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/runner/suites/PackagePrefixClasspathSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/ITestRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/TestIdentifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/TestResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/listeners/result/TestRunResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/AndroidRunnerBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/ClassPathScanner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/TestLoader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/TestRequestBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidTestSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/NonExecutingTestResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/AndroidJUnit4ClassRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/CoverageListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/DelayInjector.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/InstrumentationResultPrinter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/InstrumentationRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/AndroidJUnitRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/LogRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/FlakyTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/RequiresDevice.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/SdkSuppress.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidTestResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/DelegatingFilterableTestSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/DelegatingTestResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/DelegatingTestSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/NonLeakyTestSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/UiThreadStatement.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/util/AndroidRunnerParams.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/AndroidJUnit4.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/TestExecutor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidJUnit3Builder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/AndroidSuiteBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/NonExecutingTestSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/AndroidAnnotatedBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/AndroidJUnit4Builder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/util/AndroidRunnerBuilderUtil.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/LargeTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/MediumTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/SmallTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/Suppress.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/OrchestratedInstrumentationListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/AndroidLogOnlyBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/NonExecutingRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/RunnerArgs.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/TestSize.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/RunAfters.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/RunBefores.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/SuiteAssignmentPrinter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/UsageTrackerFacilitator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/intercepting/SingleActivityFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/permission/GrantPermissionCallable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/permission/PermissionRequester.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/permission/RequestPermissionCallable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/permission/ShellCommand.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/permission/UiAutomationShellCommand.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/screenshot/BasicScreenCaptureProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/screenshot/ScreenCapture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/screenshot/ScreenCaptureProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/screenshot/Screenshot.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/screenshot/TakeScreenshotCallable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/screenshot/UiAutomationWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/JUnit38ClassRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/ActivityFinisherRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/tracker/AnalyticsBasedUsageTracker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/tracker/UsageTracker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/tracker/UsageTrackerRegistry.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/junit/BundleJUnitUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/junit/ParcelableDescription.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/junit/ParcelableFailure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/junit/ParcelableResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/listeners/OrchestrationListenerManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/listeners/OrchestrationRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/AbstractFilter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClientConnectListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/filters/TestsRegExFilter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestDiscoveryEventService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestDiscoveryEventServiceConnection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestDiscoveryListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClient.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClientArgs.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestEventClientException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestEventServiceConnection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestEventServiceConnectionBase.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestPlatformEventService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestPlatformEventServiceConnection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestRunEventService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestRunEventServiceConnection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/coverage/InstrumentationCoverageReporter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/callback/BundleConverter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/callback/OrchestratorV1Connection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/JUnitDescriptionParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/JUnitValidator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/TestPlatformListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/DirectTestLoader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/EmptyTestRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/ErrorReportingRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/ScanningTestLoader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/TraceRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/orchestrator/callback/NoOpOrchestratorConnection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/suites/AndroidClasspathSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/runner/suites/PackagePrefixClasspathSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "androidx/test/filters/CustomFilter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/client/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/events/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/coverage/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/filters/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit3/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/junit4/statement/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/listener/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/runner/tracker/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/internal/util/package-info.java"
+        start_line: 2
+        end_line: 2

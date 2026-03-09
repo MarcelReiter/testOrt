@@ -1,0 +1,71 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.2.1/savedstate-1.2.1-sources.jar"
+      hash:
+        value: "58d4c9fd35e826d3bce813974006451ee9ba4344"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:19:59.000950445Z"
+    end_time: "2026-03-04T14:20:01.000912097Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/savedstate/Recreator.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/savedstate/SavedStateRegistry.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/savedstate/SavedStateRegistryController.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/savedstate/SavedStateRegistryOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/savedstate/ViewTreeSavedStateRegistryOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "androidx/savedstate/SavedStateRegistryController.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/savedstate/Recreator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/savedstate/SavedStateRegistry.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/savedstate/SavedStateRegistryOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/savedstate/ViewTreeSavedStateRegistryOwner.kt"
+        start_line: 2
+        end_line: 2

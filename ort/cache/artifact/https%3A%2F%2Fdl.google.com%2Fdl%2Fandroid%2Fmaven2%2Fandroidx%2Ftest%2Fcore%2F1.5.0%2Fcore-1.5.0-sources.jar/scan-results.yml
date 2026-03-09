@@ -1,0 +1,170 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/test/core/1.5.0/core-1.5.0-sources.jar"
+      hash:
+        value: "d4ea5ffd68fc05c1e952467fb884f0d82b44ec3b"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:52:04.000149962Z"
+    end_time: "2026-03-04T13:52:06.000847507Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/app/ActivityScenario.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/app/ApplicationProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/app/DirectExecutor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/app/InstrumentationActivityInvoker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/app/ListFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/content/pm/ApplicationInfoBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/content/pm/PackageInfoBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/os/Parcelables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/core/view/MotionEventBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/app/DeviceCapture.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/graphics/BitmapStorageExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/internal/os/HandlerExecutor.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/view/ViewCapture.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/view/WindowCapture.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/app/ActivityScenario.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/app/ApplicationProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/app/InstrumentationActivityInvoker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/content/pm/ApplicationInfoBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/content/pm/PackageInfoBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/os/Parcelables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/view/MotionEventBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/app/DirectExecutor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/test/core/app/ListFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/app/DeviceCapture.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/graphics/BitmapStorageExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/internal/os/HandlerExecutor.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/view/ViewCapture.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "third_party/android/androidx_test/core/java/androidx/test/core/view/WindowCapture.kt"
+        start_line: 2
+        end_line: 2

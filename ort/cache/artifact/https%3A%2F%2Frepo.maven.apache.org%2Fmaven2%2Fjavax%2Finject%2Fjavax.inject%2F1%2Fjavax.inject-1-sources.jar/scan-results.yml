@@ -1,0 +1,93 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar"
+      hash:
+        value: "a00123f261762a7c5e0ec916a2c7c8298d29c400"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:19:13.000508010Z"
+    end_time: "2026-03-04T14:19:15.000458761Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "javax/inject/Inject.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "javax/inject/Named.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "javax/inject/Provider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "javax/inject/Qualifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "javax/inject/Scope.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "javax/inject/Singleton.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "javax/inject/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2009 The JSR-330 Expert Group"
+      location:
+        path: "javax/inject/Inject.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The JSR-330 Expert Group"
+      location:
+        path: "javax/inject/Named.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The JSR-330 Expert Group"
+      location:
+        path: "javax/inject/Provider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The JSR-330 Expert Group"
+      location:
+        path: "javax/inject/Qualifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The JSR-330 Expert Group"
+      location:
+        path: "javax/inject/Scope.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The JSR-330 Expert Group"
+      location:
+        path: "javax/inject/Singleton.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The JSR-330 Expert Group"
+      location:
+        path: "javax/inject/package-info.java"
+        start_line: 2
+        end_line: 2

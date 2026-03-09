@@ -1,0 +1,49 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/vectordrawable/vectordrawable/1.1.0/vectordrawable-1.1.0-sources.jar"
+      hash:
+        value: "1e0694477eed874c50c54b547cc3e5a62a57a62b"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:40:18.000611975Z"
+    end_time: "2026-03-04T13:40:22.000296484Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/vectordrawable/graphics/drawable/AndroidResources.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/vectordrawable/graphics/drawable/VectorDrawableCommon.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/vectordrawable/graphics/drawable/VectorDrawableCompat.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/vectordrawable/graphics/drawable/AndroidResources.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/vectordrawable/graphics/drawable/VectorDrawableCommon.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/vectordrawable/graphics/drawable/VectorDrawableCompat.java"
+        start_line: 2
+        end_line: 2

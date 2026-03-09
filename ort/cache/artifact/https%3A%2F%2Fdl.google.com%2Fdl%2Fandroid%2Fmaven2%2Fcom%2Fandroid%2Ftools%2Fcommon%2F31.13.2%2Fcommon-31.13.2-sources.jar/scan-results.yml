@@ -1,0 +1,1259 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/android/tools/common/31.13.2/common-31.13.2-sources.jar"
+      hash:
+        value: "6f5cd5d7793809b34f0b74a26cf6f6b921c039bb"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:52:57.000841558Z"
+    end_time: "2026-03-04T13:53:06.000447602Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "NOTICE"
+        start_line: 4
+        end_line: 189
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/AndroidProjectTypes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/AndroidXConstants.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ProgressManagerAdapter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/SdkConstants.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ide/common/blame/Message.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ide/common/blame/SourceFile.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ide/common/blame/SourceFilePosition.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ide/common/blame/SourcePosition.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/CancellableFileIo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/FileWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/FolderWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/IAbstractFile.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/IAbstractFolder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/IAbstractResource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/Images.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/NonClosingInputStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/NonClosingOutputStream.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/io/StreamException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/prefs/AbstractAndroidLocations.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/prefs/AndroidLocation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/prefs/AndroidLocationsException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/prefs/AndroidLocationsProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/prefs/AndroidLocationsSingleton.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/resources/NamespaceReferenceRewriter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/resources/RClassNaming.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/sdklib/AndroidApiLevel.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/sdklib/AndroidMajorVersion.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/sdklib/AndroidVersion.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/sdklib/AndroidVersionUtil.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/support/AndroidxMigrationParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/support/AndroidxName.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/support/AndroidxNameUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/support/FragmentTagUtil.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/testing/utils/ManagedDeviceUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/testing/utils/SystemImageHashUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/tools/proguard/ProguardMap.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/tools/proguard/ProguardSeedsMap.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/tools/proguard/ProguardUsagesMap.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/ArrayUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/Base128InputStream.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/Base128OutputStream.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/BuildScriptUtil.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/CharSequenceReader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/CharSequences.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/CloseableUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/CollectionsUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/ComputerArchUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/DataBindingUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/DecimalUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/DomExtensions.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/EnvironmentProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/FileUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/FlightRecorder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/GrabProcessOutput.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/HashCodes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/HelpfulEnumConverter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/HtmlBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/ILogger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/IReaderLogger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/JavaVersionUtil.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/JvmWideVariable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/LineCollector.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/NativeSourceFileExtensions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/NdkUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/NodeCollectionHelper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/NullLogger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/OffsetTrackingDecodedXmlValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/Pair.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/PathUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/PositionXmlParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/Retry.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/SdkUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/SparseArray.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/SparseIntArray.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/StdLogger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/StringHelper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/StringHelperPOSIX.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/StringHelperWindows.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/TokenizedCommandLine.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/TokenizedCommandLineMap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/TraceUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/XmlUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cache/ChangeTrackerCachedValue.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/concurrency/AsyncSupplier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/concurrency/CacheUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/concurrency/EvictingExecutorService.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/concurrency/ReadWriteProcessLock.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/concurrency/ReadWriteThreadLock.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/CompileCommandsCodec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/CxxDiagnosticCode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/collections/DoubleBuffer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/io/LexicalFilenameUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/io/ProgressReader.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamNinjaBuildCommands.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamNinjaBuildTokens.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamNinjaStatements.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamUnescapedNinja.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/ninja/WriteCompileCommandsJsonBin.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/os/OsBehavior.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/cxx/process/NativeBuildOutputClassifier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/function/RunOnce.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/reflection/ReflectionUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/sleep/TestThreadSleeper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/sleep/ThreadSleeper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/utils/text/TextUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/xml/AndroidManifest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/xml/AndroidXPathFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/xml/AttrNameSplitter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/xml/XmlBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/xml/sax/AttributeUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "tools/base/common/agp-version/Version.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "EPL-1.0"
+      location:
+        path: "com/android/utils/DateProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2005-2013, The Android Open Source Project"
+      location:
+        path: "NOTICE"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 The Android Open Source Project"
+      location:
+        path: "com/android/utils/ArrayUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 The Android Open Source Project"
+      location:
+        path: "com/android/utils/SparseArray.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 The Android Open Source Project"
+      location:
+        path: "com/android/utils/SparseIntArray.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/io/FileWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/io/FolderWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/io/IAbstractFile.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/io/IAbstractFolder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/io/IAbstractResource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/prefs/AndroidLocation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The Android Open Source Project"
+      location:
+        path: "com/android/xml/AndroidManifest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The Android Open Source Project"
+      location:
+        path: "com/android/xml/AndroidXPathFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/io/StreamException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/utils/Pair.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "com/android/utils/PositionXmlParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "com/android/io/NonClosingInputStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "com/android/utils/GrabProcessOutput.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "com/android/utils/ILogger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "com/android/utils/NullLogger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "com/android/utils/SdkUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "com/android/utils/StdLogger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "com/android/utils/XmlUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/utils/HtmlBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/utils/IReaderLogger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/utils/StringHelper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/utils/StringHelperPOSIX.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/utils/StringHelperWindows.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ProgressManagerAdapter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ide/common/blame/Message.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ide/common/blame/SourceFile.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ide/common/blame/SourceFilePosition.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ide/common/blame/SourcePosition.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/sdklib/AndroidVersion.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/utils/FileUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "com/android/io/CancellableFileIo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "com/android/utils/DateProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "com/android/utils/LineCollector.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "com/android/utils/NativeSourceFileExtensions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "com/android/utils/NdkUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "com/android/xml/XmlBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/support/AndroidxNameUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/tools/proguard/ProguardMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/tools/proguard/ProguardSeedsMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/tools/proguard/ProguardUsagesMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/CharSequenceReader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/CharSequences.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/HelpfulEnumConverter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/JvmWideVariable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/OffsetTrackingDecodedXmlValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/PathUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/concurrency/ReadWriteProcessLock.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/utils/concurrency/ReadWriteThreadLock.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/support/AndroidxMigrationParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/utils/DomExtensions.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/utils/HashCodes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/utils/TraceUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/utils/concurrency/CacheUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/AndroidProjectTypes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/io/NonClosingOutputStream.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/resources/NamespaceReferenceRewriter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/support/AndroidxName.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/Base128InputStream.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/Base128OutputStream.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/BuildScriptUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/DecimalUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/NodeCollectionHelper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/concurrency/AsyncSupplier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/concurrency/EvictingExecutorService.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/utils/reflection/ReflectionUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "tools/base/common/agp-version/Version.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/io/Images.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/prefs/AbstractAndroidLocations.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/prefs/AndroidLocationsException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/prefs/AndroidLocationsProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/prefs/AndroidLocationsSingleton.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/support/FragmentTagUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/utils/EnvironmentProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/utils/TokenizedCommandLine.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/utils/TokenizedCommandLineMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/CompileCommandsCodec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/CxxDiagnosticCode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/SdkConstants.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/testing/utils/SystemImageHashUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/utils/ComputerArchUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/utils/FlightRecorder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamNinjaBuildCommands.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamNinjaBuildTokens.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamNinjaStatements.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/ninja/StreamUnescapedNinja.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/AndroidXConstants.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/CollectionsUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/Retry.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/collections/DoubleBuffer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/io/LexicalFilenameUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/io/ProgressReader.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/ninja/WriteCompileCommandsJsonBin.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/os/OsBehavior.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cxx/process/NativeBuildOutputClassifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/sleep/TestThreadSleeper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/utils/sleep/ThreadSleeper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/resources/RClassNaming.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/sdklib/AndroidVersionUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/utils/CloseableUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/utils/DataBindingUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/utils/function/RunOnce.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/utils/text/TextUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/xml/AttrNameSplitter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/xml/sax/AttributeUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/testing/utils/ManagedDeviceUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/utils/JavaVersionUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/utils/cache/ChangeTrackerCachedValue.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2025 The Android Open Source Project"
+      location:
+        path: "com/android/sdklib/AndroidApiLevel.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2025 The Android Open Source Project"
+      location:
+        path: "com/android/sdklib/AndroidMajorVersion.kt"
+        start_line: 2
+        end_line: 2

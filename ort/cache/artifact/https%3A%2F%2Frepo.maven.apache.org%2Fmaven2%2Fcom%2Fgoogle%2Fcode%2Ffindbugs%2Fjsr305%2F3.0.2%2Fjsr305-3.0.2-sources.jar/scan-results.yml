@@ -1,0 +1,60 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar"
+      hash:
+        value: "b19b5927c2c25b6c70f093767041e641ae0b1b35"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:06:47.000295636Z"
+    end_time: "2026-03-04T13:06:49.000278876Z"
+    licenses:
+    - license: "CC-BY-2.5"
+      location:
+        path: "javax/annotation/concurrent/GuardedBy.java"
+        start_line: 3
+        end_line: 4
+      score: 100.0
+    - license: "CC-BY-2.5"
+      location:
+        path: "javax/annotation/concurrent/Immutable.java"
+        start_line: 3
+        end_line: 4
+      score: 100.0
+    - license: "CC-BY-2.5"
+      location:
+        path: "javax/annotation/concurrent/NotThreadSafe.java"
+        start_line: 3
+        end_line: 4
+      score: 100.0
+    - license: "CC-BY-2.5"
+      location:
+        path: "javax/annotation/concurrent/ThreadSafe.java"
+        start_line: 3
+        end_line: 4
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2005 Brian Goetz"
+      location:
+        path: "javax/annotation/concurrent/GuardedBy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2005 Brian Goetz"
+      location:
+        path: "javax/annotation/concurrent/Immutable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2005 Brian Goetz"
+      location:
+        path: "javax/annotation/concurrent/NotThreadSafe.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2005 Brian Goetz"
+      location:
+        path: "javax/annotation/concurrent/ThreadSafe.java"
+        start_line: 2
+        end_line: 2

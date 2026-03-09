@@ -1,0 +1,1677 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-android/1.7.0/runtime-android-1.7.0-sources.jar"
+      hash:
+        value: "6fae5593a43f4a7db94ff854b22cecf6c1d026ca"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:45:55.000372070Z"
+    end_time: "2026-03-04T12:46:06.000851859Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/ActualAndroid.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableDoubleState.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableFloatState.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableIntState.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableLongState.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableState.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/collection/ActualIntMap.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/runtime/internal/FloatingPointEquality.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Applier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/BitwiseOperators.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/BroadcastFrameClock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableInferredTarget.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableOpenTarget.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableTarget.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableTargetMarker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composables.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposeCompilerApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposeNodeLifecycleCallback.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposeVersion.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composition.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/CompositionContext.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/CompositionLocal.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/CompositionLocalMap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/DerivedState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/DisallowComposableCalls.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/DontMemoize.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Effects.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Expect.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ExperimentalComposeApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ExperimentalComposeRuntimeApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ExplicitGroupsComposable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/HotReloader.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Immutable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/InternalComposeApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/InternalComposeTracingApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/JoinedKey.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Latch.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/MonotonicFrameClock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/MovableContent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/NoLiveLiterals.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/NonRestartableComposable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/NonSkippableComposable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/OpaqueKey.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/PausableMonotonicFrameClock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Preconditions.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ProduceState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ReadOnlyComposable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/RecomposeScopeImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Recomposer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/RememberObserver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SlotTable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotDoubleState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotFloatState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotFlow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotIntState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotLongState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotMutationPolicy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotStateExtensions.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Stable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/StableMarker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Stack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/Trace.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/ValueHolders.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/ChangeList.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/ComposerChangeListWriter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/FixupList.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/Operation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/OperationArgContainer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/Operations.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/IntMap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/MutableVector.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/ScatterSetWrapper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/ScopeMap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableCollection.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableList.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableMap.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableSet.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/adapters/ReadOnlyCollectionAdapters.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/extensions.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/AbstractListIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/AbstractPersistentList.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/BufferIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVector.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVectorBuilder.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVectorIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVectorMutableIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/SmallPersistentVector.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/TrieIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/Utils.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMap.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapBuilder.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapBuilderContentIterators.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapBuilderContentViews.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapContentIterators.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapContentViews.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/TrieNode.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSet.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSetBuilder.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSetIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSetMutableIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/TrieNode.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMap.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapBuilder.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapBuilderContentIterators.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapBuilderContentViews.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapContentIterators.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapContentViews.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSet.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSetBuilder.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSetIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSetMutableIterator.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/EndOfChain.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/ForEachOneBit.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/ListImplementation.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/MutabilityOwnership.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/MutableCounter.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/commonFunctions.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/ComposableLambda.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/Decoy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/FloatingPointEquality.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/FunctionKeyMeta.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/IntRef.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/JvmDefaultWithCompatibility.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/LiveLiteral.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/PersistentCompositionLocalMap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/StabilityInferred.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/AutoboxingStateValueProperty.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/ListUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/Snapshot.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotContextElement.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotDoubleIndexHeap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotIdSet.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotMutableState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotStateList.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotStateMap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotStateObserver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotWeakSet.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/StateFactoryMarker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/StateObjectImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/tooling/CompositionData.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/tooling/CompositionObserver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/runtime/tooling/InspectionTables.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/runtime/ActualJvm.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/ComposableLambda.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/ComposableLambdaN.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/ThreadMap.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/runtime/reflect/ComposableMethod.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableCollection.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableList.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/ImmutableSet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/adapters/ReadOnlyCollectionAdapters.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/extensions.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/AbstractListIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/AbstractPersistentList.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/BufferIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVector.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVectorBuilder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVectorIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/PersistentVectorMutableIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/SmallPersistentVector.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/TrieIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableList/Utils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapBuilder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapBuilderContentIterators.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapBuilderContentViews.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapContentIterators.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/PersistentHashMapContentViews.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableMap/TrieNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSetBuilder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSetIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/PersistentHashSetMutableIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/immutableSet/TrieNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapBuilder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapBuilderContentIterators.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapBuilderContentViews.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapContentIterators.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedMap/PersistentOrderedMapContentViews.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSetBuilder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSetIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/implementations/persistentOrderedSet/PersistentOrderedSetMutableIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/EndOfChain.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/ListImplementation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/MutabilityOwnership.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/commonFunctions.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/ForEachOneBit.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "commonMain/androidx/compose/runtime/external/kotlinx/collections/immutable/internal/MutableCounter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/ActualAndroid.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Applier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composables.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Composition.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/CompositionContext.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/CompositionLocal.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Expect.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Immutable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/JoinedKey.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SlotTable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Stable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/StableMarker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Stack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Trace.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ValueHolders.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/runtime/ActualJvm.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/BitwiseOperators.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposeCompilerApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposeVersion.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Effects.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ExperimentalComposeApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/InternalComposeApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Latch.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/NoLiveLiterals.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/OpaqueKey.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/PausableMonotonicFrameClock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Recomposer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/MutableVector.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/ComposableLambda.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/Decoy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/FunctionKeyMeta.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/LiveLiteral.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/StabilityInferred.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/ListUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/Snapshot.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotIdSet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotStateList.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotStateMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotStateObserver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/tooling/InspectionTables.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/ComposableLambda.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/ComposableLambdaN.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableState.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/BroadcastFrameClock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableInferredTarget.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableOpenTarget.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableTarget.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposableTargetMarker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/DerivedState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/DisallowComposableCalls.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ExplicitGroupsComposable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/MonotonicFrameClock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/MovableContent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/NonRestartableComposable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ProduceState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ReadOnlyComposable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/RecomposeScopeImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/RememberObserver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotFlow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotMutationPolicy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotDoubleIndexHeap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotMutableState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/tooling/CompositionData.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/ThreadMap.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/InternalComposeTracingApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/JvmDefaultWithCompatibility.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotContextElement.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/SnapshotWeakSet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/runtime/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/runtime/reflect/ComposableMethod.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableDoubleState.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableFloatState.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableIntState.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/ParcelableSnapshotMutableLongState.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/collection/ActualIntMap.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/runtime/internal/FloatingPointEquality.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ComposeNodeLifecycleCallback.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/CompositionLocalMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/DontMemoize.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/ExperimentalComposeRuntimeApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/HotReloader.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/NonSkippableComposable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotDoubleState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotFloatState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotIntState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotLongState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/SnapshotStateExtensions.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/ChangeList.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/ComposerChangeListWriter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/FixupList.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/Operation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/OperationArgContainer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/changelist/Operations.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/IntMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/ScopeMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/FloatingPointEquality.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/IntRef.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/internal/PersistentCompositionLocalMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/AutoboxingStateValueProperty.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/StateFactoryMarker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/snapshots/StateObjectImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/tooling/CompositionObserver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/Preconditions.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/runtime/collection/ScatterSetWrapper.kt"
+        start_line: 2
+        end_line: 2

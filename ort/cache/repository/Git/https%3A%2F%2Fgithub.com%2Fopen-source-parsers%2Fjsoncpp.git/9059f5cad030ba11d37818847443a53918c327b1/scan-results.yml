@@ -1,0 +1,422 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/open-source-parsers/jsoncpp.git"
+      revision: "9059f5cad030ba11d37818847443a53918c327b1"
+      path: ""
+    resolved_revision: "9059f5cad030ba11d37818847443a53918c327b1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:12:27.000672983Z"
+    end_time: "2026-03-04T13:12:34.000691144Z"
+    licenses:
+    - license: "LicenseRef-scancode-public-domain"
+      location:
+        path: "meson.build"
+        start_line: 17
+        end_line: 17
+      score: 99.0
+    - license: "LicenseRef-scancode-public-domain OR MIT"
+      location:
+        path: "LICENSE"
+        start_line: 5
+        end_line: 23
+      score: 95.92
+    - license: "LicenseRef-scancode-public-domain OR MIT"
+      location:
+        path: "LICENSE"
+        start_line: 50
+        end_line: 55
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: ".travis_scripts/run-clang-format.py"
+        start_line: 8
+        end_line: 9
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE"
+        start_line: 28
+        end_line: 46
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "README.md"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "README.md"
+        start_line: 66
+        end_line: 67
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "devtools/__init__.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "devtools/antglob.py"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "devtools/fixeol.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "devtools/licenseupdater.py"
+        start_line: 10
+        end_line: 10
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "devtools/tarball.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "doc/jsoncpp.dox"
+        start_line: 155
+        end_line: 155
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/allocator.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/assertions.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/config.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/forwards.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/json.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/json_features.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/reader.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/value.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "include/json/writer.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/jsontestrunner/main.cpp"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/lib_json/json_reader.cpp"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/lib_json/json_tool.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/lib_json/json_value.cpp"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/lib_json/json_valueiterator.inl"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/lib_json/json_writer.cpp"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/test_lib_json/fuzz.cpp"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/test_lib_json/fuzz.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/test_lib_json/jsontest.cpp"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/test_lib_json/jsontest.h"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/test_lib_json/main.cpp"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "test/cleantests.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "test/generate_expected.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "test/pyjsontestrunner.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "test/runjsontests.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "test/rununittests.py"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT OR CC0-1.0"
+      location:
+        path: "cmake/JoinPaths.cmake"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "LICENSE"
+        start_line: 2
+        end_line: 3
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "LICENSE"
+        start_line: 26
+        end_line: 26
+    - statement: "Copyright (c) 2007-2010 by Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "LICENSE"
+        start_line: 10
+        end_line: 11
+    - statement: "Copyright (c) 2016 InfoTeCS JSC."
+      location:
+        path: "src/lib_json/json_reader.cpp"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2007 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "test/cleantests.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "test/generate_expected.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "test/pyjsontestrunner.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "test/runjsontests.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/allocator.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/assertions.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/config.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/forwards.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/json.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/json_features.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/reader.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/value.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "include/json/writer.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/jsontestrunner/main.cpp"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/lib_json/json_tool.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/lib_json/json_valueiterator.inl"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/test_lib_json/jsontest.cpp"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/test_lib_json/jsontest.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/test_lib_json/main.cpp"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2010 The JsonCpp Authors"
+      location:
+        path: "src/test_lib_json/fuzz.h"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2011 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/lib_json/json_reader.cpp"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2007-2019 The JsonCpp Authors"
+      location:
+        path: "src/test_lib_json/fuzz.cpp"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2009 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "devtools/antglob.py"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2009 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "test/rununittests.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "devtools/__init__.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "devtools/fixeol.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2010 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "devtools/tarball.py"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2011 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/lib_json/json_value.cpp"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2011 Baptiste Lepilleur and The JsonCpp Authors"
+      location:
+        path: "src/lib_json/json_writer.cpp"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Jan Tojnar https://github.com/jtojnar/cmake-snips"
+      location:
+        path: "cmake/JoinPaths.cmake"
+        start_line: 5
+        end_line: 6

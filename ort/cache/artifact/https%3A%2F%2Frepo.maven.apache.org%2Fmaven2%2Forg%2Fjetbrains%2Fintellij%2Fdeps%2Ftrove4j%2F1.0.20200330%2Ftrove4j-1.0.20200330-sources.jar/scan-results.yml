@@ -1,0 +1,2226 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/trove4j/1.0.20200330/trove4j-1.0.20200330-sources.jar"
+      hash:
+        value: "5fc2da70caaebed24734161c6c33648a15396917"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:13:00.000006735Z"
+    end_time: "2026-03-04T13:13:16.000018457Z"
+    licenses:
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/SerializationProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteArrayList.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteByteHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteByteIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteByteProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteDoubleHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteDoubleIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteDoubleProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteFloatHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteFloatIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteFloatProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteFunction.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteHash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteHashSet.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteHashingStrategy.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteIntHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteIntIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteIntProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteLongHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteLongIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteLongProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteObjectHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteObjectIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteObjectProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TByteProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleArrayList.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleByteHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleByteIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleByteProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleDoubleHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleDoubleIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleDoubleProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleFloatHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleFloatIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleFloatProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleFunction.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleHash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleHashSet.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleHashingStrategy.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleIntHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleIntIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleIntProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleLongHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleLongIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleLongProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleObjectHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleObjectIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleObjectProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TDoubleProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatArrayList.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatByteHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatByteIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatByteProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatDoubleHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatDoubleIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatDoubleProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatFloatHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatFloatIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatFloatProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatFunction.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatHash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatHashSet.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatHashingStrategy.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatIntHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatIntIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatIntProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatLongHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatLongIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatLongProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatObjectHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatObjectIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatObjectProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TFloatProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/THash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/THashIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/THashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/THashSet.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntArrayList.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntByteHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntByteIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntByteProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntDoubleHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntDoubleIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntDoubleProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntFloatHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntFloatIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntFloatProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntFunction.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntHash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntHashSet.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntHashingStrategy.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntIntHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntIntIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntIntProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntLongHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntLongIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntLongProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntObjectHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntObjectIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntObjectProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIntStack.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLinkable.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLinkableAdaptor.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLinkedList.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongArrayList.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongByteHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongByteIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongByteProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongDoubleHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongDoubleIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongDoubleProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongFloatHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongFloatIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongFloatProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongFunction.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongHash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongHashSet.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongHashingStrategy.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongIntHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongIntIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongIntProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongLongHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongLongIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongLongProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongObjectHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongObjectIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongObjectProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TLongProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectByteHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectByteIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectByteProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectDoubleHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectDoubleIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectDoubleProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectFloatHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectFloatIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectFloatProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectFunction.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectHash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectHashIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectIntHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectIntIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectIntProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectLongHashMap.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectLongIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectLongProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectObjectProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TObjectProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TPrimitiveHash.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/TPrimitiveIterator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/ToObjectArrayProcedure.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TByteByteHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TByteDoubleHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TByteFloatHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TByteHashSetDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TByteIntHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TByteLongHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TByteObjectHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TDoubleByteHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TDoubleDoubleHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TDoubleFloatHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TDoubleHashSetDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TDoubleIntHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TDoubleLongHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TDoubleObjectHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TFloatByteHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TFloatDoubleHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TFloatFloatHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TFloatHashSetDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TFloatIntHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TFloatLongHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TFloatObjectHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TIntByteHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TIntDoubleHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TIntFloatHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TIntHashSetDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TIntIntHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TIntLongHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TIntObjectHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TLongByteHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TLongDoubleHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TLongFloatHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TLongHashSetDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TLongIntHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TLongLongHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TLongObjectHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TObjectByteHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TObjectDoubleHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TObjectFloatHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TObjectIntHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LGPL-2.1-or-later"
+      location:
+        path: "gnu/trove/decorator/TObjectLongHashMapDecorator.java"
+        start_line: 4
+        end_line: 16
+      score: 100.0
+    - license: "LicenseRef-scancode-mit-old-style"
+      location:
+        path: "gnu/trove/HashFunctions.java"
+        start_line: 1
+        end_line: 9
+      score: 93.67
+    - license: "LicenseRef-scancode-mit-old-style"
+      location:
+        path: "gnu/trove/PrimeFinder.java"
+        start_line: 1
+        end_line: 9
+      score: 93.67
+    copyrights:
+    - statement: "Copyright (c) 1999 CERN - European Organization for Nuclear Research"
+      location:
+        path: "gnu/trove/HashFunctions.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteArrayList.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteByteHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteByteIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteByteProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteDoubleHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteDoubleIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteDoubleProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteFloatHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteFloatIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteFloatProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteHash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteHashSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteIntHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteIntIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteIntProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteLongHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteLongIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteLongProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteObjectHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteObjectIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteObjectProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleArrayList.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleByteHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleByteIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleByteProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleDoubleHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleDoubleIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleDoubleProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleFloatHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleFloatIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleFloatProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleHash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleHashSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleIntHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleIntIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleIntProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleLongHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleLongIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleLongProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleObjectHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleObjectIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleObjectProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatArrayList.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatByteHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatByteIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatByteProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatDoubleHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatDoubleIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatDoubleProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatFloatHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatFloatIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatFloatProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatHash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatHashSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatIntHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatIntIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatIntProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatLongHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatLongIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatLongProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatObjectHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatObjectIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatObjectProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/THash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/THashIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/THashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/THashSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntArrayList.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntByteHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntByteIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntByteProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntDoubleHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntDoubleIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntDoubleProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntFloatHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntFloatIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntFloatProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntHash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntHashSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntIntHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntIntIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntIntProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntLongHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntLongIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntLongProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntObjectHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntObjectIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntObjectProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntStack.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLinkable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLinkedList.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongArrayList.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongByteHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongByteIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongByteProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongDoubleHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongDoubleIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongDoubleProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongFloatHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongFloatIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongFloatProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongHash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongHashSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongIntHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongIntIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongIntProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongLongHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongLongIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongLongProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongObjectHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongObjectIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongObjectProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectByteHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectByteIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectByteProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectDoubleHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectDoubleIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectDoubleProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectFloatHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectFloatIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectFloatProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectHash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectHashIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectIntHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectIntIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectIntProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectLongHashMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectLongIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectLongProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectObjectProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TPrimitiveHash.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TPrimitiveIterator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Eric D. Friedman"
+      location:
+        path: "gnu/trove/ToObjectArrayProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2001, Jason Baldridge"
+      location:
+        path: "gnu/trove/TLinkableAdaptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/SerializationProcedure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TByteHashingStrategy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TDoubleHashingStrategy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TFloatHashingStrategy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TIntHashingStrategy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TLongHashingStrategy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectHashingStrategy.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/TObjectIdentityHashingStrategy.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TByteByteHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TByteDoubleHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TByteFloatHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TByteHashSetDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TByteIntHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TByteLongHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TByteObjectHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TDoubleByteHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TDoubleDoubleHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TDoubleFloatHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TDoubleHashSetDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TDoubleIntHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TDoubleLongHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TDoubleObjectHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TFloatByteHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TFloatDoubleHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TFloatFloatHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TFloatHashSetDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TFloatIntHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TFloatLongHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TFloatObjectHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TIntByteHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TIntDoubleHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TIntFloatHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TIntHashSetDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TIntIntHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TIntLongHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TIntObjectHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TLongByteHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TLongDoubleHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TLongFloatHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TLongHashSetDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TLongIntHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TLongLongHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TLongObjectHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TObjectByteHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TObjectDoubleHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TObjectFloatHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TObjectIntHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2002, Eric D. Friedman"
+      location:
+        path: "gnu/trove/decorator/TObjectLongHashMapDecorator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 1999 CERN - European Organization for Nuclear Research"
+      location:
+        path: "gnu/trove/PrimeFinder.java"
+        start_line: 1
+        end_line: 1

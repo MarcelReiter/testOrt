@@ -1,0 +1,49 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/resourceinspection/resourceinspection-annotation/1.0.1/resourceinspection-annotation-1.0.1-sources.jar"
+      hash:
+        value: "a1c91a3cf63fd51a8e755747186d97585f955ae3"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T10:44:57.000034378Z"
+    end_time: "2026-03-04T10:44:59.000038987Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/resourceinspection/annotation/AppCompatShadowedAttributes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/resourceinspection/annotation/Attribute.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/resourceinspection/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/resourceinspection/annotation/AppCompatShadowedAttributes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/resourceinspection/annotation/Attribute.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/resourceinspection/package-info.java"
+        start_line: 2
+        end_line: 2

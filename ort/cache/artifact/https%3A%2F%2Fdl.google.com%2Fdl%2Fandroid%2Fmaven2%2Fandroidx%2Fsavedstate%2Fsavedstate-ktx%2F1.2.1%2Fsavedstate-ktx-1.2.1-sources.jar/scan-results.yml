@@ -1,0 +1,27 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-ktx/1.2.1/savedstate-ktx-1.2.1-sources.jar"
+      hash:
+        value: "396eb83ce13cac3986e1e8a8b60f60ac0447ffbf"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:45:51.000171293Z"
+    end_time: "2026-03-04T13:45:52.000908888Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/savedstate/View.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/savedstate/View.kt"
+        start_line: 2
+        end_line: 2

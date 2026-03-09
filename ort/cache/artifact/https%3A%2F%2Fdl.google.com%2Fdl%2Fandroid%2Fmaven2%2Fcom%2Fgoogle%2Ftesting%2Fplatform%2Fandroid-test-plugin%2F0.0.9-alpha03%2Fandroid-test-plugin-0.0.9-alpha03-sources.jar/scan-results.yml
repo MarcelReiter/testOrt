@@ -1,0 +1,126 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/google/testing/platform/android-test-plugin/0.0.9-alpha03/android-test-plugin-0.0.9-alpha03-sources.jar"
+      hash:
+        value: "ad0345b68c1626acc66366b383eb6fa0fbd1f5ae"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:52:08.000963723Z"
+    end_time: "2026-03-04T13:52:12.000890735Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/api/context/ContextExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/plugin/PluginErrorSummary.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/network/AdbNetworkSocket.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/Instrumentation.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/logging/jvm/LoggerExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/android/AndroidDevicePlugin.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderExpects.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderProvides.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/common/BaseHostPlugin.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/controller/ext/AndroidDeviceControllerExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/plugin/PluginErrorSummary.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/android/AndroidDevicePlugin.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/network/AdbNetworkSocket.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/Instrumentation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/logging/jvm/LoggerExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/controller/ext/AndroidDeviceControllerExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/common/BaseHostPlugin.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderExpects.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderProvides.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/api/context/ContextExt.kt"
+        start_line: 2
+        end_line: 2

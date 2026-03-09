@@ -1,0 +1,3620 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/google/auto.git"
+      revision: ""
+      path: ""
+    resolved_revision: "ae5b0581600dcdd23748c8fcf12e91fba935d557"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:40:40.000140711Z"
+    end_time: "2026-03-04T13:40:58.000418838Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 27
+        end_line: 27
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE"
+        start_line: 2
+        end_line: 202
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 36
+        end_line: 50
+      score: 98.84
+    - license: "Apache-2.0"
+      location:
+        path: "common/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/pom.xml"
+        start_line: 57
+        end_line: 58
+      score: 61.11
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/AnnotationMirrors.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/AnnotationOutput.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/AnnotationValues.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/BasicAnnotationProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/GeneratedAnnotationSpecs.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/GeneratedAnnotations.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/MoreElements.java"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/MoreStreams.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/MoreTypes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/Overrides.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/SimpleAnnotationMirror.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/SimpleTypeAnnotationValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/SuperficialValidation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/Visibility.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/com/google/auto/common/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/AnnotationMirrorsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/AnnotationValuesTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/BasicAnnotationProcessorTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/GeneratedAnnotationsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/MoreElementsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/MoreTypesIsTypeOfTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/MoreTypesTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/OverridesTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/SimpleAnnotationMirrorTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/SimpleTypeAnnotationValueTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/SuperficialValidationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/test/java/com/google/auto/common/VisibilityTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/README.md"
+        start_line: 83
+        end_line: 98
+      score: 98.84
+    - license: "Apache-2.0"
+      location:
+        path: "factory/pom.xml"
+        start_line: 6
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/pom.xml"
+        start_line: 53
+        end_line: 54
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/pom.xml"
+        start_line: 54
+        end_line: 55
+      score: 75.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/DaggerModule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/Dependency.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/DependencyImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/FactoryComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/FactoryInterface.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/Foo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/GenericFoo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/GuiceModule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/QualifiedDependencyImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/Qualifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/ReferencePackage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/otherpackage/OtherPackage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/AutoFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/Provided.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/AnnotationValues.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/AutoFactoryDeclaration.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/AutoFactoryProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Elements2.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryDescriptorGenerator.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryMethodDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryWriter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/ImplementationMethodDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Key.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Mirrors.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/PackageAndClass.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Parameter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/ProvidedChecker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/ProviderField.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/TypeVariables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/package-info.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/java/com/google/auto/factory/processor/AutoFactoryDeclarationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/java/com/google/auto/factory/processor/AutoFactoryProcessorTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/EnumSupertype.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/FactoryExtendingAbstractClassWithConstructorParams.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/FinalSupertype.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/InterfaceSupertype.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/InvalidCustomName.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/MixedFinals.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/ProvidedButNoAutoFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/bad/ProvidedOnMethodParameter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/CheckerFrameworkNullableFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/ClassUsingQualifierWithArgsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/ConstructorAnnotatedFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/ConstructorAnnotatedNonFinalFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/ConstructorAnnotatedThrowsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/CustomNamedFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/CustomNullableFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/DefaultPackageFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/FactoryExtendingAbstractClassFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/FactoryExtendingAbstractClassThrowsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/FactoryImplementingCreateMethod_ConcreteClassFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/FactoryImplementingGenericInterfaceExtensionFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/Generics_ExplicitFooImplFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/Generics_FooImplFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/Generics_FooImplWithClassFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/MixedDepsImplementingInterfacesFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/MultipleFactoriesConflictingParameterNamesFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/MultipleFactoriesImplementingInterface_ClassAFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/MultipleFactoriesImplementingInterface_ClassBFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/MultipleProvidedParamsSameKeyFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/NestedClassCustomNamedFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/NestedClasses_SimpleNestedClassFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/OnlyPrimitivesFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/ProviderArgumentToCreateMethodFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/PublicClassFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassImplementingMarkerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassImplementingSimpleInterfaceFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassMixedDepsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassNonFinalFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassNullableParametersFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassPassedDepsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassProvidedDepsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassProvidedProviderDepsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassThrowsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassVarargsFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/CheckerFrameworkNullable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/ClassUsingQualifierWithArgs.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/ConstructorAnnotated.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/ConstructorAnnotatedNonFinal.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/ConstructorAnnotatedThrows.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/CustomNullable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/DefaultPackage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/FactoryExtendingAbstractClass.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/FactoryExtendingAbstractClassThrows.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/FactoryExtendingAbstractClassWithMultipleConstructors.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/FactoryImplementingCreateMethod.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/FactoryImplementingGenericInterfaceExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/Generics.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/MixedDepsImplementingInterfaces.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/MultipleFactoriesConflictingParameterNames.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/MultipleFactoriesImplementingInterface.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/MultipleProvidedParamsSameKey.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/NestedClasses.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/OnlyPrimitives.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/ProviderArgumentToCreateMethod.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/PublicClass.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClass.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassCustomName.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassImplementingMarker.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassImplementingSimpleInterface.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassMixedDeps.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassNonFinal.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassNullableParameters.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassPassedDeps.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassProvidedDeps.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassProvidedProviderDeps.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassThrows.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassVarargs.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/support/AQualifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/support/BQualifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "factory/src/test/resources/support/QualifierWithArgs.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/README.md"
+        start_line: 95
+        end_line: 109
+      score: 98.84
+    - license: "Apache-2.0"
+      location:
+        path: "service/annotations/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/annotations/src/main/java/com/google/auto/service/AutoService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/pom.xml"
+        start_line: 57
+        end_line: 58
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/pom.xml"
+        start_line: 58
+        end_line: 59
+      score: 75.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/main/java/com/google/auto/service/processor/AutoServiceProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/main/java/com/google/auto/service/processor/ServicesFiles.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/main/java/com/google/auto/service/processor/package-info.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/java/com/google/auto/service/processor/AutoServiceProcessorTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/AnotherService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/AnotherServiceProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/Enclosing.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/EnclosingGeneric.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/GenericService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/GenericServiceProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/GenericServiceProviderSuppressWarnings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/GenericServiceProviderWithMissingServiceClass.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/MultiServiceProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/NoServices.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/SomeService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/SomeServiceProvider1.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "service/processor/src/test/resources/test/SomeServiceProvider2.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/annotations/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/pom.xml"
+        start_line: 51
+        end_line: 52
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/pom.xml"
+        start_line: 52
+        end_line: 53
+      score: 75.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/processor/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/main/java/PackagelessNestedValueType.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/main/java/PackagelessValueType.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/main/java/com/google/auto/value/NestedValueType.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/main/java/com/google/auto/value/SimpleValueType.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/PackagelessValueTypeTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoAnnotationDefaultsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoAnnotationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoBuilderKotlinTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoBuilderTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoOneOfJava8Test.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoOneOfTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoValueJava8Test.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoValueNotEclipseTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoValueTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/CompileWithEclipseTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/GradleTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/KotlinData.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/SimpleValueTypeTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/annotations/Empty.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/annotations/GwtArrays.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/annotations/StringValues.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/enums/MyEnum.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/CustomFieldSerializerTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/EmptyExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/GwtCompilationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/GwtValueType.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/GwtValueTypeWithBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/NonSerializableGwtValueType.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/SerialSignatureTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/gwtserializer/pom.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/gwtserializer/src/test/java/com/google/auto/value/GwtSerializerSuite.gwt.xml"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/gwtserializer/src/test/java/com/google/auto/value/GwtSerializerSuite.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/it/gwtserializer/src/test/java/com/google/auto/value/client/GwtSerializerTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoAnnotation.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoOneOf.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoValue.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/AutoValueExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/Memoized.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/processor/ClassNames.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/processor/MemoizeExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/processor/MemoizedValidator.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/SerializableAutoValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/processor/ClassNames.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/processor/PropertyMirror.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/processor/SerializableAutoValueExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/SerializerFactoryLoader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/IdentitySerializerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableListSerializerExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableMapSerializerExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/OptionalSerializerExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/SerializerFactoryImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/interfaces/Serializer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/interfaces/SerializerExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/interfaces/SerializerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/runtime/FunctionWithExceptions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/ToPrettyString.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/Annotations.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ClassNames.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ExtensionClassTypeSpecBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ToPrettyStringExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ToPrettyStringMethods.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ToPrettyStringValidator.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AbortProcessingException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AnnotationOutput.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoAnnotationProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoAnnotationTemplateVars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoBuilderProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoBuilderTemplateVars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoOneOfProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoOneOfTemplateVars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueBuilderProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueOrBuilderTemplateVars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueTemplateVars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueishProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueishTemplateVars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderMethodClassifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderMethodClassifierForAutoBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderMethodClassifierForAutoValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderSpec.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/ClassNames.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/EclipseHack.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/ErrorReporter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/ExtensionContext.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/GwtCompatibility.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/GwtSerialization.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/JavaScanner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/MissingTypes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/Nullables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/Optionalish.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/PropertyBuilderClassifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/PropertyNames.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/Reformatter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/SimpleMethod.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/SimpleServiceLoader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TemplateVars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeEncoder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeMirrorSet.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeSimplifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeVariables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autoannotation.vm"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autobuilder.vm"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autooneof.vm"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autovalue.vm"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/builder.vm"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/equalshashcode.vm"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/gwtserializer.vm"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/package-info.java"
+        start_line: 4
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedMethodSubject.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedMethodSubjectFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedValidationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/processor/SerializableAutoValueExtensionTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/SerializerFactoryLoaderTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/IdentitySerializerFactoryTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableListSerializerExtensionTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableMapSerializerExtensionTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/OptionalSerializerExtensionTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/SerializerFactoryImplTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/utils/CompilationAbstractTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/utils/FakeSerializerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/utils/TestStringSerializerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/toprettystring/ToPrettyStringTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/toprettystring/ToPrettyStringValidatorTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoAnnotationCompilationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoAnnotationErrorsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoBuilderCompilationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoOneOfCompilationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoValueCompilationTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/ExtensionTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/GeneratedDoesNotExistTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/GeneratedImport.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/GuavaCollectionBuildersTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/IncrementalExtensionTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/JavaScannerTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/NullablesTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/PropertyAnnotationsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/PropertyNamesTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/ReformatterTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/SimpleServiceLoaderTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/SimplifyWithAnnotationsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TemplateVarsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TypeEncoderTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TypeSimplifierTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TypeVariablesTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/testclasses/RuntimePermission.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "LicenseRef-scancode-google-cla"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 31
+        end_line: 34
+      score: 92.31
+    - license: "NOASSERTION"
+      location:
+        path: "common/pom.xml"
+        start_line: 55
+        end_line: 57
+      score: 16.0
+    - license: "NOASSERTION"
+      location:
+        path: "factory/pom.xml"
+        start_line: 52
+        end_line: 54
+      score: 16.0
+    - license: "NOASSERTION"
+      location:
+        path: "service/pom.xml"
+        start_line: 56
+        end_line: 58
+      score: 16.0
+    - license: "NOASSERTION"
+      location:
+        path: "value/pom.xml"
+        start_line: 50
+        end_line: 52
+      score: 16.0
+    copyrights:
+    - statement: "Copyright (c) 2012 Square, Inc."
+      location:
+        path: "factory/pom.xml"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2013 Square, Inc."
+      location:
+        path: "common/src/main/java/com/google/auto/common/MoreElements.java"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/annotations/src/main/java/com/google/auto/service/AutoService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/main/java/com/google/auto/service/processor/AutoServiceProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/main/java/com/google/auto/service/processor/ServicesFiles.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/java/com/google/auto/service/processor/AutoServiceProcessorTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/AnotherService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/AnotherServiceProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/Enclosing.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/NoServices.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/SomeService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/SomeServiceProvider1.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2008 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/SomeServiceProvider2.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "factory/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/annotations/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/processor/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/it/functional/src/main/java/PackagelessNestedValueType.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/it/functional/src/main/java/PackagelessValueType.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/it/functional/src/main/java/com/google/auto/value/SimpleValueType.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/PackagelessValueTypeTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoValueJava8Test.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoValueTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/SimpleValueTypeTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueOrBuilderTemplateVars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueTemplateVars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeSimplifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TypeSimplifierTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "README.md"
+        start_line: 38
+        end_line: 38
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/MoreElements.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/README.md"
+        start_line: 86
+        end_line: 86
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/DaggerModule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/Dependency.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/DependencyImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/FactoryInterface.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/Foo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/GuiceModule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/QualifiedDependencyImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/AutoFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/Provided.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/AnnotationValues.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/AutoFactoryDeclaration.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/AutoFactoryProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Elements2.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryDescriptorGenerator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryMethodDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/FactoryWriter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/ImplementationMethodDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Key.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Mirrors.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/Parameter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/ProvidedChecker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/java/com/google/auto/factory/processor/AutoFactoryDeclarationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/java/com/google/auto/factory/processor/AutoFactoryProcessorTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/EnumSupertype.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/FactoryExtendingAbstractClassWithConstructorParams.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/FinalSupertype.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/InterfaceSupertype.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/InvalidCustomName.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/MixedFinals.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/ProvidedButNoAutoFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/bad/ProvidedOnMethodParameter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/ConstructorAnnotatedFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/ConstructorAnnotatedNonFinalFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/CustomNamedFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/FactoryExtendingAbstractClassFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/FactoryImplementingGenericInterfaceExtensionFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/MixedDepsImplementingInterfacesFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/NestedClassCustomNamedFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/NestedClasses_SimpleNestedClassFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/PublicClassFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassImplementingMarkerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassImplementingSimpleInterfaceFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassMixedDepsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassNonFinalFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassPassedDepsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassProvidedDepsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassProvidedProviderDepsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/ConstructorAnnotated.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/ConstructorAnnotatedNonFinal.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/FactoryExtendingAbstractClass.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/FactoryExtendingAbstractClassWithMultipleConstructors.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/FactoryImplementingGenericInterfaceExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/MixedDepsImplementingInterfaces.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/NestedClasses.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/PublicClass.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClass.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassCustomName.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassImplementingMarker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassImplementingSimpleInterface.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassMixedDeps.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassNonFinal.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassPassedDeps.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassProvidedDeps.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassProvidedProviderDeps.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/support/AQualifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "factory/src/test/resources/support/BQualifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "service/README.md"
+        start_line: 97
+        end_line: 97
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "service/annotations/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "service/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "service/processor/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "service/processor/src/main/java/com/google/auto/service/processor/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "value/src/it/functional/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "value/src/it/functional/src/main/java/com/google/auto/value/NestedValueType.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/EclipseHack.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/AnnotationMirrors.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/AnnotationOutput.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/AnnotationValues.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/BasicAnnotationProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/MoreTypes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/SuperficialValidation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/Visibility.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/AnnotationMirrorsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/BasicAnnotationProcessorTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/MoreElementsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/MoreTypesIsTypeOfTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/MoreTypesTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/SuperficialValidationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/VisibilityTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoAnnotationDefaultsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoAnnotationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/CompileWithEclipseTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/annotations/Empty.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/annotations/StringValues.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/enums/MyEnum.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/CustomFieldSerializerTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/GwtCompilationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/GwtValueType.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/NonSerializableGwtValueType.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/SerialSignatureTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoAnnotation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AbortProcessingException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AnnotationOutput.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoAnnotationProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoAnnotationTemplateVars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueBuilderProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderSpec.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/ErrorReporter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/GwtCompatibility.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/GwtSerialization.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/MissingTypes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/Reformatter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TemplateVars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeMirrorSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autoannotation.vm"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autobuilder.vm"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autovalue.vm"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/builder.vm"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/gwtserializer.vm"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoAnnotationCompilationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoAnnotationErrorsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/PropertyAnnotationsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/ReformatterTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TemplateVarsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/FactoryComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/Qualifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/ClassUsingQualifierWithArgsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/MultipleFactoriesImplementingInterface_ClassAFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/MultipleFactoriesImplementingInterface_ClassBFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/ClassUsingQualifierWithArgs.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/MultipleFactoriesImplementingInterface.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "factory/src/test/resources/support/QualifierWithArgs.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/annotations/GwtArrays.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/GwtValueTypeWithBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/it/gwtserializer/pom.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/it/gwtserializer/src/test/java/com/google/auto/value/GwtSerializerSuite.gwt.xml"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/it/gwtserializer/src/test/java/com/google/auto/value/GwtSerializerSuite.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/it/gwtserializer/src/test/java/com/google/auto/value/client/GwtSerializerTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/AutoValueExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderMethodClassifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/ExtensionContext.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/JavaScanner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/ExtensionTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/GeneratedDoesNotExistTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/GuavaCollectionBuildersTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/JavaScannerTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/Overrides.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/OverridesTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/ProviderField.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/CheckerFrameworkNullableFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/CustomNullableFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/FactoryImplementingCreateMethod_ConcreteClassFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/MultipleFactoriesConflictingParameterNamesFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/MultipleProvidedParamsSameKeyFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/ProviderArgumentToCreateMethodFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassNullableParametersFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassVarargsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/CheckerFrameworkNullable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/CustomNullable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/FactoryImplementingCreateMethod.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/MultipleFactoriesConflictingParameterNames.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/MultipleProvidedParamsSameKey.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/ProviderArgumentToCreateMethod.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassNullableParameters.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassVarargs.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/Memoized.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/processor/MemoizeExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/Optionalish.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/PropertyBuilderClassifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedMethodSubject.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedMethodSubjectFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/memoized/MemoizedValidationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/testclasses/RuntimePermission.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/GeneratedAnnotationSpecs.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/GeneratedAnnotations.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/SimpleAnnotationMirror.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/SimpleTypeAnnotationValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/SimpleAnnotationMirrorTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/SimpleTypeAnnotationValueTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/OnlyPrimitivesFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/OnlyPrimitives.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/MultiServiceProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/processor/ClassNames.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/memoized/processor/MemoizedValidator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeEncoder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/GeneratedImport.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/SimplifyWithAnnotationsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TypeEncoderTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/GeneratedAnnotationsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoOneOfJava8Test.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoOneOfTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/gwt/EmptyExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoOneOf.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoOneOfProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoOneOfTemplateVars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueishProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoValueishTemplateVars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/ClassNames.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/PropertyNames.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/SimpleMethod.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/autooneof.vm"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/equalshashcode.vm"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoOneOfCompilationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoValueCompilationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/PropertyNamesTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "common/src/test/java/com/google/auto/common/AnnotationValuesTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/GenericFoo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/TypeVariables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/DefaultPackageFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/DefaultPackage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoValueNotEclipseTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/SimpleServiceLoader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/TypeVariables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/SimpleServiceLoaderTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/TypeVariablesTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/ReferencePackage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/it/functional/src/main/java/com/google/auto/factory/otherpackage/OtherPackage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/processor/PackageAndClass.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/ConstructorAnnotatedThrowsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/FactoryExtendingAbstractClassThrowsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/SimpleClassThrowsFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/ConstructorAnnotatedThrows.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/FactoryExtendingAbstractClassThrows.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/SimpleClassThrows.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/EnclosingGeneric.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/GenericService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/GenericServiceProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/GenericServiceProviderSuppressWarnings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/SerializableAutoValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/processor/ClassNames.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/processor/PropertyMirror.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/processor/SerializableAutoValueExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/SerializerFactoryLoader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/IdentitySerializerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableListSerializerExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableMapSerializerExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/OptionalSerializerExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/impl/SerializerFactoryImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/interfaces/Serializer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/interfaces/SerializerExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/interfaces/SerializerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/serializable/serializer/runtime/FunctionWithExceptions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/processor/SerializableAutoValueExtensionTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/SerializerFactoryLoaderTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/IdentitySerializerFactoryTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableListSerializerExtensionTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/ImmutableMapSerializerExtensionTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/OptionalSerializerExtensionTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/impl/SerializerFactoryImplTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/utils/CompilationAbstractTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/utils/FakeSerializerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/serializable/serializer/utils/TestStringSerializerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/IncrementalExtensionTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/MoreStreams.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "common/src/main/java/com/google/auto/common/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "factory/src/main/java/com/google/auto/factory/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/Generics_ExplicitFooImplFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/Generics_FooImplFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "factory/src/test/resources/expected/Generics_FooImplWithClassFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "factory/src/test/resources/good/Generics.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "service/processor/src/test/resources/test/GenericServiceProviderWithMissingServiceClass.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoBuilderKotlinTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/AutoBuilderTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/GradleTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/it/functional/src/test/java/com/google/auto/value/KotlinData.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/AutoBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/ToPrettyString.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/Annotations.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ClassNames.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ExtensionClassTypeSpecBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ToPrettyStringExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ToPrettyStringMethods.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/extension/toprettystring/processor/ToPrettyStringValidator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoBuilderProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/AutoBuilderTemplateVars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderMethodClassifierForAutoBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/BuilderMethodClassifierForAutoValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/main/java/com/google/auto/value/processor/Nullables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/toprettystring/ToPrettyStringTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/extension/toprettystring/ToPrettyStringValidatorTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/AutoBuilderCompilationTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "value/src/test/java/com/google/auto/value/processor/NullablesTest.java"
+        start_line: 2
+        end_line: 2

@@ -1,0 +1,749 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/google/guava.git"
+      revision: ""
+      path: ""
+    resolved_revision: "14dd2269fa72913d92038876162babb8d9736f9b"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:39:20.000323581Z"
+    end_time: "2026-03-04T13:39:26.000112010Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "COPYING"
+        start_line: 2
+        end_line: 202
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/base/CaseFormat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/base/CharMatcher.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/base/Charsets.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/base/Defaults.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/base/Service.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/base/Splitter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/base/Throwables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/AppendableWriter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/ByteArrayDataInput.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/ByteArrayDataOutput.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/ByteProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/ByteStreams.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/CharStreams.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/Closeables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/CountingInputStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/CountingOutputStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/FileBackedOutputStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/Files.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/Flushables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/InputSupplier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/LimitInputStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/LineBuffer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/LineProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/LineReader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/MultiInputStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/MultiReader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/NullOutputStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/OutputSupplier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/PatternFilenameFilter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/Resources.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/io/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Booleans.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Bytes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Chars.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Doubles.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Floats.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Ints.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Longs.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Primitives.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/Shorts.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/SignedBytes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/UnsignedBytes.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/primitives/generate.sh"
+        start_line: 28
+        end_line: 38
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractCheckedFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractExecutionThreadService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractIdleService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractListenableFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/Callables.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/CheckedFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/DaemonThreadFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/ExecutionList.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/Executors.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/FakeTimeLimiter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/ForwardingFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/ForwardingService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/Futures.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/ListenableFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/ListenableFutureTask.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/NamingThreadFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/SimpleTimeLimiter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/TimeLimiter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/UncheckedTimeoutException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/UninterruptibleFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/com/google/common/util/concurrent/ValueFuture.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2004 Google Inc."
+      location:
+        path: "src/com/google/common/io/NullOutputStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/base/CaseFormat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/io/AppendableWriter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/io/PatternFilenameFilter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/FakeTimeLimiter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/Futures.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/NamingThreadFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/SimpleTimeLimiter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/TimeLimiter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/UncheckedTimeoutException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/base/Charsets.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/base/Defaults.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/base/Throwables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/ByteStreams.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/CharStreams.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/Closeables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/CountingInputStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/CountingOutputStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/Files.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/Flushables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/InputSupplier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/LimitInputStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/LineBuffer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/LineReader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/MultiInputStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/OutputSupplier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/Resources.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/io/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Primitives.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractListenableFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/ExecutionList.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/Executors.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/ListenableFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/base/CharMatcher.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/io/FileBackedOutputStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/io/MultiReader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Booleans.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Bytes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Chars.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Doubles.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Floats.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Ints.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Longs.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/Shorts.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/generate.sh"
+        start_line: 26
+        end_line: 26
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractCheckedFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/CheckedFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/DaemonThreadFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/ListenableFutureTask.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/base/Service.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/base/Splitter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/io/ByteArrayDataInput.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/io/ByteArrayDataOutput.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/io/ByteProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/io/LineProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/SignedBytes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/primitives/UnsignedBytes.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractExecutionThreadService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractIdleService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/AbstractService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/Callables.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/ForwardingFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/ForwardingService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/UninterruptibleFuture.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 Google Inc."
+      location:
+        path: "src/com/google/common/util/concurrent/ValueFuture.java"
+        start_line: 2
+        end_line: 2

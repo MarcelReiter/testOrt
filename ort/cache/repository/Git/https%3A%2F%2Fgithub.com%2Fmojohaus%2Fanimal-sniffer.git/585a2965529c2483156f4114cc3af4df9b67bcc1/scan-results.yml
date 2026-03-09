@@ -1,0 +1,2552 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/mojohaus/animal-sniffer.git"
+      revision: "animal-sniffer-1.24"
+      path: ""
+    resolved_revision: "585a2965529c2483156f4114cc3af4df9b67bcc1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:35:45.000305244Z"
+    end_time: "2026-03-04T12:35:52.000268557Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: ".github/workflows/maven.yml"
+        start_line: 3
+        end_line: 18
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/Signature.java"
+        start_line: 3
+        end_line: 18
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/RegexUtils.java"
+        start_line: 3
+        end_line: 18
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/src/main/java/org/codehaus/mojo/animal_sniffer/IgnoreJRERequirement.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/src/main/java/org/codehaus/mojo/animal_sniffer/IgnoreJRERequirement.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/src/site/apt/index.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/src/site/apt/index.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/src/site/site.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-annotations/src/site/site.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/build.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/build.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api3/java/localdomain/localhost/OtherApi.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api3/java/localdomain/localhost/OtherApi.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/main/java/JDK15.java"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/main/java/JDK15.java"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/build.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/build.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/main/java/JDK15.java"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/main/java/JDK15.java"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/settings.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/settings.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/build.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/build.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/main/java/JDK15.java"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/main/java/JDK15.java"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/AntLogger.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/AntLogger.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/BuildSignaturesTask.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/BuildSignaturesTask.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/CheckSignatureTask.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/CheckSignatureTask.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/Ignore.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/Ignore.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/resources/org/codehaus/mojo/animal_sniffer/antlib.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/resources/org/codehaus/mojo/animal_sniffer/antlib.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/generating-signatures.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/generating-signatures.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/sample-project.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/sample-project.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/index.apt"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/index.apt"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/usage.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/usage.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/site.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/site.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/settings.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/settings.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-001/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-001/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-001/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-001/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/src/main/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/src/main/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/src/main/java/JDK15.java"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/src/main/java/JDK15.java"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/CheckSignatureRule.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/CheckSignatureRule.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/MavenLogger.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/MavenLogger.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/Signature.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/Signature.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/index.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/index.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/usage.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/usage.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/site.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/site.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/fields/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/fields/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-22/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-22/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/src/test/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/src/test/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-74-1/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-74-1/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-74-2/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-74-2/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-24/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-24/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-24/src/main/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-24/src/main/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-module-info/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-module-info/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-module-info/src/main/java/test/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-module-info/src/main/java/test/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-multirelease/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-multirelease/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-multirelease/src/main/java/test/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-multirelease/src/main/java/test/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-41/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-41/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14-from-cli/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14-from-cli/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14-from-cli/src/main/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14-from-cli/src/main/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14/src/main/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14/src/main/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig14/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig14/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig14/src/main/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig14/src/main/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig15/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig15/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig15/src/main/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig15/src/main/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jre-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jre-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-29/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-29/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-29/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-29/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/verify.bsh"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/verify.bsh"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-49/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-49/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-6/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-6/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-6/src/main/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-6/src/main/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/src/main/java/localhost/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/src/main/java/localhost/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/verify.bsh"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/verify.bsh"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/api/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/api/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/api/src/main/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/api/src/main/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/other/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/other/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/other/src/main/java/localdomain/localhost/OtherApi.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/other/src/main/java/localdomain/localhost/OtherApi.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/settings.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/settings.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/setup-parent/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/setup-parent/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-1/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-1/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-1/src/main/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-1/src/main/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-2/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-2/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-2/src/main/java/localdomain/localhost/Api.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-2/src/main/java/localdomain/localhost/Api.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/client/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/client/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/client/src/main/java/JDK15.java"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/client/src/main/java/JDK15.java"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/toolchain-test/invoker.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/toolchain-test/invoker.properties"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/toolchain-test/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/toolchain-test/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/version-resolution/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/version-resolution/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/with-deps-excluded/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/with-deps-excluded/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/with-deps/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/with-deps/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/BuildSignaturesMojo.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/BuildSignaturesMojo.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/CheckSignatureMojo.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/CheckSignatureMojo.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/JdkToolchain.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/JdkToolchain.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/JdkToolchainConverter.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/JdkToolchainConverter.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/MavenLogger.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/MavenLogger.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/Signature.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/Signature.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/resources/META-INF/plexus/components.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/resources/META-INF/plexus/components.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/generating-java-signatures.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/generating-java-signatures.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/generating-other-api-signatures.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/generating-other-api-signatures.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/index.apt"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/index.apt"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/usage.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/usage.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/fml/faq.fml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/fml/faq.fml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/fml/faq.fml"
+        start_line: 65
+        end_line: 65
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/site.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/site.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/ClassFileVisitor.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/ClassFileVisitor.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/ClassListBuilder.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/ClassListBuilder.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/Clazz.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/Clazz.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/Main.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/Main.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureBuilder.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureBuilder.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureChecker.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureChecker.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureMerger.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureMerger.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/logging/Logger.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/logging/Logger.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/logging/PrintWriterLogger.java"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/logging/PrintWriterLogger.java"
+        start_line: 8
+        end_line: 24
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/apt/index.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/apt/index.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/apt/signature-checker.apt"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/apt/signature-checker.apt"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/apt/usage.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/apt/usage.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/site.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/site/site.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/test/java/org/codehaus/mojo/animal_sniffer/SignatureCheckerTest.java"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "animal-sniffer/src/test/java/org/codehaus/mojo/animal_sniffer/SignatureCheckerTest.java"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/src/main/java/org/codehaus/mojo/animal_sniffer/jbcpd/ShowClassPath.java"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/src/main/java/org/codehaus/mojo/animal_sniffer/jbcpd/ShowClassPath.java"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/src/site/apt/index.apt.vm"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/src/site/apt/index.apt.vm"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/src/site/site.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "java-boot-classpath-detector/src/site/site.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "pom.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "pom.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "pom.xml"
+        start_line: 43
+        end_line: 49
+      score: 88.89
+    - license: "MIT"
+      location:
+        path: "src/site/apt/index.apt"
+        start_line: 1
+        end_line: 1
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/site/apt/index.apt"
+        start_line: 5
+        end_line: 21
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/site/site.xml"
+        start_line: 3
+        end_line: 3
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "src/site/site.xml"
+        start_line: 7
+        end_line: 23
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/fml/faq.fml"
+        start_line: 66
+        end_line: 66
+      score: 50.0
+    copyrights:
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-annotations/src/main/java/org/codehaus/mojo/animal_sniffer/IgnoreJRERequirement.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/BuildSignaturesTask.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/CheckSignatureRule.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/MavenLogger.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/main/java/org/codehaus/mojo/animal_sniffer/enforcer/Signature.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/CheckSignatureMojo.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/JdkToolchain.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/JdkToolchainConverter.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/Signature.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/ClassFileVisitor.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/ClassListBuilder.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/Clazz.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureBuilder.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureChecker.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/SignatureMerger.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/site/apt/signature-checker.apt"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2008 Kohsuke Kawaguchi and codehaus.org"
+      location:
+        path: "animal-sniffer/src/site/apt/usage.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "LICENSE"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-annotations/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-annotations/src/site/apt/index.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-annotations/src/site/site.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/build.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/build.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/settings.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/build.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/resources/org/codehaus/mojo/animal_sniffer/antlib.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/generating-signatures.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/examples/sample-project.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/index.apt"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/apt/usage.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/site/site.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/settings.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-001/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-001/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/index.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/apt/usage.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/site/site.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/fields/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-22/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-74-1/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-74-2/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-41/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14-from-cli/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig14/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig15/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jre-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-49/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-6/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/api/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/other/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/settings.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-1/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-2/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/client/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/toolchain-test/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/toolchain-test/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/version-resolution/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/with-deps-excluded/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/with-deps/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/resources/META-INF/plexus/components.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/checking-signatures.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/generating-java-signatures.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/examples/generating-other-api-signatures.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/index.apt"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/apt/usage.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/fml/faq.fml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/site/site.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer/src/site/apt/index.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "animal-sniffer/src/site/site.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "java-boot-classpath-detector/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "java-boot-classpath-detector/src/main/java/org/codehaus/mojo/animal_sniffer/jbcpd/ShowClassPath.java"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "java-boot-classpath-detector/src/site/apt/index.apt.vm"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "java-boot-classpath-detector/src/site/site.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "src/site/apt/index.apt"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2009 codehaus.org"
+      location:
+        path: "src/site/site.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/api3/java/localdomain/localhost/OtherApi.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/merge-test/src/main/java/JDK15.java"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/negative-test/src/main/java/JDK15.java"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/api1/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/api2/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/it/smoke-test/src/main/java/JDK15.java"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/AntLogger.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/CheckSignatureTask.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-ant-tasks/src/main/java/org/codehaus/mojo/animal_sniffer/ant/Ignore.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/setup-002/src/main/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-enforcer-rule/src/it/smoke-test/src/main/java/JDK15.java"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/github-5-test-classes/src/test/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-24/src/main/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-module-info/src/main/java/test/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-multirelease/src/main/java/test/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14-from-cli/src/main/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk14-with-sig14/src/main/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig14/src/main/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/jdk15-with-sig15/src/main/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-6/src/main/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/src/main/java/localhost/Main.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-9/verify.bsh"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/api/src/main/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/merge-test/other/src/main/java/localdomain/localhost/OtherApi.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-1/src/main/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/api-2/src/main/java/localdomain/localhost/Api.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/smoke-test/client/src/main/java/JDK15.java"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/BuildSignaturesMojo.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/main/java/org/codehaus/mojo/animal_sniffer/maven/MavenLogger.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/logging/Logger.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2009, codehaus.org"
+      location:
+        path: "animal-sniffer/src/main/java/org/codehaus/mojo/animal_sniffer/logging/PrintWriterLogger.java"
+        start_line: 6
+        end_line: 6
+    - statement: "Copyright (c) 2012 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-29/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2012 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-29/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2012 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/invoker.properties"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2012 codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2012, codehaus.org"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/manimalsniffer-41/verify.bsh"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2017 codehaus.org, jglick@cloudbees.com"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-24/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2017 codehaus.org, jglick@cloudbees.com"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-module-info/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2017 codehaus.org, jglick@cloudbees.com"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/issue-32-multirelease/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright (c) 2017 codehaus.org, jglick@cloudbees.com"
+      location:
+        path: "animal-sniffer-maven-plugin/src/it/setup-parent/pom.xml"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright 2012 Codehaus"
+      location:
+        path: "animal-sniffer/src/test/java/org/codehaus/mojo/animal_sniffer/SignatureCheckerTest.java"
+        start_line: 4
+        end_line: 4

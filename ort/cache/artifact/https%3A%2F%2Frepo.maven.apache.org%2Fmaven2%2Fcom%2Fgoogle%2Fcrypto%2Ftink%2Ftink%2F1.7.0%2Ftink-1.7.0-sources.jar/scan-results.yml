@@ -1,0 +1,3195 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/com/google/crypto/tink/tink/1.7.0/tink-1.7.0-sources.jar"
+      hash:
+        value: "4e0145256a2acc075bae67d56e9aa0334aef217c"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:39:28.000160328Z"
+    end_time: "2026-03-04T13:39:54.000904868Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/AccessesPartialKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Aead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/BinaryKeysetReader.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/BinaryKeysetWriter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Catalogue.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/CleartextKeysetHandle.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Config.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/CryptoFormat.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/DeterministicAead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/HybridDecrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/HybridEncrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/InsecureSecretKeyAccess.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/JsonKeysetReader.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/JsonKeysetWriter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Key.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeyManagerImpl.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeyManagerRegistry.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeyStatus.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeyTemplate.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeyWrap.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeysetHandle.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeysetManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeysetReader.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KeysetWriter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KmsClient.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/KmsClients.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Mac.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/NoSecretKeysetHandle.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Parameters.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PemKeyType.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PrimitiveSet.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PrimitiveWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PrivateKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PrivateKeyManagerImpl.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PrivilegedRegistry.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PublicKeySign.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/PublicKeyVerify.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Registry.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/SecretKeyAccess.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/StreamingAead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Util.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/Version.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AeadConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AeadFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AeadKeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AeadWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AesCtrHmacAeadKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AesCtrKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AesEaxKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AesGcmKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/AesGcmSivKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/ChaCha20Poly1305KeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/KmsAeadKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/KmsEnvelopeAead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/KmsEnvelopeAeadKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/XChaCha20Poly1305KeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/ChaCha20Util.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceAesGcmJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20Base.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20Poly1305.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20Poly1305Base.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceXChaCha20.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceXChaCha20Poly1305.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/internal/Poly1305.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/subtle/AeadFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/subtle/AesGcmFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/aead/subtle/AesGcmSiv.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/annotations/Alpha.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/config/TinkConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/config/TinkFips.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/config/internal/TinkFipsDisabled.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/config/internal/TinkFipsUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/daead/AesSivKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadKeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/EciesAeadHkdfPrivateKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/EciesAeadHkdfPublicKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridDecryptConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridDecryptFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridDecryptWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridEncryptConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridEncryptFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridEncryptWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridKeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/RegistryEciesAeadHkdfDemHelper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/AesGcmHpkeAead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/ChaCha20Poly1305HpkeAead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HkdfHpkeKdf.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeAead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeContext.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeDecrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeEncrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKdf.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKem.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKemEncapOutput.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKemKeyFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKemPrivateKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkePrimitiveFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkePrivateKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkePublicKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/NistCurvesHpkeKem.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/NistCurvesHpkeKemPrivateKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/X25519HpkeKem.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/X25519HpkeKemPrivateKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/AeadOrDaead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/RsaKem.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/RsaKemHybridDecrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/RsaKemHybridEncrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/BuildDispatchedCode.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/KeyParser.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/KeySerializer.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/KeyStatusTypeProtoConverter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/KeyTemplateProtoConverter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/KeyTypeManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/LegacyProtoKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/LegacyProtoParameters.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/MonitoringUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/MutableMonitoringRegistry.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/MutableSerializationRegistry.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/ParametersParser.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/ParametersSerializer.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/PrimitiveFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/PrivateKeyTypeManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/ProtoKeySerialization.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/ProtoParametersSerialization.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/Serialization.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/SerializationRegistry.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/TinkBugException.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/internal/Util.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JsonUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwkSetConverter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtEcdsaSignKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtEcdsaVerifyKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtFormat.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtHmacKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtInvalidException.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMac.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMacConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMacInternal.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMacWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtNames.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeySign.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeySignInternal.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeySignWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeyVerify.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeyVerifyInternal.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeyVerifyWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPkcs1SignKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPkcs1VerifyKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPssSignKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPssVerifyKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtSignatureConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtValidator.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/RawJwt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/jwt/VerifiedJwt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacParameters.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacProtoSerialization.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/ChunkedMac.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/ChunkedMacComputation.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/ChunkedMacVerification.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/HmacKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/MacConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/MacFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/MacKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/MacKeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/MacParameters.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/MacWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/mac/internal/AesUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/monitoring/MonitoringAnnotations.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/monitoring/MonitoringClient.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/monitoring/MonitoringKeysetInfo.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/AesCmacPrfKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/HkdfPrfKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/HmacPrfKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/Prf.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/PrfConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/PrfKeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/PrfSet.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/prf/PrfSetWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/EcdsaSignKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/EcdsaVerifyKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/Ed25519PrivateKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/Ed25519PublicKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeySignConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeySignFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeySignWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeyVerifyConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeyVerifyFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeyVerifyWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPkcs1SignKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPkcs1VerifyKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPssSignKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPssVerifyKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/SignatureConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/SignatureKeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/SignaturePemKeysetReader.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/signature/internal/SigUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/AesCtrHmacStreamingKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/AesGcmHkdfStreamingKeyManager.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/InputStreamDecrypter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/ReadableByteChannelDecrypter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/SeekableByteChannelDecrypter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadConfig.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadHelper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadKeyTemplates.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/AesCtrHmacStreaming.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/AesCtrJceCipher.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/AesEaxJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/AesGcmHkdfStreaming.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/AesGcmJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/AesSiv.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Base64.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Bytes.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20Base.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20Poly1305.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20Poly1305Base.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Curve25519.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EcdsaSignJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EcdsaVerifyJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EciesAeadHkdfDemHelper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EciesAeadHkdfHybridDecrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EciesAeadHkdfHybridEncrypt.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EciesHkdfRecipientKem.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EciesHkdfSenderKem.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519Constants.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519Sign.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519Verify.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EllipticCurves.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EncryptThenAuthenticate.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EngineFactory.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/EngineWrapper.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Enums.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Field25519.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Hex.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Hkdf.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/IndCpaCipher.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Kwp.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/NonceBasedStreamingAead.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/PemKeyType.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Poly1305.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/PrfAesCmac.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/PrfHmacJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/PrfMac.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Random.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/RewindableReadableByteChannel.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPkcs1SignJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPkcs1VerifyJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPssSignJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPssVerifyJce.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/SelfKeyTestValidators.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/StreamSegmentDecrypter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/StreamSegmentEncrypter.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadDecryptingChannel.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadDecryptingStream.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadEncryptingChannel.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadEncryptingStream.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadSeekableDecryptingChannel.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/SubtleUtil.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/Validators.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/X25519.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/XChaCha20.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/XChaCha20Poly1305.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/prf/HkdfStreamingPrf.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/prf/PrfImpl.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/subtle/prf/StreamingPrf.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/tinkkey/KeyAccess.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/tinkkey/KeyHandle.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/tinkkey/SecretKeyAccess.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/tinkkey/TinkKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/tinkkey/internal/InternalKeyHandle.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/tinkkey/internal/ProtoKey.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/util/Bytes.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/util/KeysDownloader.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/crypto/tink/util/SecretBytes.java"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/google/crypto/tink/subtle/Base64.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/Aead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/BinaryKeysetReader.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/BinaryKeysetWriter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/Catalogue.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/CleartextKeysetHandle.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/Config.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/CryptoFormat.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/DeterministicAead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/HybridDecrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/HybridEncrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/JsonKeysetReader.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/JsonKeysetWriter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KeysetHandle.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KeysetManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KeysetReader.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KeysetWriter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KmsClient.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KmsClients.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/Mac.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/NoSecretKeysetHandle.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/PemKeyType.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/PrimitiveSet.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/PrimitiveWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/PrivateKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/PublicKeySign.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/PublicKeyVerify.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/Registry.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/StreamingAead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/Util.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AeadConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AeadFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AeadKeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AeadWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AesCtrHmacAeadKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AesCtrKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AesEaxKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AesGcmKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/AesGcmSivKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/ChaCha20Poly1305KeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/KmsAeadKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/KmsEnvelopeAead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/KmsEnvelopeAeadKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/XChaCha20Poly1305KeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/aead/subtle/AesGcmSiv.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/annotations/Alpha.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/config/TinkConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/daead/AesSivKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadKeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/daead/DeterministicAeadWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/EciesAeadHkdfPrivateKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/EciesAeadHkdfPublicKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridDecryptConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridDecryptFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridDecryptWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridEncryptConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridEncryptFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridEncryptWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridKeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/HybridUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/hybrid/RegistryEciesAeadHkdfDemHelper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/jwt/JwtEcdsaVerifyKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/jwt/JwtSignatureConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/mac/HmacKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/mac/MacConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/mac/MacFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/mac/MacKeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/mac/MacWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/mac/internal/AesUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/prf/AesCmacPrfKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/prf/HmacPrfKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/EcdsaSignKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/EcdsaVerifyKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/Ed25519PrivateKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/Ed25519PublicKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeySignConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeySignFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeySignWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeyVerifyConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeyVerifyFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/PublicKeyVerifyWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/SignatureConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/SignatureKeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/SignaturePemKeysetReader.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/internal/SigUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/AesCtrHmacStreamingKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/AesGcmHkdfStreamingKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/InputStreamDecrypter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/ReadableByteChannelDecrypter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/SeekableByteChannelDecrypter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadHelper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadKeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/streamingaead/StreamingAeadWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/AesCtrHmacStreaming.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/AesCtrJceCipher.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/AesEaxJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/AesGcmHkdfStreaming.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/AesGcmJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/AesSiv.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Bytes.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20Base.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20Poly1305.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/ChaCha20Poly1305Base.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Curve25519.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EcdsaSignJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EcdsaVerifyJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EciesAeadHkdfDemHelper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EciesAeadHkdfHybridDecrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EciesAeadHkdfHybridEncrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EciesHkdfRecipientKem.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EciesHkdfSenderKem.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519Constants.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519Sign.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Ed25519Verify.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EllipticCurves.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EncryptThenAuthenticate.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EngineFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/EngineWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Field25519.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Hex.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Hkdf.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/IndCpaCipher.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/NonceBasedStreamingAead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/PemKeyType.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Poly1305.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/PrfAesCmac.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/PrfHmacJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Random.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/RewindableReadableByteChannel.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/StreamSegmentDecrypter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/StreamSegmentEncrypter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadDecryptingChannel.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadDecryptingStream.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadEncryptingChannel.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadEncryptingStream.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/StreamingAeadSeekableDecryptingChannel.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/SubtleUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Validators.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/X25519.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/util/Bytes.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2017 Google Inc."
+      location:
+        path: "com/google/crypto/tink/util/KeysDownloader.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/KeyWrap.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/Version.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPkcs1SignKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPkcs1VerifyKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPssSignKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/signature/RsaSsaPssVerifyKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Enums.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/Kwp.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPkcs1SignJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPkcs1VerifyJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPssSignJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/RsaSsaPssVerifyJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/XChaCha20.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2018 Google Inc."
+      location:
+        path: "com/google/crypto/tink/subtle/XChaCha20Poly1305.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2019 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/KeyTypeManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/KeyManagerImpl.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/KeyTemplate.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/PrivateKeyManagerImpl.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/PrivilegedRegistry.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/subtle/AeadFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/subtle/AesGcmFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/AeadOrDaead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/RsaKem.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/RsaKemHybridDecrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/subtle/RsaKemHybridEncrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/KeyTemplateProtoConverter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/PrivateKeyTypeManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtEcdsaSignKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtFormat.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtHmacKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtInvalidException.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMac.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMacConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMacWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtNames.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeySign.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeySignInternal.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeyVerify.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeyVerifyInternal.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPkcs1SignKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPkcs1VerifyKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPssSignKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtRsaSsaPssVerifyKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtValidator.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/RawJwt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/VerifiedJwt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/prf/HkdfPrfKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/prf/Prf.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/prf/PrfConfig.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/prf/PrfKeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/prf/PrfSet.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/prf/PrfSetWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/subtle/PrfMac.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/subtle/SelfKeyTestValidators.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/subtle/prf/HkdfStreamingPrf.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/subtle/prf/PrfImpl.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/subtle/prf/StreamingPrf.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/tinkkey/KeyAccess.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/tinkkey/KeyHandle.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/tinkkey/SecretKeyAccess.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/tinkkey/TinkKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/crypto/tink/tinkkey/internal/ProtoKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/KeyTemplates.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/ChaCha20Util.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceAesGcmJce.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20Base.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20Poly1305.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceChaCha20Poly1305Base.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceXChaCha20.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/InsecureNonceXChaCha20Poly1305.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/aead/internal/Poly1305.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/config/TinkFips.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/config/internal/TinkFipsDisabled.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/config/internal/TinkFipsUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/AesGcmHpkeAead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/ChaCha20Poly1305HpkeAead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HkdfHpkeKdf.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeAead.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeContext.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeDecrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeEncrypt.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKdf.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKem.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKemEncapOutput.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkePrimitiveFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkePrivateKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkePublicKeyManager.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/X25519HpkeKem.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/KeyStatusTypeProtoConverter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/Util.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JsonUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwkSetConverter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtMacInternal.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeySignWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/jwt/JwtPublicKeyVerifyWrapper.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "com/google/crypto/tink/tinkkey/internal/InternalKeyHandle.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/AccessesPartialKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/InsecureSecretKeyAccess.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/Key.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/KeyManagerRegistry.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/KeyStatus.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/Parameters.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/SecretKeyAccess.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKemKeyFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/HpkeKemPrivateKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/NistCurvesHpkeKem.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/NistCurvesHpkeKemPrivateKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/hybrid/internal/X25519HpkeKemPrivateKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/BuildDispatchedCode.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/KeyParser.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/KeySerializer.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/LegacyProtoKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/LegacyProtoParameters.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/MonitoringUtil.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/MutableMonitoringRegistry.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/MutableSerializationRegistry.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/ParametersParser.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/ParametersSerializer.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/PrimitiveFactory.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/ProtoKeySerialization.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/ProtoParametersSerialization.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/Serialization.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/SerializationRegistry.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/internal/TinkBugException.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacParameters.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/AesCmacProtoSerialization.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/ChunkedMac.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/ChunkedMacComputation.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/ChunkedMacVerification.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/MacKey.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/mac/MacParameters.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/monitoring/MonitoringAnnotations.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/monitoring/MonitoringClient.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/monitoring/MonitoringKeysetInfo.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "com/google/crypto/tink/util/SecretBytes.java"
+        start_line: 1
+        end_line: 1

@@ -1,0 +1,746 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/square/okio.git"
+      revision: "okio-parent-1.17.6"
+      path: ""
+    resolved_revision: "7599853576e32987fd1a99fc6d36b2b3e655451e"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:16:35.000059872Z"
+    end_time: "2026-03-04T13:16:41.000671056Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 2
+        end_line: 202
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 139
+        end_line: 154
+      score: 98.84
+    - license: "Apache-2.0"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/BufferCursorSeekBenchmark.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/BufferPerformanceBenchmark.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/GetByteBenchmark.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/IndexOfElementBenchmark.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/AsyncTimeout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Base64.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Buffer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/BufferedSink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/BufferedSource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/ByteString.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/DeflaterSink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/ForwardingSink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/ForwardingSource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/ForwardingTimeout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/GzipSink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/GzipSource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/HashingSink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/HashingSource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/InflaterSource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Okio.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Options.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/PeekSource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Pipe.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/PushableTimeout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/RealBufferedSink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/RealBufferedSource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Segment.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/SegmentPool.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/SegmentedByteString.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Sink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Source.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Timeout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Utf8.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/main/java/okio/Util.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/AsyncTimeoutTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/BufferCursorTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/BufferTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/BufferedSinkTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/BufferedSourceTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/ByteStringTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/DeflaterSinkTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/GzipSinkTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/GzipSourceTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/HashingSinkTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/HashingSourceTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/HashingTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/InflaterSourceTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/LargeStreamsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/MockSink.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/NioTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/OkioTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/OptionsTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/PipeTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/PushableTimeoutTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/ReadUtf8LineTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/RealBufferedSinkTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/RealBufferedSourceTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/SegmentSharingTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/SocketTimeoutTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/TestUtil.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/Utf8Test.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "okio/src/test/java/okio/WaitUntilNotifiedTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "pom.xml"
+        start_line: 51
+        end_line: 52
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "pom.xml"
+        start_line: 52
+        end_line: 53
+      score: 75.0
+    - license: "Apache-2.0"
+      location:
+        path: "samples/src/main/java/okio/samples/Randoms.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 13
+        end_line: 14
+      score: 94.74
+    - license: "NOASSERTION"
+      location:
+        path: "pom.xml"
+        start_line: 50
+        end_line: 52
+      score: 16.0
+    copyrights:
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/AsyncTimeout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Buffer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/BufferedSink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/BufferedSource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/DeflaterSink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/ForwardingSink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/ForwardingSource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/GzipSink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/GzipSource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/InflaterSource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Okio.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/RealBufferedSink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/RealBufferedSource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Segment.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/SegmentPool.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Sink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Source.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Timeout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Util.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/AsyncTimeoutTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/BufferTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/BufferedSinkTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/BufferedSourceTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/DeflaterSinkTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/GzipSinkTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/GzipSourceTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/InflaterSourceTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/MockSink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/OkioTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/ReadUtf8LineTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/RealBufferedSinkTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/RealBufferedSourceTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/SocketTimeoutTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/TestUtil.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/Utf8Test.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 Square, Inc. and others"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/BufferPerformanceBenchmark.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/ForwardingTimeout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/SegmentedByteString.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/SegmentSharingTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/HashingSink.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/HashingSource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Options.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Pipe.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/HashingSinkTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/HashingSourceTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/LargeStreamsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/PipeTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/WaitUntilNotifiedTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 Square, Inc. and others"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/IndexOfElementBenchmark.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/Utf8.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/PeekSource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/BufferCursorTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/NioTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/OptionsTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 Square, Inc."
+      location:
+        path: "samples/src/main/java/okio/samples/Randoms.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 Square, Inc. and others"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/BufferCursorSeekBenchmark.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 Square, Inc. and others"
+      location:
+        path: "benchmarks/src/main/java/com/squareup/okio/benchmarks/GetByteBenchmark.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 Square, Inc."
+      location:
+        path: "okio/src/main/java/okio/PushableTimeout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 Square, Inc."
+      location:
+        path: "okio/src/test/java/okio/PushableTimeoutTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2013 Square, Inc."
+      location:
+        path: "README.md"
+        start_line: 142
+        end_line: 142
+    - statement: "Copyright 2014 Square Inc."
+      location:
+        path: "okio/src/main/java/okio/ByteString.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Square Inc."
+      location:
+        path: "okio/src/test/java/okio/ByteStringTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2014 Square Inc."
+      location:
+        path: "okio/src/test/java/okio/HashingTest.java"
+        start_line: 2
+        end_line: 2

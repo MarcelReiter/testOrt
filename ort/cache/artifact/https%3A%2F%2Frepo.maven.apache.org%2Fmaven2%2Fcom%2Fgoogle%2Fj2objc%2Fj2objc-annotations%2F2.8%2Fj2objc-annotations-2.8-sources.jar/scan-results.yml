@@ -1,0 +1,92 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8-sources.jar"
+      hash:
+        value: "74fb66e276fc42784d884d51f841e35232bc90de"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:16:07.000089358Z"
+    end_time: "2026-03-04T13:16:09.000108995Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/AutoreleasePool.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/J2ObjCIncompatible.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/LoopTranslation.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/ObjectiveCName.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/OnDealloc.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/Property.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/ReflectionSupport.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/RetainedLocalRef.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/RetainedWith.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/Weak.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/j2objc/annotations/WeakOuter.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2012 Google Inc."
+      location:
+        path: "com/google/j2objc/annotations/AutoreleasePool.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Google Inc."
+      location:
+        path: "com/google/j2objc/annotations/Weak.java"
+        start_line: 2
+        end_line: 2
