@@ -1,0 +1,49 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-runtime/2.2.0/core-runtime-2.2.0-sources.jar"
+      hash:
+        value: "48630ad88f438e5a603ae74cf4858203d1a595c5"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:59:22.000451409Z"
+    end_time: "2026-03-04T13:59:24.000321604Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/arch/core/executor/ArchTaskExecutor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/arch/core/executor/DefaultTaskExecutor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/arch/core/executor/TaskExecutor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/arch/core/executor/ArchTaskExecutor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/arch/core/executor/DefaultTaskExecutor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/arch/core/executor/TaskExecutor.java"
+        start_line: 2
+        end_line: 2

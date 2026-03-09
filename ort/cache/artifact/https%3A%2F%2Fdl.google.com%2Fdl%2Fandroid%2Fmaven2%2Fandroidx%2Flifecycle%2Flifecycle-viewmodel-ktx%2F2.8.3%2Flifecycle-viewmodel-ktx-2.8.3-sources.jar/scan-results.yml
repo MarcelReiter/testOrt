@@ -1,0 +1,14 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-ktx/2.8.3/lifecycle-viewmodel-ktx-2.8.3-sources.jar"
+      hash:
+        value: "2ad14aed781c4a73ed4dbb421966d408a0a06686"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:54:05.000358483Z"
+    end_time: "2026-03-04T13:54:06.000820506Z"

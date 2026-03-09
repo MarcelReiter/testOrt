@@ -1,0 +1,981 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/typetools/checker-framework.git"
+      revision: ""
+      path: ""
+    resolved_revision: "842c4d0080063ff37dc622398e8740731d96e801"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:57:41.000940121Z"
+    end_time: "2026-03-04T13:59:13.000739253Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 29
+        end_line: 29
+      score: 90.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/CHANGELOG.md"
+        start_line: 2004
+        end_line: 2004
+      score: 90.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap-responsive.css"
+        start_line: 5
+        end_line: 6
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap-responsive.min.css"
+        start_line: 5
+        end_line: 6
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap.css"
+        start_line: 5
+        end_line: 6
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap.min.css"
+        start_line: 5
+        end_line: 6
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 7
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 66
+        end_line: 76
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 164
+        end_line: 174
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 268
+        end_line: 278
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 452
+        end_line: 462
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 618
+        end_line: 628
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 778
+        end_line: 788
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1024
+        end_line: 1034
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1309
+        end_line: 1319
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1422
+        end_line: 1432
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1583
+        end_line: 1593
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1726
+        end_line: 1736
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 2049
+        end_line: 2059
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.min.js"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradlew"
+        start_line: 6
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradlew.bat"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "GPL-1.0-or-later"
+      location:
+        path: "LICENSE.txt"
+        start_line: 31
+        end_line: 31
+      score: 90.0
+    - license: "GPL-1.0-or-later"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 753
+        end_line: 753
+      score: 85.0
+    - license: "GPL-1.0-or-later"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1023
+        end_line: 1023
+      score: 85.0
+    - license: "GPL-1.0-or-later"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1024
+        end_line: 1024
+      score: 85.0
+    - license: "GPL-1.0-or-later"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1028
+        end_line: 1028
+      score: 100.0
+    - license: "GPL-1.0-or-later"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1033
+        end_line: 1033
+      score: 90.0
+    - license: "GPL-2.0-only"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 753
+        end_line: 753
+      score: 95.0
+    - license: "GPL-2.0-only"
+      location:
+        path: "docs/CHANGELOG.md"
+        start_line: 2962
+        end_line: 2962
+      score: 100.0
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 5
+        end_line: 6
+      score: 100.0
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 43
+        end_line: 393
+      score: 99.84
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "build.gradle"
+        start_line: 823
+        end_line: 823
+      score: 100.0
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "checker/build.gradle"
+        start_line: 1051
+        end_line: 1054
+      score: 95.0
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "dataflow/build.gradle"
+        start_line: 170
+        end_line: 173
+      score: 86.96
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "dataflow/build.gradle"
+        start_line: 195
+        end_line: 198
+      score: 86.96
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "framework-test/build.gradle"
+        start_line: 28
+        end_line: 31
+      score: 86.96
+    - license: "GPL-2.0-only WITH Classpath-exception-2.0"
+      location:
+        path: "javacutil/build.gradle"
+        start_line: 38
+        end_line: 41
+      score: 95.0
+    - license: "GPL-2.0-or-later WITH Classpath-exception-2.0"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1019
+        end_line: 1020
+      score: 100.0
+    - license: "LGPL-2.0-or-later"
+      location:
+        path: "LICENSE.txt"
+        start_line: 29
+        end_line: 29
+      score: 100.0
+    - license: "LGPL-2.0-or-later"
+      location:
+        path: "docs/CHANGELOG.md"
+        start_line: 2004
+        end_line: 2004
+      score: 60.0
+    - license: "LGPL-3.0-only"
+      location:
+        path: "checker/build.gradle"
+        start_line: 1052
+        end_line: 1055
+      score: 56.0
+    - license: "LGPL-3.0-only"
+      location:
+        path: "dataflow/build.gradle"
+        start_line: 171
+        end_line: 174
+      score: 56.0
+    - license: "LGPL-3.0-only"
+      location:
+        path: "dataflow/build.gradle"
+        start_line: 196
+        end_line: 199
+      score: 56.0
+    - license: "LGPL-3.0-only"
+      location:
+        path: "framework-test/build.gradle"
+        start_line: 29
+        end_line: 32
+      score: 56.0
+    - license: "LGPL-3.0-only"
+      location:
+        path: "javacutil/build.gradle"
+        start_line: 39
+        end_line: 42
+      score: 56.0
+    - license: "LPPL-1.3c"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 15
+        end_line: 16
+      score: 100.0
+    - license: "LPPL-1.3c"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 15
+        end_line: 16
+      score: 100.0
+    - license: "LPPL-1.3c"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 15
+        end_line: 16
+      score: 100.0
+    - license: "LicenseRef-scancode-public-domain"
+      location:
+        path: "docs/manual/external-tools.tex"
+        start_line: 39
+        end_line: 39
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 42
+        end_line: 42
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE.txt"
+        start_line: 12
+        end_line: 12
+      score: 72.73
+    - license: "MIT"
+      location:
+        path: "LICENSE.txt"
+        start_line: 22
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE.txt"
+        start_line: 35
+        end_line: 36
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE.txt"
+        start_line: 38
+        end_line: 39
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE.txt"
+        start_line: 393
+        end_line: 393
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "LICENSE.txt"
+        start_line: 395
+        end_line: 411
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "build.gradle"
+        start_line: 821
+        end_line: 821
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "checker-qual-android/build.gradle"
+        start_line: 49
+        end_line: 53
+      score: 72.22
+    - license: "MIT"
+      location:
+        path: "checker-qual/LICENSE.txt"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "checker-qual/LICENSE.txt"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "checker-qual/build.gradle"
+        start_line: 50
+        end_line: 54
+      score: 72.22
+    - license: "MIT"
+      location:
+        path: "checker-util/LICENSE.txt"
+        start_line: 4
+        end_line: 4
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "checker-util/LICENSE.txt"
+        start_line: 6
+        end_line: 22
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "checker-util/build.gradle"
+        start_line: 21
+        end_line: 25
+      score: 72.22
+    - license: "MIT"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1036
+        end_line: 1036
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 41
+        end_line: 41
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 42
+        end_line: 42
+      score: 90.0
+    - license: "NOASSERTION"
+      location:
+        path: "LICENSE.txt"
+        start_line: 29
+        end_line: 29
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1021
+        end_line: 1022
+      score: 50.0
+    - license: "NOASSERTION WITH Classpath-exception-2.0"
+      location:
+        path: "docs/manual/troubleshooting.tex"
+        start_line: 1029
+        end_line: 1029
+      score: 100.0
+    - license: "OpenSSL"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 15
+        end_line: 16
+      score: 90.91
+    - license: "OpenSSL"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 15
+        end_line: 16
+      score: 90.91
+    - license: "OpenSSL"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 15
+        end_line: 16
+      score: 90.91
+    copyrights:
+    - statement: "(c) 1996-2004 Carsten Heinz"
+      location:
+        path: "dataflow/manual/listings.sty"
+        start_line: 11
+        end_line: 11
+    - statement: "(c) 1996-2004 Carsten Heinz"
+      location:
+        path: "dataflow/manual/lstdoc.sty"
+        start_line: 11
+        end_line: 11
+    - statement: "(c) 1996-2004 Carsten Heinz"
+      location:
+        path: "dataflow/manual/lstmisc.sty"
+        start_line: 11
+        end_line: 11
+    - statement: "(c) 1997 Detlev Droege"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 233
+        end_line: 233
+    - statement: "(c) 1997 Dominique de Waleffe"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 927
+        end_line: 927
+    - statement: "(c) 1997 Dominique de Waleffe"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 1586
+        end_line: 1586
+    - statement: "(c) 1997 Kai Wollenweber"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1501
+        end_line: 1501
+    - statement: "(c) 1998 Christian Haul"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1460
+        end_line: 1460
+    - statement: "(c) 1998 Detlef Reimers"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 272
+        end_line: 272
+    - statement: "(c) 1998 Juergen Heim"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 523
+        end_line: 523
+    - statement: "(c) 1998 Kai Below"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 284
+        end_line: 284
+    - statement: "(c) 1998 Michael"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1267
+        end_line: 1267
+    - statement: "(c) 1998 Peter Bartke"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 949
+        end_line: 949
+    - statement: "(c) 1999 Aidan Philip Heerdegen"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 1642
+        end_line: 1642
+    - statement: "(c) 1999 Berthold H"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1206
+        end_line: 1206
+    - statement: "(c) 1999 Jens T. Berger Thielemann"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 110
+        end_line: 110
+    - statement: "(c) 1999 Jos e Romildo Malaquias"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 109
+        end_line: 109
+    - statement: "(c) 1999 Michael Wiese"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 882
+        end_line: 882
+    - statement: "(c) 1999 Patrick Cousot"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 127
+        end_line: 127
+    - statement: "(c) 1999 Peter Bartke"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 448
+        end_line: 448
+    - statement: "(c) 1999 Torben Hoffmann"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 972
+        end_line: 972
+    - statement: "(c) 2000 Achim D. Brucker"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 750
+        end_line: 750
+    - statement: "(c) 2000 Rolf Niepraschk"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 896
+        end_line: 896
+    - statement: "(c) 2000 Sonja Weidmann"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 1746
+        end_line: 1746
+    - statement: "(c) 2000 by Andreas Matthias"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 27
+        end_line: 27
+    - statement: "(c) 2001 Oliver Baum"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 1795
+        end_line: 1795
+    - statement: "(c) 2001 Ralph Becket"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 928
+        end_line: 928
+    - statement: "(c) 2001,2002 Ulrich G. Wortmann"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1037
+        end_line: 1037
+    - statement: "(c) 2002 Andrew Zabolotny"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 63
+        end_line: 63
+    - statement: "(c) 2002 Geraint Paul Bevan"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 1065
+        end_line: 1065
+    - statement: "(c) 2002 Mark van Eijk"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 312
+        end_line: 312
+    - statement: "(c) 2002 Martin Brodbeck"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 266
+        end_line: 266
+    - statement: "(c) 2002 Neil Conway"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1461
+        end_line: 1461
+    - statement: "(c) 2002 Robert Frank"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 80
+        end_line: 80
+    - statement: "(c) 2002 Robert Frank"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1462
+        end_line: 1462
+    - statement: "(c) 2002,2003 Jean-Philippe Grivet"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1299
+        end_line: 1299
+    - statement: "(c) 2003 Adam Grabowski"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 671
+        end_line: 671
+    - statement: "(c) 2003 Cameron H. G. Wright <c.h.g.wright@ieee.org>"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 1574
+        end_line: 1574
+    - statement: "(c) 2003 Daniel Gazard"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 315
+        end_line: 315
+    - statement: "(c) 2003 Dirk Jesko"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1463
+        end_line: 1463
+    - statement: "(c) 2003 Jonathan Sauer"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 536
+        end_line: 536
+    - statement: "(c) 2003 Riccardo Murri <riccardo.murri@gmx.it>"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 297
+        end_line: 297
+    - statement: "(c) 2004 Brian Christensen"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 1119
+        end_line: 1119
+    - statement: "(c) 2004 Brooks Moses"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 608
+        end_line: 608
+    - statement: "(c) 2004 Martine Gautier"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 468
+        end_line: 468
+    - statement: "(c) 2004 William Thimbleby"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 925
+        end_line: 925
+    - statement: "(c) 2005 Christophe Jorssen"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 869
+        end_line: 869
+    - statement: "(c) 2006 Brooks Moses"
+      location:
+        path: "dataflow/manual/listings.sty"
+        start_line: 13
+        end_line: 13
+    - statement: "(c) 2006 Brooks Moses"
+      location:
+        path: "dataflow/manual/lstdoc.sty"
+        start_line: 13
+        end_line: 13
+    - statement: "(c) 2006 Brooks Moses"
+      location:
+        path: "dataflow/manual/lstmisc.sty"
+        start_line: 13
+        end_line: 13
+    - statement: "(c) 2006 Christoph Kiefer"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 1240
+        end_line: 1240
+    - statement: "(c) 2006 Herbert Voss"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 939
+        end_line: 939
+    - statement: "(c) 2006 Michael Franke"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 47
+        end_line: 47
+    - statement: "(c) 2006 Santiago Urue"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 40
+        end_line: 40
+    - statement: "(c) 2013 Heiko Oberdiek"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 292
+        end_line: 292
+    - statement: "(c) 2013 Ignacio D"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 360
+        end_line: 360
+    - statement: "(c) 2013 Stefan Pinnow"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 80
+        end_line: 80
+    - statement: "(c) 2013 Stephan Hennig"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 761
+        end_line: 761
+    - statement: "(c) 2013- Jobst Hoffmann"
+      location:
+        path: "dataflow/manual/listings.sty"
+        start_line: 14
+        end_line: 14
+    - statement: "(c) 2013- Jobst Hoffmann"
+      location:
+        path: "dataflow/manual/lstdoc.sty"
+        start_line: 14
+        end_line: 14
+    - statement: "(c) 2013- Jobst Hoffmann"
+      location:
+        path: "dataflow/manual/lstmisc.sty"
+        start_line: 14
+        end_line: 14
+    - statement: "(c) Andres Becerra Sandoval"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 984
+        end_line: 984
+    - statement: "(c) Christoph Giess"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 61
+        end_line: 61
+    - statement: "(c) Christoph Giess"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 334
+        end_line: 334
+    - statement: "(c) Gerd Neugebauer"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 1657
+        end_line: 1657
+    - statement: "(c) Robert Wenner"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 422
+        end_line: 422
+    - statement: "(c) Steffen Klupsch"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 1520
+        end_line: 1520
+    - statement: "(c) Torsten Neuer"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 38
+        end_line: 38
+    - statement: "Copyright (c) 1989, 1991 Free Software Foundation, Inc."
+      location:
+        path: "LICENSE.txt"
+        start_line: 47
+        end_line: 47
+    - statement: "Copyright (c) 2012 University of Washington"
+      location:
+        path: "docs/developer/release/release_utils.py"
+        start_line: 10
+        end_line: 10
+    - statement: "Copyright (c) 2012 University of Washington"
+      location:
+        path: "docs/developer/release/sanity_checks.py"
+        start_line: 10
+        end_line: 10
+    - statement: "Copyright (c) 2013-2016 University of Washington"
+      location:
+        path: "docs/developer/release/release_push.py"
+        start_line: 8
+        end_line: 8
+    - statement: "Copyright (c) 2014 University of Washington"
+      location:
+        path: "docs/developer/release/release_vars.py"
+        start_line: 8
+        end_line: 8
+    - statement: "Copyright (c) 2015 University of Washington"
+      location:
+        path: "docs/developer/release/release_build.py"
+        start_line: 8
+        end_line: 8
+    - statement: "Copyright (c) 2015-2021 the original"
+      location:
+        path: "gradlew"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2004-present by the Checker Framework developers"
+      location:
+        path: "LICENSE.txt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2004-present by the Checker Framework developers"
+      location:
+        path: "checker-qual/LICENSE.txt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2004-present by the Checker Framework developers"
+      location:
+        path: "checker-util/LICENSE.txt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2012 Twitter, Inc"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap-responsive.css"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2012 Twitter, Inc"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap-responsive.min.css"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2012 Twitter, Inc"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap.css"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2012 Twitter, Inc"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/css/bootstrap.min.css"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 5
+        end_line: 5
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 64
+        end_line: 64
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 162
+        end_line: 162
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 266
+        end_line: 266
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 450
+        end_line: 450
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 616
+        end_line: 616
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 776
+        end_line: 776
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1022
+        end_line: 1022
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1307
+        end_line: 1307
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1420
+        end_line: 1420
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1581
+        end_line: 1581
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 1724
+        end_line: 1724
+    - statement: "Copyright 2012 Twitter, Inc."
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.js"
+        start_line: 2047
+        end_line: 2047
+    - statement: "Copyright 2012 Twitter, Inc. http://www.apache.org/licenses/LICENSE-2.0.txt"
+      location:
+        path: "docs/tutorial/webpages/bootstrap/js/bootstrap.min.js"
+        start_line: 3
+        end_line: 4
+    - statement: "Copyright 2015 the original author or authors"
+      location:
+        path: "gradlew.bat"
+        start_line: 2
+        end_line: 2
+    - statement: "copyright 1996-2004 Carsten Heinz"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 9
+        end_line: 9
+    - statement: "copyright 1996-2004 Carsten Heinz"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 9
+        end_line: 9
+    - statement: "copyright 1996-2004 Carsten Heinz"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 9
+        end_line: 9
+    - statement: "copyright 2006-2007 Brooks Moses"
+      location:
+        path: "dataflow/manual/lstlang1.sty"
+        start_line: 10
+        end_line: 11
+    - statement: "copyright 2006-2007 Brooks Moses"
+      location:
+        path: "dataflow/manual/lstlang2.sty"
+        start_line: 10
+        end_line: 11
+    - statement: "copyright 2006-2007 Brooks Moses"
+      location:
+        path: "dataflow/manual/lstlang3.sty"
+        start_line: 10
+        end_line: 11
+    - statement: "copyrighted by the Free Software Foundation"
+      location:
+        path: "LICENSE.txt"
+        start_line: 278
+        end_line: 278

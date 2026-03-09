@@ -1,0 +1,302 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-android/2.8.3/lifecycle-viewmodel-android-2.8.3-sources.jar"
+      hash:
+        value: "f394e7f6091e5e3e30d57b7d6087ac5995fe039c"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:25:30.000057597Z"
+    end_time: "2026-03-04T14:25:32.000699925Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/AndroidViewModel.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewModelProvider.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewTreeViewModel.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewTreeViewModelStoreOwner.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/viewmodel/InitializerViewModelFactory.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/viewmodel/internal/ViewModelProviderImpl.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/HasDefaultViewModelProviderFactory.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModel.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelLazy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelProviderGet.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelStore.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelStoreOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/CreationExtras.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/InitializerViewModelFactory.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/CloseableCoroutineScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/DefaultViewModelProviderFactory.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/SynchronizedObject.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/ViewModelImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/ViewModelProviderImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/ViewModelProviders.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/lifecycle/ViewModel.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/DefaultViewModelProviderFactory.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/JvmViewModelProviders.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/SynchronizedObject.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/ViewModelProviders.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/AndroidViewModel.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelStore.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelStoreOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/lifecycle/ViewModel.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModel.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/HasDefaultViewModelProviderFactory.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewTreeViewModelStoreOwner.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/CreationExtras.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewTreeViewModel.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewModelProvider.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/viewmodel/InitializerViewModelFactory.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/viewmodel/internal/ViewModelProviderImpl.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelLazy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/ViewModelProviderGet.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/InitializerViewModelFactory.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/CloseableCoroutineScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/DefaultViewModelProviderFactory.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/SynchronizedObject.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/ViewModelImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/ViewModelProviderImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/viewmodel/internal/ViewModelProviders.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/DefaultViewModelProviderFactory.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/JvmViewModelProviders.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/SynchronizedObject.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/lifecycle/viewmodel/internal/ViewModelProviders.jvm.kt"
+        start_line: 2
+        end_line: 2

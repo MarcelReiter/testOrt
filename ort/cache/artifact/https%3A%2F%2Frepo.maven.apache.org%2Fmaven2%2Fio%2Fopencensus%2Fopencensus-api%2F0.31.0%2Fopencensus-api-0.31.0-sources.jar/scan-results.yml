@@ -1,0 +1,1490 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.31.0/opencensus-api-0.31.0-sources.jar"
+      hash:
+        value: "117ce743c288a72cfdd7768380dd0e853f1e75d7"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:40:24.000195482Z"
+    end_time: "2026-03-04T13:40:32.000507218Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/Clock.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/Duration.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/ExperimentalApi.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/Function.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/Functions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/Internal.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/NonThrowingCloseable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/OpenCensusLibraryInformation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/Scope.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/ServerStats.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/ServerStatsDeserializationException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/ServerStatsEncoding.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/ServerStatsFieldEnums.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/TimeUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/Timestamp.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/ToDoubleFunction.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/ToLongFunction.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/common/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/internal/DefaultVisibilityForTesting.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/internal/NoopScope.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/internal/Provider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/internal/StringUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/internal/Utils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/internal/ZeroTimeClock.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/internal/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/DerivedDoubleCumulative.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/DerivedDoubleGauge.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/DerivedLongCumulative.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/DerivedLongGauge.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/DoubleCumulative.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/DoubleGauge.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/LabelKey.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/LabelValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/LongCumulative.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/LongGauge.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/MetricOptions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/MetricRegistry.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/Metrics.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/MetricsComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/data/AttachmentValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/data/Exemplar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/data/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/Distribution.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/ExportComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/Metric.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/MetricDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/MetricProducer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/MetricProducerManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/Point.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/Summary.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/TimeSeries.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/export/Value.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/metrics/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/resource/Resource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/resource/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/Aggregation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/AggregationData.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/BucketBoundaries.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/Measure.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/MeasureMap.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/Measurement.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/NoopStats.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/Stats.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/StatsCollectionState.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/StatsComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/StatsRecorder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/View.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/ViewData.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/ViewManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/stats/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/InternalUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/NoopTags.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/Tag.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/TagContext.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/TagContextBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/TagKey.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/TagMetadata.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/TagValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/Tagger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/TaggingState.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/Tags.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/TagsComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextBinarySerializer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextDeserializationException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextSerializationException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextTextFormat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/propagation/TagPropagationComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/tags/unsafe/ContextUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Annotation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/AttributeValue.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/BaseMessageEvent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/BigendianEncoding.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/BlankSpan.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/ContextHandle.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/ContextManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/CurrentSpanUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/EndSpanOptions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Link.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/MessageEvent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/NetworkEvent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Sampler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Span.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/SpanBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/SpanContext.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/SpanId.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Status.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/TraceComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/TraceId.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/TraceOptions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Tracer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Tracestate.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/Tracing.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/config/TraceConfig.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/config/TraceParams.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/export/ExportComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/export/RunningSpanStore.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/export/SampledSpanStore.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/export/SpanData.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/export/SpanExporter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/internal/BaseMessageEventUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/package-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/propagation/BinaryFormat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/propagation/PropagationComponent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/propagation/SpanContextParseException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/propagation/TextFormat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/samplers/AlwaysSampleSampler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/samplers/NeverSampleSampler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/samplers/ProbabilitySampler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/samplers/Samplers.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextHandleImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextHandleUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextManagerImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/Duration.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/Function.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/OpenCensusLibraryInformation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/Timestamp.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/internal/Provider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/internal/StringUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/Measurement.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/Stats.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/View.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/ViewData.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/ViewManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/AttributeValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/BlankSpan.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/ContextHandle.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/ContextManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/NetworkEvent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Span.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/SpanContext.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Status.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/TraceComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/TraceId.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Tracer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Tracing.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextHandleImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextHandleUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-17, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextManagerImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/Clock.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/ExperimentalApi.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/Functions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/Internal.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/NonThrowingCloseable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/Scope.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/TimeUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/internal/NoopScope.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/internal/ZeroTimeClock.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/internal/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/Aggregation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/AggregationData.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/BucketBoundaries.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/Measure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/MeasureMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/NoopStats.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/StatsCollectionState.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/StatsComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/StatsRecorder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/InternalUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/NoopTags.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/Tag.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/TagContext.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/TagContextBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/TagKey.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/TagValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/Tagger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/TaggingState.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/Tags.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/TagsComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextBinarySerializer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextDeserializationException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextSerializationException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/propagation/TagPropagationComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/unsafe/ContextUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Annotation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/CurrentSpanUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/EndSpanOptions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Link.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Sampler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/SpanBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/SpanId.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/TraceOptions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/config/TraceConfig.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/config/TraceParams.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/export/ExportComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/export/RunningSpanStore.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/export/SampledSpanStore.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/export/SpanData.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/export/SpanExporter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/propagation/BinaryFormat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/propagation/PropagationComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/propagation/SpanContextParseException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/propagation/TextFormat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/samplers/AlwaysSampleSampler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/samplers/NeverSampleSampler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/samplers/ProbabilitySampler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/samplers/Samplers.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/unsafe/ContextUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/ServerStats.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/ServerStatsDeserializationException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/ServerStatsEncoding.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/ServerStatsFieldEnums.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/ToDoubleFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/ToLongFunction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/common/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/internal/DefaultVisibilityForTesting.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/internal/Utils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/DerivedDoubleGauge.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/DerivedLongGauge.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/DoubleGauge.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/LabelKey.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/LabelValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/LongGauge.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/MetricRegistry.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/Metrics.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/MetricsComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/Distribution.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/ExportComponent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/Metric.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/MetricDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/MetricProducer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/MetricProducerManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/Point.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/Summary.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/TimeSeries.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/export/Value.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/resource/Resource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/resource/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/stats/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/BaseMessageEvent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/BigendianEncoding.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/MessageEvent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/Tracestate.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/internal/BaseMessageEventUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "io/opencensus/trace/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/DerivedDoubleCumulative.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/DerivedLongCumulative.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/DoubleCumulative.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/LongCumulative.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/MetricOptions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/data/AttachmentValue.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/data/Exemplar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/metrics/data/package-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/TagMetadata.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019, OpenCensus Authors"
+      location:
+        path: "io/opencensus/tags/propagation/TagContextTextFormat.java"
+        start_line: 2
+        end_line: 2

@@ -1,0 +1,115 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.8.3/lifecycle-common-2.8.3-sources.jar"
+      hash:
+        value: "c8e416d29fc5360723ec88a08023524d89c89feb"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:15:59.000487499Z"
+    end_time: "2026-03-04T13:16:01.000732311Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx.lifecycle/DefaultLifecycleObserver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx.lifecycle/DefaultLifecycleObserverAdapter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx.lifecycle/Lifecycle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx.lifecycle/LifecycleEventObserver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx.lifecycle/LifecycleObserver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx.lifecycle/LifecycleOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx.lifecycle/Lifecycling.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/Lifecycle.nonJvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/Lifecycling.nonJvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx.lifecycle/DefaultLifecycleObserver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx.lifecycle/DefaultLifecycleObserverAdapter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx.lifecycle/Lifecycle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx.lifecycle/LifecycleObserver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx.lifecycle/LifecycleOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx.lifecycle/Lifecycling.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx.lifecycle/LifecycleEventObserver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/Lifecycle.nonJvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/Lifecycling.nonJvm.kt"
+        start_line: 2
+        end_line: 2

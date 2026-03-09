@@ -1,0 +1,27 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/android/tools/utp/android-test-plugin-result-listener-gradle-proto/31.13.2/android-test-plugin-result-listener-gradle-proto-31.13.2-sources.jar"
+      hash:
+        value: "38a3f1d01ee439b9bc6de016ce0c235f8cc15434"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:16:59.000044269Z"
+    end_time: "2026-03-04T14:17:04.000884038Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "NOTICE"
+        start_line: 3
+        end_line: 188
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2005-2021, The Android Open Source Project"
+      location:
+        path: "NOTICE"
+        start_line: 1
+        end_line: 1

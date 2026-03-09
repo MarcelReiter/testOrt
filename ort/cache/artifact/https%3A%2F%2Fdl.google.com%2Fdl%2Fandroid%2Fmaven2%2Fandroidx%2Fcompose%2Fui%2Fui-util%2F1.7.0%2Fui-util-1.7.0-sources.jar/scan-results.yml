@@ -1,0 +1,93 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-util/1.7.0/ui-util-1.7.0-sources.jar"
+      hash:
+        value: "7a2595ae990075134e89cf9a1d68cc7fcca9002b"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:19:22.000967854Z"
+    end_time: "2026-03-04T14:19:25.000139089Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/ExperimentalComposeUiApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/InternalComposeUiApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/util/InlineClassHelper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/util/ListUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/util/MathHelpers.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/util/Trace.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/util/InlineClassHelper.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/util/InlineClassHelper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/util/MathHelpers.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/ExperimentalComposeUiApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/InternalComposeUiApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/util/ListUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/util/Trace.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/util/InlineClassHelper.jvm.kt"
+        start_line: 2
+        end_line: 2

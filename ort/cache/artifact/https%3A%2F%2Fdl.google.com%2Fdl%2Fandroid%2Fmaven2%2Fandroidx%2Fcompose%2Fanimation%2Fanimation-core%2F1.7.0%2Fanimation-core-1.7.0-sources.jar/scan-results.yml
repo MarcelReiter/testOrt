@@ -1,0 +1,423 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/animation/animation-core/1.7.0/animation-core-1.7.0-sources.jar"
+      hash:
+        value: "af99d9f325065686f9f68a2abff1d9c712eb7f50"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:51:36.000213104Z"
+    end_time: "2026-03-04T13:51:41.000928311Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Animatable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimateAsState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Animation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationEndReason.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationSpec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationVectors.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ArcSpline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ComplexDouble.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/DecayAnimationSpec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/DeferredTargetAnimation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Easing.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/EasingFunctions.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Expect.kt"
+        start_line: 6
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ExperimentalAnimationSpecApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ExperimentalTransitionApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/FloatAnimationSpec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/FloatDecayAnimationSpec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InfiniteAnimationPolicy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InfiniteTransition.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/IntListExtension.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InternalAnimationApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InternalMutatorMutex.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/MonoSpline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/PathEasing.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Preconditions.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/SpringEstimation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/SpringSimulation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/SuspendAnimation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Transition.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorConverters.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorizedAnimationSpec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorizedDecayAnimationSpec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorizedMonoSplineKeyframesSpec.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VisibilityThresholds.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/animation/core/ActualJvm.jvm.kt"
+        start_line: 6
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/animation/core/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Animatable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationEndReason.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationVectors.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Easing.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/FloatAnimationSpec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/FloatDecayAnimationSpec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/SpringSimulation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorizedAnimationSpec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimateAsState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Animation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationSpec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/AnimationState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ComplexDouble.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/DecayAnimationSpec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InternalAnimationApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/SpringEstimation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/SuspendAnimation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Transition.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorConverters.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorizedDecayAnimationSpec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VisibilityThresholds.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Expect.kt"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ExperimentalTransitionApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InfiniteAnimationPolicy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InfiniteTransition.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/InternalMutatorMutex.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/animation/core/ActualJvm.jvm.kt"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/EasingFunctions.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/animation/core/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ArcSpline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/ExperimentalAnimationSpecApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/IntListExtension.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/MonoSpline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/PathEasing.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/VectorizedMonoSplineKeyframesSpec.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/DeferredTargetAnimation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/animation/core/Preconditions.kt"
+        start_line: 2
+        end_line: 2

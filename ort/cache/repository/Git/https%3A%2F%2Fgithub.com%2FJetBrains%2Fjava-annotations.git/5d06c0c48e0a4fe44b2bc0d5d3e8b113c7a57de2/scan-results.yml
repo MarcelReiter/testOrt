@@ -1,0 +1,470 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/JetBrains/java-annotations.git"
+      revision: ""
+      path: ""
+    resolved_revision: "5d06c0c48e0a4fe44b2bc0d5d3e8b113c7a57de2"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:16:48.000828242Z"
+    end_time: "2026-03-04T13:16:51.000805131Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 2
+        end_line: 188
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 192
+        end_line: 202
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 2
+        end_line: 2
+      score: 94.44
+    - license: "Apache-2.0"
+      location:
+        path: "build.gradle"
+        start_line: 6
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "build.gradle"
+        start_line: 124
+        end_line: 128
+      score: 81.48
+    - license: "Apache-2.0"
+      location:
+        path: "common/build.gradle"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Flow.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Identifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/JdkConstants.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Language.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/MagicConstant.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Pattern.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/PrintFormat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/RegExp.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Subst.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/ApiStatus.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Async.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Blocking.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Contract.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Debug.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/MustBeInvokedByOverriders.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Nls.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/NonBlocking.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/NonNls.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/NotNull.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Nullable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/PropertyKey.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/TestOnly.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/VisibleForTesting.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle.properties"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle/wrapper/gradle-wrapper.properties"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java5/build.gradle"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java8/build.gradle"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/BlockingExecutor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/NonBlockingExecutor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/Range.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/UnknownNullability.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/Unmodifiable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/UnmodifiableView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "module-info/build.gradle"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "module-info/src/main/java/module-info.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "settings.gradle"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 2
+        end_line: 2
+      score: 80.0
+    copyrights:
+    - statement: "Copyright 2000-2016 JetBrains s.r.o."
+      location:
+        path: "LICENSE.txt"
+        start_line: 190
+        end_line: 190
+    - statement: "Copyright 2000-2020 JetBrains s.r.o."
+      location:
+        path: "module-info/src/main/java/module-info.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "build.gradle"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Flow.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Identifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/JdkConstants.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Language.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/MagicConstant.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Pattern.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/PrintFormat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/RegExp.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/intellij/lang/annotations/Subst.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/ApiStatus.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Async.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Blocking.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Contract.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Debug.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/MustBeInvokedByOverriders.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Nls.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/NonBlocking.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/NonNls.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/NotNull.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/Nullable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/PropertyKey.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/TestOnly.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "common/src/main/java/org/jetbrains/annotations/VisibleForTesting.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "gradle.properties"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "gradle/wrapper/gradle-wrapper.properties"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java5/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java8/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/BlockingExecutor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/NonBlockingExecutor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/Range.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/UnknownNullability.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/Unmodifiable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "java8/src/main/java/org/jetbrains/annotations/UnmodifiableView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "module-info/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2000-2021 JetBrains s.r.o."
+      location:
+        path: "settings.gradle"
+        start_line: 2
+        end_line: 2

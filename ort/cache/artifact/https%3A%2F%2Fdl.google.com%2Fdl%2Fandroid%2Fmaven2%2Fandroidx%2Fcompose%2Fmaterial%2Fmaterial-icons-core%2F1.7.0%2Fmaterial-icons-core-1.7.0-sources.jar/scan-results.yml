@@ -1,0 +1,3107 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/material/material-icons-core/1.7.0/material-icons-core-1.7.0-sources.jar"
+      hash:
+        value: "e518df0d8a19c3833f72a24ff667853015e340fd"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T11:38:15.000252763Z"
+    end_time: "2026-03-04T11:38:26.000927854Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/Icons.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/AccountBox.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/AccountCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Add.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/AddCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ArrowDropDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Build.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Call.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Check.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/CheckCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Clear.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Close.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Create.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/DateRange.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Delete.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Done.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Edit.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Email.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Face.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Favorite.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/FavoriteBorder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Home.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Info.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/LocationOn.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Lock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/MailOutline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Menu.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/MoreVert.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Notifications.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Person.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Phone.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Place.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/PlayArrow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Refresh.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Search.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Settings.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Share.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ShoppingCart.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Star.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ThumbUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Warning.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/AccountBox.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/AccountCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Add.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/AddCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ArrowDropDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Build.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Call.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Check.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/CheckCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Clear.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Close.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Create.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/DateRange.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Delete.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Done.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Edit.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Email.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Face.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Favorite.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/FavoriteBorder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Home.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Info.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/LocationOn.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Lock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/MailOutline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Menu.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/MoreVert.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Notifications.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Person.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Phone.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Place.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/PlayArrow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Refresh.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Search.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Settings.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Share.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ShoppingCart.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Star.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ThumbUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Warning.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/AccountBox.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/AccountCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Add.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/AddCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ArrowDropDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Build.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Call.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Check.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/CheckCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Clear.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Close.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Create.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/DateRange.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Delete.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Done.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Edit.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Email.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Face.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Favorite.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/FavoriteBorder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Home.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Info.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/LocationOn.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Lock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/MailOutline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Menu.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/MoreVert.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Notifications.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Person.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Phone.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Place.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/PlayArrow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Refresh.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Search.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Settings.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Share.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ShoppingCart.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Star.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ThumbUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Warning.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/AccountBox.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/AccountCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Add.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/AddCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ArrowDropDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Build.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Call.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Check.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/CheckCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Clear.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Close.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Create.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/DateRange.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Delete.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Done.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Edit.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Email.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Face.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Favorite.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/FavoriteBorder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Home.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Info.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/LocationOn.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Lock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/MailOutline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Menu.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/MoreVert.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Notifications.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Person.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Phone.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Place.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/PlayArrow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Refresh.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Search.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Settings.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Share.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ShoppingCart.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Star.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ThumbUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Warning.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/AccountBox.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/AccountCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Add.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/AddCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ArrowBack.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ArrowDropDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ArrowForward.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Build.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Call.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Check.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/CheckCircle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Clear.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Close.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Create.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/DateRange.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Delete.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Done.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Edit.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Email.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ExitToApp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Face.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Favorite.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/FavoriteBorder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Home.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Info.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowDown.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowLeft.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowRight.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/List.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/LocationOn.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Lock.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/MailOutline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Menu.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/MoreVert.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Notifications.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Person.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Phone.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Place.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/PlayArrow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Refresh.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Search.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Send.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Settings.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Share.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ShoppingCart.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Star.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ThumbUp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Warning.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/Icons.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/filled/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/outlined/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/rounded/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/sharp/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/automirrored/twotone/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/AccountBox.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/AccountCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Add.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/AddCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ArrowDropDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Build.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Call.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Check.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/CheckCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Clear.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Close.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Create.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/DateRange.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Delete.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Done.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Edit.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Email.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Face.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Favorite.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/FavoriteBorder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Home.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Info.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/KeyboardArrowUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/LocationOn.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Lock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/MailOutline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Menu.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/MoreVert.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Notifications.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Person.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Phone.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Place.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/PlayArrow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Refresh.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Search.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Settings.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Share.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ShoppingCart.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Star.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/ThumbUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/filled/Warning.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/AccountBox.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/AccountCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Add.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/AddCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ArrowDropDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Build.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Call.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Check.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/CheckCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Clear.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Close.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Create.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/DateRange.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Delete.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Done.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Edit.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Email.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Face.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Favorite.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/FavoriteBorder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Home.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Info.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/KeyboardArrowUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/LocationOn.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Lock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/MailOutline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Menu.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/MoreVert.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Notifications.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Person.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Phone.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Place.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/PlayArrow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Refresh.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Search.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Settings.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Share.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ShoppingCart.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Star.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/ThumbUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/outlined/Warning.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/AccountBox.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/AccountCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Add.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/AddCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ArrowDropDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Build.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Call.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Check.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/CheckCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Clear.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Close.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Create.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/DateRange.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Delete.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Done.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Edit.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Email.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Face.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Favorite.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/FavoriteBorder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Home.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Info.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/KeyboardArrowUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/LocationOn.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Lock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/MailOutline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Menu.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/MoreVert.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Notifications.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Person.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Phone.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Place.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/PlayArrow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Refresh.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Search.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Settings.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Share.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ShoppingCart.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Star.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/ThumbUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/rounded/Warning.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/AccountBox.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/AccountCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Add.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/AddCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ArrowDropDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Build.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Call.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Check.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/CheckCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Clear.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Close.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Create.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/DateRange.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Delete.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Done.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Edit.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Email.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Face.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Favorite.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/FavoriteBorder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Home.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Info.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/KeyboardArrowUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/LocationOn.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Lock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/MailOutline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Menu.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/MoreVert.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Notifications.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Person.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Phone.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Place.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/PlayArrow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Refresh.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Search.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Settings.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Share.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ShoppingCart.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Star.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/ThumbUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/sharp/Warning.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/AccountBox.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/AccountCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Add.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/AddCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ArrowBack.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ArrowDropDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ArrowForward.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Build.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Call.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Check.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/CheckCircle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Clear.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Close.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Create.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/DateRange.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Delete.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Done.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Edit.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Email.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ExitToApp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Face.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Favorite.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/FavoriteBorder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Home.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Info.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowDown.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowLeft.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowRight.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/KeyboardArrowUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/List.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/LocationOn.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Lock.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/MailOutline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Menu.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/MoreVert.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Notifications.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Person.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Phone.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Place.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/PlayArrow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Refresh.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Search.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Send.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Settings.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Share.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ShoppingCart.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Star.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/ThumbUp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/material/icons/twotone/Warning.kt"
+        start_line: 2
+        end_line: 2

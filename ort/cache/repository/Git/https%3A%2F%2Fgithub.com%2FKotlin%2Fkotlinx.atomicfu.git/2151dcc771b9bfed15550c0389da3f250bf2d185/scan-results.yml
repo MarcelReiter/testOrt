@@ -1,0 +1,718 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/Kotlin/kotlinx.atomicfu.git"
+      revision: ""
+      path: ""
+    resolved_revision: "2151dcc771b9bfed15550c0389da3f250bf2d185"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:14:10.000266318Z"
+    end_time: "2026-03-04T14:14:15.000237696Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 5
+        end_line: 5
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/build.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/main/kotlin/kotlinx/atomicfu/plugin/gradle/AtomicFUGradlePlugin.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/kotlin/kotlinx/atomicfu/plugin/gradle/internal/Assert.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/kotlin/kotlinx/atomicfu/plugin/gradle/internal/TestDsl.kt"
+        start_line: 3
+        end_line: 3
+      score: 95.24
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/kotlin/kotlinx/atomicfu/plugin/gradle/test/BaseKotlinGradleTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/js-simple/src/main/kotlin/IntArithmetic.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/js-simple/src/test/kotlin/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/jvm-simple/src/main/kotlin/IntArithmetic.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/jvm-simple/src/test/kotlin/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/mpp-simple/src/commonMain/kotlin/IntArithmetic.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/mpp-simple/src/commonTest/kotlin/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-maven-plugin/build.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-maven-plugin/mvnw"
+        start_line: 3
+        end_line: 18
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-maven-plugin/mvnw.cmd"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-maven-plugin/src/main/kotlin/kotlinx/atomicfu/plugin/TransformMojo.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-native/build.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/build.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/Abort.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AsmUtil.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AtomicFUTransformer.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AtomicFUTransformerBase.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AtomicFUTransformerJS.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/FlowAnalyzer.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/MetadataTransformer.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/build.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/npm/package.json"
+        start_line: 7
+        end_line: 7
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonMain/kotlin/kotlinx/atomicfu/AtomicFU.common.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonMain/kotlin/kotlinx/atomicfu/Trace.common.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonMain/kotlin/kotlinx/atomicfu/TraceFormat.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/bytecode_test/TraceUseTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/internal_test1/B.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/internal_test2/InternalTrace.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/internal_test2/С.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/AtomicArrayTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/InternalTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/JSScopesTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeIntBitsTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeLongCounterTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeQueueTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeStackTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/MultiInitTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/SimpleLockTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/TopLevelTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/TraceTestCommon.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/jsMain/kotlin/kotlinx/atomicfu/AtomicFU.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/jsMain/kotlin/kotlinx/atomicfu/Trace.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/jvmMain/kotlin/kotlinx/atomicfu/AtomicFU.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/jvmMain/kotlin/kotlinx/atomicfu/Trace.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/jvmTest/kotlin/kotlinx/atomicfu/test/TraceToStringTest.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/nativeMain/kotlin/kotlinx/atomicfu/AtomicFU.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "atomicfu/src/nativeMain/kotlin/kotlinx/atomicfu/Trace.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "build.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "buildSrc/src/main/kotlin/Publishing.kt"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "buildSrc/src/main/kotlin/Publishing.kt"
+        start_line: 25
+        end_line: 29
+      score: 74.07
+    - license: "Apache-2.0"
+      location:
+        path: "gradle.properties"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle/compile-options.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle/node-js.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle/publish-mpp-root-module-in-platform.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle/publish-npm-js.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle/publishing.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle/targets.gradle"
+        start_line: 2
+        end_line: 2
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "license/NOTICE.txt"
+        start_line: 2
+        end_line: 4
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2014-2020 JetBrains s.r.o and contributors"
+      location:
+        path: "gradle/publish-mpp-root-module-in-platform.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2019 JetBrains s.r.o."
+      location:
+        path: "gradle/targets.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AtomicFUTransformer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonMain/kotlin/kotlinx/atomicfu/Trace.common.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonMain/kotlin/kotlinx/atomicfu/TraceFormat.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/bytecode_test/TraceUseTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/internal_test2/InternalTrace.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/TraceTestCommon.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/jsMain/kotlin/kotlinx/atomicfu/Trace.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/jvmMain/kotlin/kotlinx/atomicfu/AtomicFU.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/jvmMain/kotlin/kotlinx/atomicfu/Trace.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/jvmTest/kotlin/kotlinx/atomicfu/test/TraceToStringTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/nativeMain/kotlin/kotlinx/atomicfu/Trace.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "buildSrc/src/main/kotlin/Publishing.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2020 JetBrains s.r.o."
+      location:
+        path: "gradle.properties"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2022 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/kotlin/kotlinx/atomicfu/plugin/gradle/internal/Assert.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2016-2022 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/kotlin/kotlinx/atomicfu/plugin/gradle/internal/TestDsl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 JetBrains s.r.o"
+      location:
+        path: "license/NOTICE.txt"
+        start_line: 8
+        end_line: 8
+    - statement: "Copyright 2017 JetBrains s.r.o."
+      location:
+        path: "LICENSE.txt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 JetBrains s.r.o."
+      location:
+        path: "atomicfu-maven-plugin/src/main/kotlin/kotlinx/atomicfu/plugin/TransformMojo.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/main/kotlin/kotlinx/atomicfu/plugin/gradle/AtomicFUGradlePlugin.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/kotlin/kotlinx/atomicfu/plugin/gradle/test/BaseKotlinGradleTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/js-simple/src/main/kotlin/IntArithmetic.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/js-simple/src/test/kotlin/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/jvm-simple/src/main/kotlin/IntArithmetic.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/jvm-simple/src/test/kotlin/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/mpp-simple/src/commonMain/kotlin/IntArithmetic.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-gradle-plugin/src/test/resources/projects/mpp-simple/src/commonTest/kotlin/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-maven-plugin/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-native/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/build.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/Abort.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AsmUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AtomicFUTransformerBase.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/AtomicFUTransformerJS.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/FlowAnalyzer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu-transformer/src/main/kotlin/kotlinx/atomicfu/transformer/MetadataTransformer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonMain/kotlin/kotlinx/atomicfu/AtomicFU.common.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/internal_test1/B.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/internal_test2/С.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/ArithmeticTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/AtomicArrayTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/InternalTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/JSScopesTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeIntBitsTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeLongCounterTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeQueueTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockFreeStackTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/LockTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/MultiInitTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/SimpleLockTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/commonTest/kotlin/kotlinx/atomicfu/test/TopLevelTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/jsMain/kotlin/kotlinx/atomicfu/AtomicFU.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "atomicfu/src/nativeMain/kotlin/kotlinx/atomicfu/AtomicFU.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "gradle/compile-options.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "gradle/node-js.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2018 JetBrains s.r.o."
+      location:
+        path: "gradle/publish-npm-js.gradle"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017-2020 JetBrains s.r.o."
+      location:
+        path: "gradle/publishing.gradle"
+        start_line: 2
+        end_line: 2

@@ -1,0 +1,49 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/android/tools/utp/android-test-plugin-host-emulator-control/31.13.2/android-test-plugin-host-emulator-control-31.13.2-sources.jar"
+      hash:
+        value: "2a34c8bde7bb954eff9ea81a944600ade428aa78"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T10:44:21.000286376Z"
+    end_time: "2026-03-04T10:44:23.000294223Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/tools/utp/plugins/host/emulatorcontrol/EmulatorControlConfigUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/tools/utp/plugins/host/emulatorcontrol/EmulatorControlPlugin.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/tools/utp/plugins/host/emulatorcontrol/EmulatorControlUtils.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/tools/utp/plugins/host/emulatorcontrol/EmulatorControlUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/tools/utp/plugins/host/emulatorcontrol/EmulatorControlConfigUtils.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/tools/utp/plugins/host/emulatorcontrol/EmulatorControlPlugin.kt"
+        start_line: 2
+        end_line: 2

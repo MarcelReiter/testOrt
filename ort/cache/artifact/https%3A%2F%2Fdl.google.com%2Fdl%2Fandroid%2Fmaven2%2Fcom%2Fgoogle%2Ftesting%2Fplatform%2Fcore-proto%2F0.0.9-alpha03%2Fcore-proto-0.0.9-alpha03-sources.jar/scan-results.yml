@@ -1,0 +1,14 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/google/testing/platform/core-proto/0.0.9-alpha03/core-proto-0.0.9-alpha03-sources.jar"
+      hash:
+        value: "5a6541874cf603d12e93a4419281e3fb1b680cd9"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:01:57.000673226Z"
+    end_time: "2026-03-04T14:02:11.000652255Z"

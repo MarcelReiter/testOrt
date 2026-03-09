@@ -1,0 +1,3430 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://gitbox.apache.org/repos/asf/commons-io.git"
+      revision: "rel/commons-io-2.15.1"
+      path: ""
+    resolved_revision: "dc51644d5adbb0c461efb58380ec51fbca10005d"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:01:19.000289834Z"
+    end_time: "2026-03-04T14:01:55.000250023Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: ".asf.yaml"
+        start_line: 1
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: ".github/GH-ROBOTS.txt"
+        start_line: 1
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: ".github/dependabot.yml"
+        start_line: 1
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: ".github/workflows/codeql-analysis.yml"
+        start_line: 1
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: ".github/workflows/coverage.yml"
+        start_line: 1
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: ".github/workflows/maven.yml"
+        start_line: 1
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: ".github/workflows/scorecards-analysis.yml"
+        start_line: 1
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "CODE_OF_CONDUCT.md"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 91
+        end_line: 91
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 114
+        end_line: 114
+      score: 95.0
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 2
+        end_line: 202
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "NOTICE.txt"
+        start_line: 4
+        end_line: 5
+      score: 95.0
+    - license: "Apache-2.0"
+      location:
+        path: "PROPOSAL.html"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 95
+        end_line: 95
+      score: 95.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 100
+        end_line: 100
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "SECURITY.md"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "pom.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/assembly/bin.xml"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/assembly/src.xml"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/changes/changes.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/changes/release-notes.vm"
+        start_line: 1
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/conf/checkstyle-suppressions.xml"
+        start_line: 6
+        end_line: 19
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/conf/checkstyle.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/conf/maven-pmd-plugin.xml"
+        start_line: 3
+        end_line: 18
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/conf/spotbugs-exclude-filter.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/ByteOrderMark.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/ByteOrderParser.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/Charsets.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/CloseableURLConnection.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/CopyUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/DirectoryWalker.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/EndianUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FileCleaner.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FileCleaningTracker.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FileDeleteStrategy.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FileExistsException.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FileSystem.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FileSystemUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FileUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/FilenameUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/HexDump.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/IO.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/IOCase.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/IOExceptionList.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/IOExceptionWithCause.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/IOIndexedException.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/IOUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/LineIterator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/RandomAccessFileMode.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/RandomAccessFiles.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/StandardLineSeparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/StreamIterator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/TaggedIOException.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/ThreadMonitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/ThreadUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/UncheckedIOExceptions.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/build/AbstractOrigin.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/build/AbstractOriginSupplier.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/build/AbstractStreamBuilder.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/build/AbstractSupplier.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/build/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/channels/FileChannels.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/channels/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/charset/CharsetDecoders.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/charset/CharsetEncoders.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/charset/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/AbstractFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/CompositeFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/DefaultFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/DirectoryFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/ExtensionFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/LastModifiedFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/NameFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/PathFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/ReverseFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/SizeFileComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/comparator/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/AccumulatorPathVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/CleaningPathVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/CopyDirectoryVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/Counters.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/CountingPathVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/DeleteOption.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/DeletingPathVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/DirectoryStreamFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/FilesUncheck.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/NoopPathVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/PathFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/PathUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/PathVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/SimplePathVisitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/StandardDeleteOption.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/attribute/FileTimes.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/attribute/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/spi/FileSystemProviders.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/file/spi/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/AbstractFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/AgeFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/AndFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/CanExecuteFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/CanReadFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/CanWriteFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/ConditionalFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/DelegateFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/DirectoryFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/EmptyFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/FalseFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/FileEqualsFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/FileFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/FileFilterUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/HiddenFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/IOFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/MagicNumberFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/NameFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/NotFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/OrFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/PathEqualsFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/PathMatcherFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/PathVisitorFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/PrefixFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/RegexFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/SizeFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/SuffixFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/SymbolicLinkFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/TrueFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/WildcardFileFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/WildcardFilter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/filefilter/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/Constants.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/Erase.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOBaseStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOBaseStreamAdapter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOBiConsumer.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOBiFunction.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOBinaryOperator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOComparator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOConsumer.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOFunction.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOIntSupplier.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOIterator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOIteratorAdapter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOLongSupplier.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOPredicate.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOQuadFunction.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IORunnable.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOSpliterator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOSpliteratorAdapter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOStreamAdapter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOStreams.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOSupplier.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOTriConsumer.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOTriFunction.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/IOUnaryOperator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/Uncheck.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/UncheckedIOBaseStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/UncheckedIOIterator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/UncheckedIOSpliterator.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/function/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/AbstractCharacterFilterReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/AutoCloseInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/BOMInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/BoundedInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/BoundedReader.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/BrokenInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/BrokenReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/BufferedFileChannelInputStream.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ByteBufferCleaner.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CharSequenceInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CharSequenceReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CharacterFilterReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CharacterSetFilterReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CircularInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ClassLoaderObjectInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CloseShieldInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CloseShieldReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ClosedInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ClosedReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/CountingInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/DemuxInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/InfiniteCircularInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/MarkShieldInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/MemoryMappedFileInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/MessageDigestCalculatingInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/MessageDigestInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/NullInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/NullReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ObservableInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ProxyInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ProxyReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/QueueInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/RandomAccessFileInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ReadAheadInputStream.java"
+        start_line: 2
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ReaderInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/SequenceReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/SwappedDataInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/TaggedInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/TaggedReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/Tailer.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/TailerListener.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/TailerListenerAdapter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/TeeInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/TeeReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/TimestampedObserver.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UncheckedBufferedReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UncheckedFilterInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UncheckedFilterReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UnixLineEndingInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UnsupportedOperationExceptions.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UnsynchronizedBufferedInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UnsynchronizedByteArrayInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/UnsynchronizedFilterInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/WindowsLineEndingInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/XmlStreamReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/XmlStreamReader.java"
+        start_line: 68
+        end_line: 68
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/XmlStreamReaderException.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/buffer/CircularBufferInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/buffer/CircularByteBuffer.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/buffer/PeekableInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/buffer/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/input/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/monitor/FileAlterationListener.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/monitor/FileAlterationListenerAdaptor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/monitor/FileAlterationMonitor.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/monitor/FileAlterationObserver.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/monitor/FileEntry.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/monitor/SerializableFileTime.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/monitor/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/AbstractByteArrayOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/AppendableOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/AppendableWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/BrokenOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/BrokenWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ByteArrayOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ChunkedOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ChunkedWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/CloseShieldOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/CloseShieldWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ClosedOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ClosedWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/CountingOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/DeferredFileOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/DemuxOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/FileWriterWithEncoding.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/FilterCollectionWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/LockableFileWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/NullAppendable.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/NullOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/NullPrintStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/NullWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ProxyCollectionWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ProxyOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ProxyWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/QueueOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/StringBuilderWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/TaggedOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/TaggedWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/TeeOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/TeeWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/ThresholdingOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/UncheckedAppendable.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/UncheckedAppendableImpl.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/UncheckedFilterOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/UncheckedFilterWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/WriterOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/XmlStreamWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/output/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/overview.html"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/serialization/ClassNameMatcher.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/serialization/FullClassNameMatcher.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/serialization/RegexpClassNameMatcher.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/serialization/ValidatingObjectInputStream.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/serialization/WildcardClassNameMatcher.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/main/java/org/apache/commons/io/serialization/package-info.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/site.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/bestpractices.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/building.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/description.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/download_io.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/index.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/issue-tracking.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/mail-lists.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/proposal.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/tasks.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto1_1.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto1_2.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto1_3.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto1_3_1.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto1_3_2.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto1_4.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_0.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_0_1.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_1.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_2.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_3.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_4.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_5.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/site/xdoc/upgradeto2_6.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/AbstractFileUtilsDeleteDirectoryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/ByteOrderMarkTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/ByteOrderParserTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/CharsetsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/CopyUtilsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/DeleteDirectoryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/DemuxInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/DirectoryWalkerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/DirectoryWalkerTestCaseJava4.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/EndianUtilsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileCleanerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileCleaningTrackerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileDeleteStrategyTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileSystemTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileSystemUtilsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsCleanDirectoryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsCleanSymlinksTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsCopyDirectoryToDirectoryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsCopyToFileTest.java"
+        start_line: 1
+        end_line: 12
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsDeleteDirectoryLinuxTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsDeleteDirectoryWindowsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsDirectoryContainsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsFileNewerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsListFilesTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FileUtilsWaitForTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FilenameUtilsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/FilenameUtilsWildcardTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/HexDumpTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOCaseTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOExceptionListTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOExceptionWithCauseTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOIndexedExceptionTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOUtilsCopyTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOUtilsMultithreadedSkipTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOUtilsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/IOUtilsWriteTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/LineIteratorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/RandomAccessFilesTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/SelectorAdapter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/StandardLineSeparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/StreamIteratorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/TaggedIOExceptionTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/TestResources.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/ThreadMonitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/UncheckedIOExceptionsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/AbstractOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/AbstractStreamBuilderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/ByteArrayOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/CharSequenceOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/FileOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/InputStreamOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/OutputStreamOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/PathOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/ReaderOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/URIOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/build/WriterStreamOriginTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/channels/FileChannelsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/charset/CharsetDecodersTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/charset/CharsetEncodersTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/ComparatorAbstractTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/CompositeFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/DefaultFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/DirectoryFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/ExtensionFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/LastModifiedFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/NameFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/PathFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/comparator/SizeFileComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/AbstractPathWrapper.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/AbstractTempDirTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/AccumulatorPathVisitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/CleaningPathVisitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/CopyDirectoryVisitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/CounterAssertions.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/CountersEqualsAndHashCodeTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/CountersTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/CountingPathVisitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/DeletablePath.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/DeletingPathVisitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/DirectoryStreamFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/FilesUncheckTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsCleanDirectoryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsContentEqualsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsCountingTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsDeleteDirectoryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsDeleteFileTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsDeleteTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsIsEmptyTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/PathUtilsVisitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/TempDirectory.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/TempDirectoryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/TempFile.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/TempFileTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/TestArguments.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/attribute/FileTimesTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/file/spi/FileSystemProvidersTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/AbstractConditionalFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/AbstractFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/AbstractIOFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/AgeFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/AndFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/DirectoryFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/FileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/NameFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/OrFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/PathMatcherFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/RegexFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/SymbolicLinkFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/filefilter/WildcardFileFilterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/EraseTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOBaseStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOBiConsumerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOBiFunctionTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOBinaryOperatorStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOComparatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOConsumerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOFunctionTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOIntStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOIntStreamAdapter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOIntSupplierTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOIteratorAdapterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOIteratorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOLongSupplierTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOPredicateTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOQuadFunctionTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IORunnableTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOSpliteratorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOSupplierTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOTriConsumerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOTriFunctionTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/IOUnaryOperatorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/PathBaseStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/PathStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/TestConstants.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/TestUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/function/UncheckTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/AbstractInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/AutoCloseInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/BOMInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/BoundedInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/BoundedReaderTest.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/BrokenInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/BrokenReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/BufferedFileChannelInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ByteBufferCleanerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CharSequenceInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CharSequenceReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CharacterFilterReaderIntPredicateTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CharacterFilterReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CharacterSetFilterReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CircularInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ClassLoaderObjectInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CloseShieldInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CloseShieldReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ClosedInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ClosedReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/CountingInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/InfiniteCircularInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/MarkShieldInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/MemoryMappedFileInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/MessageDigestCalculatingInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/MessageDigestInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/NullInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/NullReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ObservableInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ProxyReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/QueueInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/RandomAccessFileInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ReadAheadInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ReaderInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ReversedLinesFileReaderTestParamBlockSize.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ReversedLinesFileReaderTestParamFile.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/ReversedLinesFileReaderTestSimple.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/SequenceReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/SwappedDataInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/TaggedInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/TaggedReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/TailerTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/TeeInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/TeeReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/TimestampedObserverTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/UncheckedBufferedReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/UncheckedFilterInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/UncheckedFilterReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/UnixLineEndingInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/UnsynchronizedBufferedInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/UnsynchronizedByteArrayInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/UnsynchronizedFilterInputStreamTest.java"
+        start_line: 8
+        end_line: 21
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/WindowsLineEndingInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/XmlStreamReaderTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/XmlStreamReaderUtilitiesTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/buffer/CircularBufferInputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReader.java"
+        start_line: 65
+        end_line: 66
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReaderException.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/input/compatibility/XmlStreamReaderUtilitiesCompatibilityTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/jmh/IOUtilsContentEqualsInputStreamsBenchmark.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/jmh/IOUtilsContentEqualsReadersBenchmark.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/jmh/PathUtilsContentEqualsBenchmark.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/monitor/AbstractMonitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/monitor/CollectionFileListener.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/monitor/FileAlterationMonitorTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/monitor/FileAlterationObserverTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/monitor/FileEntryTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/monitor/SerializableFileTimeTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/AppendableOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/AppendableWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/BrokenOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/BrokenWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ByteArrayOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ChunkedOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ChunkedWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/CloseShieldOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/CloseShieldWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ClosedOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ClosedWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/CountingOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/DeferredFileOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/FileWriterWithEncodingTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/LockableFileWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/NullAppendableTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/NullOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/NullPrintStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/NullWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ProxyCollectionWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ProxyOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ProxyWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/QueueOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/StringBuilderWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/TaggedOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/TaggedWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/TeeOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/TeeWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/ThresholdingOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/UncheckedAppendableTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/UncheckedFilterOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/UncheckedFilterWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/WriterOutputStreamTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/output/XmlStreamWriterTest.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/AbstractCloseableListTest.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/FullClassNameMatcherTest.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/MockSerializedClass.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/MoreComplexObject.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/MoreComplexObjectTest.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/RegexpClassNameMatcherTest.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/ValidatingObjectInputStreamTest.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/serialization/WildcardClassNameMatcherTest.java"
+        start_line: 2
+        end_line: 17
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/test/TestUtils.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/test/ThrowOnCloseInputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/test/ThrowOnCloseOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/test/ThrowOnCloseReader.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/test/ThrowOnCloseWriter.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/java/org/apache/commons/io/test/ThrowOnFlushAndCloseOutputStream.java"
+        start_line: 2
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/resources/org/apache/commons/io/abitmorethan16k.txt"
+        start_line: 1
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/resources/org/apache/commons/io/abitmorethan16kcopy.txt"
+        start_line: 1
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/resources/org/apache/commons/io/testfileBOM.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "src/test/resources/org/apache/commons/io/testfileNoBOM.xml"
+        start_line: 3
+        end_line: 16
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 89
+        end_line: 89
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 108
+        end_line: 108
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "README.md"
+        start_line: 95
+        end_line: 95
+      score: 80.0
+    - license: "NOASSERTION"
+      location:
+        path: "README.md"
+        start_line: 100
+        end_line: 100
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2002-2023 The Apache Software Foundation"
+      location:
+        path: "NOTICE.txt"
+        start_line: 2
+        end_line: 2

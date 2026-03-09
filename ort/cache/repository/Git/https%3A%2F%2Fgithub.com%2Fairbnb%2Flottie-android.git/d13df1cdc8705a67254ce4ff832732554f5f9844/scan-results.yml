@@ -1,0 +1,323 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/airbnb/lottie-android.git"
+      revision: ""
+      path: ""
+    resolved_revision: "d13df1cdc8705a67254ce4ff832732554f5f9844"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:16:54.000565990Z"
+    end_time: "2026-03-04T13:18:15.000457912Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE"
+        start_line: 1
+        end_line: 201
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradle.properties"
+        start_line: 9
+        end_line: 10
+      score: 82.35
+    - license: "Apache-2.0"
+      location:
+        path: "gradlew"
+        start_line: 6
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "gradlew.bat"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonDataException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonEncodingException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonReader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonScope.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonUtf8Reader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/LinkedHashTreeMap.java"
+        start_line: 5
+        end_line: 15
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "sample-compose/src/main/assets/fonts/Roboto.ttf"
+        start_line: 321
+        end_line: 321
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "sample-compose/src/main/assets/fonts/Roboto.ttf"
+        start_line: 322
+        end_line: 322
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Open Sans.ttf"
+        start_line: 323
+        end_line: 323
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Open Sans.ttf"
+        start_line: 325
+        end_line: 325
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Roboto.ttf"
+        start_line: 321
+        end_line: 321
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Roboto.ttf"
+        start_line: 322
+        end_line: 322
+      score: 100.0
+    - license: "Apache-2.0 OR GPL-2.0-only"
+      location:
+        path: "gradle.properties"
+        start_line: 9
+        end_line: 11
+      score: 52.0
+    - license: "CC-BY-SA-3.0"
+      location:
+        path: "CODE_OF_CONDUCT.md"
+        start_line: 80
+        end_line: 80
+      score: 59.09
+    - license: "LGPL-2.1-only"
+      location:
+        path: "sample-compose/build.gradle"
+        start_line: 44
+        end_line: 44
+      score: 100.0
+    - license: "NOASSERTION"
+      location:
+        path: "CODE_OF_CONDUCT.md"
+        start_line: 80
+        end_line: 80
+      score: 100.0
+    - license: "OFL-1.0"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 528
+        end_line: 528
+      score: 61.86
+    - license: "OFL-1.0"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 555
+        end_line: 555
+      score: 61.86
+    - license: "OFL-1.1"
+      location:
+        path: "sample-compose/src/main/assets/fonts/Comic Neue.ttf"
+        start_line: 235
+        end_line: 235
+      score: 100.0
+    - license: "OFL-1.1"
+      location:
+        path: "sample/src/main/assets/fonts/Comic Neue.ttf"
+        start_line: 235
+        end_line: 235
+      score: 100.0
+    - license: "OFL-1.1"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Comic Neue.ttf"
+        start_line: 235
+        end_line: 235
+      score: 100.0
+    - license: "OFL-1.1"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 529
+        end_line: 550
+      score: 100.0
+    - license: "OFL-1.1"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 551
+        end_line: 551
+      score: 100.0
+    - license: "OFL-1.1"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 556
+        end_line: 577
+      score: 100.0
+    - license: "OFL-1.1"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 578
+        end_line: 578
+      score: 100.0
+    copyrights:
+    - statement: "(c) 1981, 1982, 1983, 1989 and 1993, Linotype Library GmbH or its\
+        \ affiliated Linotype-Hell companies"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Helvetica Neue.ttf"
+        start_line: 669
+        end_line: 669
+    - statement: "(c) 1981, 1982, 1983, 1989 and 1993, Linotype Library GmbH or its\
+        \ affiliated Linotype-Hell companies"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Helvetica Neue.ttf"
+        start_line: 673
+        end_line: 673
+    - statement: "(c) 2006 thawte, Inc."
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 65
+        end_line: 65
+    - statement: "(c) 2006 thawte, Inc."
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 71
+        end_line: 71
+    - statement: "(c) 2006 thawte, Inc."
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 78
+        end_line: 78
+    - statement: "(c) 2010, ParaType Ltd. (http://www.paratype.com/public)"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 527
+        end_line: 527
+    - statement: "(c) 2010, ParaType Ltd. (http://www.paratype.com/public)"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 554
+        end_line: 554
+    - statement: "Copyright (c) 1988, 1990, 1993 Adobe Systems Incorporated"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Helvetica Neue.ttf"
+        start_line: 671
+        end_line: 671
+    - statement: "Copyright (c) 1988, 1990, 1993 Adobe Systems Incorporated"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Helvetica Neue.ttf"
+        start_line: 675
+        end_line: 675
+    - statement: "Copyright (c) 2010 Google Inc."
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonReader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 Google Inc."
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonScope.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 Google Inc."
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonUtf8Reader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/LinkedHashTreeMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 Google Inc."
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/LinkedHashTreeMap.java"
+        start_line: 3
+        end_line: 3
+    - statement: "Copyright (c) 2015 Square, Inc."
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonDataException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015-2021 the original"
+      location:
+        path: "gradlew"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2016 Square, Inc."
+      location:
+        path: "lottie/src/main/java/com/airbnb/lottie/parser/moshi/JsonEncodingException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2010 ParaType Ltd."
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 525
+        end_line: 526
+    - statement: "Copyright 2010 ParaType Ltd."
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/PT Serif.ttf"
+        start_line: 552
+        end_line: 553
+    - statement: "Copyright 2011 Google Inc."
+      location:
+        path: "sample-compose/src/main/assets/fonts/Roboto.ttf"
+        start_line: 321
+        end_line: 321
+    - statement: "Copyright 2011 Google Inc."
+      location:
+        path: "sample-compose/src/main/assets/fonts/Roboto.ttf"
+        start_line: 322
+        end_line: 322
+    - statement: "Copyright 2011 Google Inc."
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Roboto.ttf"
+        start_line: 321
+        end_line: 321
+    - statement: "Copyright 2011 Google Inc."
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Roboto.ttf"
+        start_line: 322
+        end_line: 322
+    - statement: "Copyright 2015 the original author or authors"
+      location:
+        path: "gradlew.bat"
+        start_line: 2
+        end_line: 2
+    - statement: "copyright 2010-2011, Google"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Open Sans.ttf"
+        start_line: 322
+        end_line: 323
+    - statement: "copyright 2010-2011, Google"
+      location:
+        path: "snapshot-tests/src/main/assets/fonts/Open Sans.ttf"
+        start_line: 324
+        end_line: 325

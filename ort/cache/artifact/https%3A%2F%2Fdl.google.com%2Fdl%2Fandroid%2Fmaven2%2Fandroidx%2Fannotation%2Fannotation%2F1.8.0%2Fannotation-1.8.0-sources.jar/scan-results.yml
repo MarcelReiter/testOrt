@@ -1,0 +1,280 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation/1.8.0/annotation-1.8.0-sources.jar"
+      hash:
+        value: "6e41c5bab9458ad24f11b7b58c54fbe17d9fc1b2"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T11:41:09.000341863Z"
+    end_time: "2026-03-04T11:41:11.000772267Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/AnyThread.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/CallSuper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/CheckResult.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/ColorInt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/ColorLong.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/Discouraged.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/EmptySuper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/FloatRange.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/GuardedBy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/IntDef.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/IntRange.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/LongDef.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/MainThread.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/OpenForTesting.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/ProductionVisibility.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/RequiresApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/RequiresFeature.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/RestrictTo.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/ReturnThis.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/Size.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/StringDef.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/UiThread.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/annotation/VisibleForTesting.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nonJvmMain/androidx/annotation/RestrictTo.nonJvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/IntDef.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/StringDef.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/CallSuper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/CheckResult.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/ColorInt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/FloatRange.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/IntRange.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/MainThread.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/Size.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/UiThread.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/VisibleForTesting.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/AnyThread.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/ProductionVisibility.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/RestrictTo.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "nonJvmMain/androidx/annotation/RestrictTo.nonJvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/ColorLong.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/GuardedBy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/LongDef.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/Discouraged.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/EmptySuper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/OpenForTesting.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/ReturnThis.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/RequiresFeature.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/annotation/RequiresApi.kt"
+        start_line: 2
+        end_line: 2

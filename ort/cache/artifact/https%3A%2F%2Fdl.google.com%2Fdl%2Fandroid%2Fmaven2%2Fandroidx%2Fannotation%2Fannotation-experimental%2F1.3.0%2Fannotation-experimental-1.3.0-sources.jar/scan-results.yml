@@ -1,0 +1,60 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.3.0/annotation-experimental-1.3.0-sources.jar"
+      hash:
+        value: "56ca4da0948c085ca4bb0e6077e01a3ab1298dfb"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:15:47.000423762Z"
+    end_time: "2026-03-04T14:15:49.000288840Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/annotation/OptIn.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/annotation/RequiresOptIn.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/annotation/experimental/Experimental.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/annotation/experimental/UseExperimental.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/annotation/OptIn.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/annotation/experimental/Experimental.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/annotation/experimental/UseExperimental.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/annotation/RequiresOptIn.kt"
+        start_line: 2
+        end_line: 2

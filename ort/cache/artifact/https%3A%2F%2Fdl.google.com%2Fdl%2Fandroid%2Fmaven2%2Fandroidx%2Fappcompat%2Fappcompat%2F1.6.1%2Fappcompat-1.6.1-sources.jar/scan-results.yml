@@ -1,0 +1,1435 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat/1.6.1/appcompat-1.6.1-sources.jar"
+      hash:
+        value: "ace9a78b961165396147e8691faa18c1b0e48e20"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:23:23.000808839Z"
+    end_time: "2026-03-04T14:23:40.000169184Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "DeleteMe.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/ActionBar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/ActionBarDrawerToggle.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/ActionBarDrawerToggleHoneycomb.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AlertController.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AlertDialog.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppCompatActivity.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppCompatCallback.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppCompatDelegate.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppCompatDelegateImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppCompatDialog.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppCompatDialogFragment.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppCompatViewInflater.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppLocalesMetadataHolderService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/AppLocalesStorageHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/LayoutIncludeDetector.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/LocaleOverlayHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/NavItemSelectedListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/ResourcesFlusher.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/ToolbarActionBar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/TwilightCalculator.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/TwilightManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/app/WindowDecorActionBar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/graphics/drawable/DrawerArrowDrawable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/text/AllCapsTransformationMethod.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/ActionBarPolicy.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/ActionMode.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/CollapsibleActionView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/ContextThemeWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/StandaloneActionMode.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/SupportActionModeWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/SupportMenuInflater.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/ViewPropertyAnimatorCompatSet.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/WindowCallbackWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/ActionMenuItem.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/ActionMenuItemView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/BaseMenuPresenter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/BaseMenuWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/CascadingMenuPopup.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/ExpandedMenuView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/ListMenuItemView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/ListMenuPresenter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuAdapter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuDialogHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuItemImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuItemWrapperICS.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuPopup.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuPopupHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuPresenter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/MenuWrapperICS.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/ShowableListMenu.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/StandardMenuPopup.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/SubMenuBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/view/menu/SubMenuWrapperICS.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AbsActionBarView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActionBarBackgroundDrawable.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActionBarContainer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActionBarContextView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActionBarOverlayLayout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActionMenuPresenter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActionMenuView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActivityChooserModel.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ActivityChooserView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AlertDialogLayout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatAutoCompleteTextView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatBackgroundHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatButton.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCheckBox.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCheckedTextView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCheckedTextViewHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCompoundButtonHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatDrawableManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatEditText.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatEmojiEditTextHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatEmojiTextHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatHintHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatImageButton.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatImageHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatImageView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatMultiAutoCompleteTextView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatPopupWindow.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatProgressBarHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatRadioButton.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatRatingBar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatReceiveContentHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatSeekBar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatSeekBarHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatSpinner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextClassifierHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextViewAutoSizeHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/AppCompatToggleButton.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ButtonBarLayout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ContentFrameLayout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/DecorContentParent.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/DecorToolbar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/DialogTitle.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/DropDownListView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/EmojiCompatConfigurationView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/FitWindowsFrameLayout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/FitWindowsLinearLayout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/FitWindowsViewGroup.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ForwardingListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/LinearLayoutCompat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ListPopupWindow.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/MenuItemHoverListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/MenuPopupWindow.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/PopupMenu.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/RtlSpacingHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ScrollingTabContainerView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/SearchView.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ShareActionProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/SuggestionsAdapter.java"
+        start_line: 6
+        end_line: 16
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/SwitchCompat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ThemeUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ThemedSpinnerAdapter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/TintTypedArray.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/Toolbar.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ToolbarWidgetWrapper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/TooltipCompat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/TooltipCompatHandler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/TooltipPopup.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ViewStubCompat.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/ViewUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/appcompat/widget/WithHint.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2006 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/ListMenuItemView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuItemImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2006 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/SubMenuBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/ActionMode.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/ActionMenuItem.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/ActionMenuItemView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuPopupHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActionBarContainer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActionBarContextView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/CollapsibleActionView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/BaseMenuPresenter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuPresenter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AbsActionBarView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ScrollingTabContainerView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/ActionBar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/ActionBarPolicy.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/BaseMenuWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuItemWrapperICS.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuWrapperICS.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/SubMenuWrapperICS.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActionBarOverlayLayout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppCompatDelegateImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/SupportActionModeWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/SupportMenuInflater.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/ExpandedMenuView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/ListMenuPresenter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuDialogHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActivityChooserModel.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActivityChooserView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ShareActionProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/SuggestionsAdapter.java"
+        start_line: 4
+        end_line: 4
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/ActionBarDrawerToggle.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/ActionBarDrawerToggleHoneycomb.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppCompatCallback.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppCompatDelegate.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppCompatViewInflater.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/NavItemSelectedListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/ToolbarActionBar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/WindowDecorActionBar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/graphics/drawable/DrawerArrowDrawable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/text/AllCapsTransformationMethod.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/ContextThemeWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/StandaloneActionMode.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/ViewPropertyAnimatorCompatSet.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/WindowCallbackWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActionMenuPresenter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActionMenuView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatAutoCompleteTextView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatButton.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCheckBox.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCheckedTextView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatDrawableManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatEditText.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatMultiAutoCompleteTextView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatPopupWindow.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatRadioButton.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatRatingBar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatSeekBar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatSpinner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ContentFrameLayout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/DecorContentParent.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/DecorToolbar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/FitWindowsFrameLayout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/FitWindowsLinearLayout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/FitWindowsViewGroup.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/LinearLayoutCompat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ListPopupWindow.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/PopupMenu.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/RtlSpacingHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/SearchView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/SwitchCompat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/TintTypedArray.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/Toolbar.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ToolbarWidgetWrapper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ViewStubCompat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ViewUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 Google Inc."
+      location:
+        path: "androidx/appcompat/widget/DialogTitle.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AlertController.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AlertDialog.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppCompatActivity.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppCompatDialog.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppCompatDialogFragment.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/TwilightCalculator.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/TwilightManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/ShowableListMenu.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/StandardMenuPopup.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ActionBarBackgroundDrawable.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatBackgroundHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCompoundButtonHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatImageButton.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatImageHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatImageView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatProgressBarHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatSeekBarHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ButtonBarLayout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ThemeUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ThemedSpinnerAdapter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/ResourcesFlusher.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/CascadingMenuPopup.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuAdapter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/view/menu/MenuPopup.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AlertDialogLayout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/DropDownListView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/ForwardingListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/MenuItemHoverListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2016 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/MenuPopupWindow.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextViewAutoSizeHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/TooltipCompat.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/TooltipCompatHandler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/TooltipPopup.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/LocaleOverlayHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatCheckedTextViewHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatHintHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2017 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/WithHint.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatTextClassifierHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatToggleButton.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/LayoutIncludeDetector.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatEmojiEditTextHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatEmojiTextHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/AppCompatReceiveContentHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/widget/EmojiCompatConfigurationView.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "DeleteMe.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppLocalesMetadataHolderService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidx/appcompat/app/AppLocalesStorageHelper.java"
+        start_line: 2
+        end_line: 2

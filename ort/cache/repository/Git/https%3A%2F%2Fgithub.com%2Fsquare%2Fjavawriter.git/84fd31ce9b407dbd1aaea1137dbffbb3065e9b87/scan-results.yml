@@ -1,0 +1,73 @@
+---
+- provenance:
+    vcs_info:
+      type: "Git"
+      url: "https://github.com/square/javawriter.git"
+      revision: ""
+      path: ""
+    resolved_revision: "84fd31ce9b407dbd1aaea1137dbffbb3065e9b87"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:19:18.000304377Z"
+    end_time: "2026-03-04T14:19:20.000792203Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "LICENSE.txt"
+        start_line: 2
+        end_line: 202
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "README.md"
+        start_line: 61
+        end_line: 76
+      score: 95.56
+    - license: "Apache-2.0"
+      location:
+        path: "pom.xml"
+        start_line: 41
+        end_line: 42
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "pom.xml"
+        start_line: 42
+        end_line: 43
+      score: 75.0
+    - license: "NOASSERTION"
+      location:
+        path: "CONTRIBUTING.md"
+        start_line: 13
+        end_line: 14
+      score: 94.74
+    - license: "NOASSERTION"
+      location:
+        path: "pom.xml"
+        start_line: 40
+        end_line: 42
+      score: 16.0
+    copyrights:
+    - statement: "Copyright 2013 Square, Inc."
+      location:
+        path: "README.md"
+        start_line: 64
+        end_line: 64
+    - statement: "Copyright 2013 Square, Inc."
+      location:
+        path: "src/main/java/com/squareup/javawriter/JavaWriter.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2013 Square, Inc."
+      location:
+        path: "src/test/java/com/example/Binding.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2013 Square, Inc."
+      location:
+        path: "src/test/java/com/squareup/javawriter/JavaWriterTest.java"
+        start_line: 1
+        end_line: 1

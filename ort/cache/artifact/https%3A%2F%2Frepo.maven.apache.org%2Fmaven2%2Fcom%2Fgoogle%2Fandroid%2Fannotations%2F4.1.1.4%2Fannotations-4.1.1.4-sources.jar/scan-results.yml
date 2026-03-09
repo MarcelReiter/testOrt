@@ -1,0 +1,38 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4-sources.jar"
+      hash:
+        value: "deb22daeb37bdcbc14230aeaeddce38320d6d0f9"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:18:10.000124960Z"
+    end_time: "2026-03-04T14:18:11.000914563Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "android/annotation/SuppressLint.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "android/annotation/TargetApi.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "android/annotation/SuppressLint.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2012 The Android Open Source Project"
+      location:
+        path: "android/annotation/TargetApi.java"
+        start_line: 2
+        end_line: 2

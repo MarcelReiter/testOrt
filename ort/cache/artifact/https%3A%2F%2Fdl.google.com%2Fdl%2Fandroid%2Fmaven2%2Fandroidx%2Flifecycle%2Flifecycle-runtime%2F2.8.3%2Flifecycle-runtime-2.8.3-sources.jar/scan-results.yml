@@ -1,0 +1,126 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime/2.8.3/lifecycle-runtime-2.8.3-sources.jar"
+      hash:
+        value: "d11d5c62fa38d24ef1a7b30acb7ebb2aed8a3019"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:23:19.000405819Z"
+    end_time: "2026-03-04T14:23:21.000690541Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/FlowExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/LifecycleRegistry.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/RepeatOnLifecycle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/WithLifecycleState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/lifecycle/LifecycleRegistry.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nativeMain/androidx/lifecycle/LifecycleRegistry.native.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nativeMain/androidx/lifecycle/MainDispatcherChecker.native.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nativeMain/androidx/lifecycle/WeakReference.native.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/LifecycleRegistry.nonJvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/WeakReference.nonJvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/lifecycle/LifecycleRegistry.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/LifecycleRegistry.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/WithLifecycleState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/FlowExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/RepeatOnLifecycle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "nativeMain/androidx/lifecycle/LifecycleRegistry.native.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "nativeMain/androidx/lifecycle/MainDispatcherChecker.native.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "nativeMain/androidx/lifecycle/WeakReference.native.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/LifecycleRegistry.nonJvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "nonJvmMain/androidx/lifecycle/WeakReference.nonJvm.kt"
+        start_line: 2
+        end_line: 2

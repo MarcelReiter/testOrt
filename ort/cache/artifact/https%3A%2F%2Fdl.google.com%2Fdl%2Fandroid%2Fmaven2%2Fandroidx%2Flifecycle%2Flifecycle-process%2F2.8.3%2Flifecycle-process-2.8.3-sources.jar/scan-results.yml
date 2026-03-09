@@ -1,0 +1,60 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-process/2.8.3/lifecycle-process-2.8.3-sources.jar"
+      hash:
+        value: "f04655899d8080b83b40bf80dfd149b2723fb945"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:22:57.000860661Z"
+    end_time: "2026-03-04T14:22:59.000800793Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/EmptyActivityLifecycleCallbacks.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/LifecycleDispatcher.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/ProcessLifecycleInitializer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/ProcessLifecycleOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/EmptyActivityLifecycleCallbacks.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/LifecycleDispatcher.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/ProcessLifecycleOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/ProcessLifecycleInitializer.kt"
+        start_line: 2
+        end_line: 2

@@ -1,0 +1,2018 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/android/tools/ddms/ddmlib/31.13.2/ddmlib-31.13.2-sources.jar"
+      hash:
+        value: "8bb0dcd6c6d71c98834f941576defe31b9133add"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:01:00.000040238Z"
+    end_time: "2026-03-04T14:01:14.000837608Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "NOTICE"
+        start_line: 4
+        end_line: 189
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AdbCommandRejectedException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AdbDelegateUsageTracker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AdbDevice.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AdbHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AdbInitOptions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AdbVersion.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AllocationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AllocationsParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridge.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeBase.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeChangeEvents.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeDelegate.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/AvdData.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/BitmapDecoder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ByteBufferUtil.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/CanceledException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/Client.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ClientData.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ClientTracker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/CollectingOutputReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/CommandFailedException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/DDMLibJdwpTracer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/DdmConstants.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/DdmJdwpExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/DdmPreferences.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/DebugViewDumpHandler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/DefaultJdwpTracerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/DisabledJdwpTracer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/EmulatorConsole.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/EmulatorConsole.java"
+        start_line: 19
+        end_line: 29
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/EmulatorConsoleImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/FileListingService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/HeapSegment.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IDevice.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IDeviceSharedImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IDeviceUsageTracker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IShellEnabledDevice.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IShellOutputReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IStackTraceInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IUserDataMap.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/InstallCreateReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/InstallException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/InstallMetrics.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/InstallReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/IotInstallChecker.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/JdwpHandshake.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/JdwpProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/JdwpProcessorFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/JdwpTracerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/JdwpTraffic.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/JdwpTrafficResponse.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/Log.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/MultiLineReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/MultiReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/NativeAllocationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/NativeLibraryMapInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/NativeStackCallInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/NullOutputReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ProfileableClient.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ProfileableClientData.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/PropertyFetcher.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/RawImage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/RemoteSplitApkInstaller.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ScreenRecorderOptions.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ServiceInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ServiceReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ShellCommandUnresponsiveException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/SimpleConnectedSocket.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/SocketChannelWithTimeouts.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/SplitApkInstaller.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/SplitApkInstallerBase.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/SyncException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/SyncService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/ThreadInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/Timeout.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/TimeoutException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/TimeoutRemainder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/clientmanager/ClientManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/clientmanager/DeviceClientManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/clientmanager/DeviceClientManagerListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/clientmanager/DeviceClientManagerUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/idevicemanager/IDeviceManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/idevicemanager/IDeviceManagerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/idevicemanager/IDeviceManagerListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/AdbSocketUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/BatteryFetcher.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/ClientImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/CommandService.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DebugViewChunkHandler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/Debugger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpProcessorFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpTraffic.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpTrafficResponse.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DeviceClientMonitorTask.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DeviceImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DeviceListMonitorTask.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/DeviceMonitor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/MonitorThread.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/ProcessorStream.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/ProfileableClientImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/UserDataMapImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/commands/CommandResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/commands/DisconnectCommand.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/commands/ICommand.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/DdmCommandPacket.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpClientManager.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpClientManagerFactory.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpClientManagerId.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpConnectionReader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpLoggingUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpProxyClient.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpProxyServer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpSocketHandler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/BadPacketException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/ChunkHandler.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleARTT.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleAppName.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleExit.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleHeap.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleHello.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleNativeHeap.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleProfiling.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleSTAG.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleTest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleThread.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleViewDebug.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleWait.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/JdwpPacket.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/ClientInitializationInterceptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/DebuggerInterceptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/Interceptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/NoReplyPacketInterceptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpCommands.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpExtension.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpInterceptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpPayload.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpPipe.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpProtocol.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/packets/CapabilitiesNewReply.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/jdwp/packets/IdSizesReply.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/log/EventContainer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/log/EventLogParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/log/EventValueDescription.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/log/GcEventContainer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/log/InvalidTypeException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/log/InvalidValueTypeException.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/log/LogReceiver.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatFilter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatHeader.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatHeaderParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatMessage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatMessageParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatReceiverTask.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatTimestamp.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/AndroidTestOrchestratorRemoteAndroidTestRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/IInstrumentationResultParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/IRemoteAndroidTestRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/ITestRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/InstrumentationProtoResultParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/InstrumentationResultParser.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/RemoteAndroidTestRunner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/TestIdentifier.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/TestResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/TestRunResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/testrunner/XmlTestRunListener.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/utils/ArrayHelper.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/ddmlib/utils/FilePermissionUtil.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/IBlockFilter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/IBlockTransformer.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/IDeviceConnection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/ILogger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/IncrementalInstallSession.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/IncrementalInstallSessionImpl.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/PendingBlock.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/ReadRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/StreamingApk.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/adb/ddmlib/DeviceConnection.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/android/incfs/install/adb/ddmlib/DeviceLogger.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2005-2008, The Android Open Source Project"
+      location:
+        path: "NOTICE"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AdbHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridge.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ClientData.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/DdmPreferences.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/EmulatorConsoleImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/FileListingService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/HeapSegment.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IShellOutputReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IStackTraceInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/Log.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/MultiLineReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/NativeAllocationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/NativeLibraryMapInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/NativeStackCallInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/NullOutputReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/RawImage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/SyncService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ThreadInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DeviceMonitor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2007 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/utils/ArrayHelper.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AllocationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/log/EventContainer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/log/EventLogParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/log/EventValueDescription.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/log/GcEventContainer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/log/InvalidTypeException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/log/InvalidValueTypeException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/log/LogReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/ITestRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/InstrumentationResultParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/RemoteAndroidTestRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2008 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/TestIdentifier.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/DdmConstants.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2009 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/XmlTestRunListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AdbCommandRejectedException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/CanceledException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/CollectingOutputReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/InstallException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ShellCommandUnresponsiveException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/SyncException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/TimeoutException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/IRemoteAndroidTestRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/TestResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2010 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/TestRunResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatFilter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2011 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatMessageParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IShellEnabledDevice.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ScreenRecorderOptions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2013 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatReceiverTask.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AllocationsParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ByteBufferUtil.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2014 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/PropertyFetcher.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AdbVersion.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/BitmapDecoder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/DdmJdwpExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/JdwpHandshake.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/RemoteSplitApkInstaller.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/SplitApkInstaller.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/SplitApkInstallerBase.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpCommands.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpExtension.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpInterceptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpPayload.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpPipe.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/JdwpProtocol.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/packets/IdSizesReply.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2015 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatTimestamp.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ClientTracker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IotInstallChecker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/AndroidTestOrchestratorRemoteAndroidTestRunner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/utils/FilePermissionUtil.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/InstallCreateReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/InstallReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/jdwp/packets/CapabilitiesNewReply.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AdbDevice.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/Client.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/DebugViewDumpHandler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IDevice.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/InstallMetrics.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/AdbSocketUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/BatteryFetcher.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/ClientImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DeviceClientMonitorTask.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DeviceImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DeviceListMonitorTask.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/BadPacketException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/ChunkHandler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleAppName.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleExit.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleHeap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleHello.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleNativeHeap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleProfiling.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleTest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleThread.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleViewDebug.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleWait.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/JdwpPacket.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AdbInitOptions.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/CommandFailedException.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/TimeoutRemainder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/Debugger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/MonitorThread.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/DdmCommandPacket.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpClientManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpClientManagerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpClientManagerId.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpConnectionReader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpLoggingUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpProxyClient.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpProxyServer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/JdwpSocketHandler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/ClientInitializationInterceptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/DebuggerInterceptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/Interceptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/interceptor/NoReplyPacketInterceptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/IInstrumentationResultParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/testrunner/InstrumentationProtoResultParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/IBlockFilter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/IDeviceConnection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/IncrementalInstallSession.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/IncrementalInstallSessionImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/PendingBlock.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/ReadRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/StreamingApk.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/adb/ddmlib/DeviceConnection.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AvdData.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/EmulatorConsole.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/EmulatorConsole.java"
+        start_line: 17
+        end_line: 17
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ProfileableClient.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ProfileableClientData.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/Timeout.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/CommandService.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/ProfileableClientImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/commands/CommandResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/commands/DisconnectCommand.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/commands/ICommand.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatHeader.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatHeaderParser.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/logcat/LogCatMessage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/IBlockTransformer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/ILogger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/android/incfs/install/adb/ddmlib/DeviceLogger.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/DDMLibJdwpTracer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/DefaultJdwpTracerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/DisabledJdwpTracer.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/JdwpTracerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/MultiReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/clientmanager/ClientManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/clientmanager/DeviceClientManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/clientmanager/DeviceClientManagerListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/clientmanager/DeviceClientManagerUtils.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DebugViewChunkHandler.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/ProcessorStream.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IDeviceSharedImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IDeviceUsageTracker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/IUserDataMap.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/JdwpProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/JdwpProcessorFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/JdwpTraffic.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/JdwpTrafficResponse.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ServiceInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/ServiceReceiver.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/SimpleConnectedSocket.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/SocketChannelWithTimeouts.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/idevicemanager/IDeviceManager.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/idevicemanager/IDeviceManagerFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/idevicemanager/IDeviceManagerListener.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpProcessorFactory.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpTraffic.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/DefaultJdwpTrafficResponse.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/UserDataMapImpl.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleARTT.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/internal/jdwp/chunkhandler/HandleSTAG.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AdbDelegateUsageTracker.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeBase.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeChangeEvents.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeDelegate.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/android/ddmlib/AndroidDebugBridgeImpl.java"
+        start_line: 2
+        end_line: 2

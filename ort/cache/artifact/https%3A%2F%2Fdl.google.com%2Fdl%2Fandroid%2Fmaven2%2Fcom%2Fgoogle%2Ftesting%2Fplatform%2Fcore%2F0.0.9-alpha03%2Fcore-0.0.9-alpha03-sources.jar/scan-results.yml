@@ -1,0 +1,1281 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/google/testing/platform/core/0.0.9-alpha03/core-0.0.9-alpha03-sources.jar"
+      hash:
+        value: "31e27d0d3a7b1a5698577f0e72050ed33925c0ee"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:59:40.000603599Z"
+    end_time: "2026-03-04T13:59:50.000554700Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/Runner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/RunnerImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/api/context/ContextExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/BinaryProtoConfigProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/CommandLineArgs.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/ConfigProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/ConfigurationException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/Environment.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/FileConfigProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/ProtoConfigProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/TextProtoConfigProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/inject/BaseMessageProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/inject/ConfigModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/inject/RawArgs.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/context/ExtensionContextImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/context/GlobalContextImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/error/config/ErrorMessageUpdater.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/error/config/ErrorUpdater.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/error/ext/UtpExceptionExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/event/EventErrorSummary.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/event/ExtensionEventsProxy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/event/PhaseGlobalEvents.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/event/inject/EventsModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/executor/Executor.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/executor/UtpCoreConfigurationException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/extension/ExtensionExt.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/extension/LabelExt.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/net/PortPickerLoader.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/net/inject/PortPickerComponent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/net/inject/PortPickerModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/plugin/PluginErrorSummary.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/result/ResultConsumer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/result/TestSuiteCreator.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/telemetry/core/ext/DetailExt.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/telemetry/inject/DiagnosticsModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/telemetry/opencensus/OpencensusDiagnostics.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/telemetry/opencensus/TraceProtoUtils.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/core/telemetry/opencensus/exporter/OpencensusSpanExporter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/driver/TestCoordinators.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/driver/TestDriverProxy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/DeviceControllerProxy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/DeviceProviderProxy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/ExecutorExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/MultiDeviceExecutor.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/ProxyConfig.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/SingleDeviceExecutor.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/inject/ExecutorModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/inject/ExecutorRequisitesModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/inject/MultiDeviceExecutorModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/inject/PluginsModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/executor/inject/SingleDeviceExecutorModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/extension/ExtensionLoaderUtil.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/inject/RunnerComponent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/inject/RunnerModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/cancellation/ProcessCancellationContext.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/coroutines/Dispatchers.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/coroutines/job/JobExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/dagger/LazyImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionClassLoaderFactory.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionLoader.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionLoaderErrorSummary.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionLoaderException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionSource.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/ServiceLoaderWrapper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/internals/DefaultExtensionClassLoaderFactory.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/internals/DefaultServiceLoaderWrapper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/extension/internals/ExtensionClassLoader.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/logging/jvm/LoggerExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/proto/Sanitize.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/main/Main.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/main/inject/CommandLineModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/main/inject/MainComponent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/main/inject/MainModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/OrderedPluginGraph.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/PluginGraph.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/PluginGraphFactory.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/PluginLifecycle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/PluginProvider.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/PluginProviderFactory.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/PluginProviderProxy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/TrivialPluginGraph.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderExpects.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderProvides.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/BaseTestResultListener.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/BinaryProtoLogWriter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/DeviceTestResultPublisher.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/GlobalTestResultPublisher.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/ProtoLogTestResultListener.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/ProtoLogWriter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/ProtoLogWriterException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/TestResultListenerConfigImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/TestResultListenerLoader.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/TestResultListenerManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/TestSuiteCreatorImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/TestSuiteResultExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/TextProtoLogWriter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/inject/ListenerModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/inject/ListenerScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/result/inject/ProtoLogModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/ServerBuilderFactory.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/ServerStrategy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/extension/ServerExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/inject/ConfigModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/inject/CoreServicesModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/inject/ServerComponent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/inject/ServerModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/inject/ServerStrategyModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/inject/ServicesModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/strategy/InteractiveServerStrategy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/server/strategy/NonInteractiveServerStrategy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/service/RunnerManager.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/service/RunnerServiceImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/service/ext/StatusExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/service/inject/RunnerServiceModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/service/manager/RunnerManagerImpl.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/Runner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/RunnerImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/BinaryProtoConfigProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/CommandLineArgs.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/ConfigProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/ConfigurationException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/Environment.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/FileConfigProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/ProtoConfigProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/TextProtoConfigProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/inject/ConfigModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/inject/RawArgs.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/executor/Executor.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/plugin/PluginErrorSummary.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/result/ResultConsumer.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/result/TestSuiteCreator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/DeviceControllerProxy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/DeviceProviderProxy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/SingleDeviceExecutor.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/inject/ExecutorModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/inject/PluginsModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/inject/SingleDeviceExecutorModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/inject/RunnerModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionClassLoaderFactory.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionLoader.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionSource.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/ServiceLoaderWrapper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/internals/DefaultExtensionClassLoaderFactory.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/internals/DefaultServiceLoaderWrapper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/internals/ExtensionClassLoader.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/main/Main.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/main/inject/MainComponent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/PluginLifecycle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/PluginProviderProxy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/TestResultListenerManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/TestSuiteCreatorImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/inject/ListenerModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/inject/BaseMessageProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/extension/ExtensionExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/extension/LabelExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/telemetry/core/ext/DetailExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/telemetry/inject/DiagnosticsModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/telemetry/opencensus/OpencensusDiagnostics.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/telemetry/opencensus/exporter/OpencensusSpanExporter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/ProxyConfig.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/extension/ExtensionLoaderUtil.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/inject/RunnerComponent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/logging/jvm/LoggerExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/main/inject/CommandLineModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/main/inject/MainModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/PluginProvider.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/PluginProviderFactory.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/TestResultListenerConfigImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/TestResultListenerLoader.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/inject/ListenerScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/ServerBuilderFactory.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/ServerStrategy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/extension/ServerExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/inject/ConfigModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/inject/CoreServicesModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/inject/ServerComponent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/inject/ServerModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/inject/ServerStrategyModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/inject/ServicesModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/strategy/InteractiveServerStrategy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/server/strategy/NonInteractiveServerStrategy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/service/RunnerManager.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/service/RunnerServiceImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/service/ext/StatusExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/service/inject/RunnerServiceModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/service/manager/RunnerManagerImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/error/ext/UtpExceptionExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/driver/TestDriverProxy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/executor/UtpCoreConfigurationException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/cancellation/ProcessCancellationContext.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/OrderedPluginGraph.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/PluginGraph.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/PluginGraphFactory.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/TrivialPluginGraph.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderExpects.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/plugin/annotations/OrderProvides.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/BaseTestResultListener.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/BinaryProtoLogWriter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/ProtoLogTestResultListener.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/ProtoLogWriter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/ProtoLogWriterException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/TestSuiteResultExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/TextProtoLogWriter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/inject/ProtoLogModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/api/context/ContextExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/context/ExtensionContextImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/context/GlobalContextImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/error/config/ErrorMessageUpdater.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/error/config/ErrorUpdater.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/event/EventErrorSummary.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/event/ExtensionEventsProxy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/event/PhaseGlobalEvents.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/event/inject/EventsModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/net/PortPickerLoader.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/net/inject/PortPickerComponent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/core/net/inject/PortPickerModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/dagger/LazyImpl.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionLoaderErrorSummary.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/extension/ExtensionLoaderException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/driver/TestCoordinators.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/ExecutorExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/MultiDeviceExecutor.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/inject/ExecutorRequisitesModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/executor/inject/MultiDeviceExecutorModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/coroutines/Dispatchers.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/proto/Sanitize.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/DeviceTestResultPublisher.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2023 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/result/GlobalTestResultPublisher.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/coroutines/job/JobExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018, OpenCensus Authors"
+      location:
+        path: "com/google/testing/platform/core/telemetry/opencensus/TraceProtoUtils.java"
+        start_line: 2
+        end_line: 2

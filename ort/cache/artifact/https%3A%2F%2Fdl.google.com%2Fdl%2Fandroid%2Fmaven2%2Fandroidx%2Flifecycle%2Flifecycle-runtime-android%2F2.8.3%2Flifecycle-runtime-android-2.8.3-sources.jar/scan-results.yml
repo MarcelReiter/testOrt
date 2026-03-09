@@ -1,0 +1,126 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-android/2.8.3/lifecycle-runtime-android-2.8.3-sources.jar"
+      hash:
+        value: "d671f0a8e8b879b58cce01f6061b4e7ce3974006"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:51:43.000963738Z"
+    end_time: "2026-03-04T13:51:46.000269679Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/LifecycleRegistry.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/LifecycleRegistryOwner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/ReportFragment.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/View.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewTreeLifecycleOwner.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/FlowExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/LifecycleRegistry.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/RepeatOnLifecycle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/WithLifecycleState.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/lifecycle/LifecycleRegistry.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/LifecycleRegistryOwner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/ReportFragment.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/lifecycle/LifecycleRegistry.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/LifecycleRegistry.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/View.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/ViewTreeLifecycleOwner.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/WithLifecycleState.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/FlowExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/RepeatOnLifecycle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/LifecycleRegistry.android.kt"
+        start_line: 2
+        end_line: 2

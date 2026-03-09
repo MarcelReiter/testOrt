@@ -1,0 +1,1133 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-graphics-android/1.7.0/ui-graphics-android-1.7.0-sources.jar"
+      hash:
+        value: "32d355271928d0d3ee75de7d9a168a4985f113ba"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:50:12.000840496Z"
+    end_time: "2026-03-04T13:50:21.000326407Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidBlendMode.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidCanvas.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidColorFilter.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidColorSpace.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidGraphicsContext.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidImageBitmap.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidMatrixConversions.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPaint.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPath.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPathEffect.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPathIterator.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPathMeasure.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidRenderEffect.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidShader.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidTileMode.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidVertexMode.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/CanvasUtils.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/RectHelper.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/AndroidGraphicsLayer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/GraphicsLayerV23.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/GraphicsLayerV29.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/GraphicsViewLayer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/LayerManager.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/LayerSnapshot.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/view/PlaceholderHardwareCanvas.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/view/ViewLayerContainer.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Bezier.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/BlendMode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Brush.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Canvas.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ClipOp.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Color.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ColorFilter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ColorMatrix.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Degrees.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ExperimentalGraphicsApi.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/FilterQuality.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Float16.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/GraphicsContext.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ImageBitmap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/InlineClassHelper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/IntervalTree.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Matrix.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Outline.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Paint.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PaintingStyle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Path.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathEffect.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathFillType.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathGeometry.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathHitTester.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathIterator.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathMeasure.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathOperation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathSegment.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathSvg.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PixelMap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PointMode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/RectangleShape.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/RenderEffect.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Shader.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Shadow.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Shape.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/StrokeCap.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/StrokeJoin.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/TileMode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/VertexMode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Vertices.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Adaptation.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/ColorModel.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/ColorSpace.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/ColorSpaces.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Connector.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Illuminant.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Lab.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Oklab.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/RenderIntent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Rgb.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/TransferParameters.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/WhitePoint.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Xyz.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/CanvasDrawScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/ContentDrawScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawContext.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawScope.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawScopeMarker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawTransform.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/EmptyCanvas.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/internal/JvmDefaultWithCompatibility.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/layer/ChildLayerDependenciesTracker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/layer/CompositingStrategy.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/layer/GraphicsLayer.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/BitmapPainter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/BrushPainter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/ColorPainter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/Painter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/FastFloatParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/FastFloatParser.kt"
+        start_line: 29
+        end_line: 29
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/PathBuilder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/PathNode.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/PathParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/graphics/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPath.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/BlendMode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ClipOp.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ColorFilter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/FilterQuality.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ImageBitmap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Paint.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PaintingStyle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathFillType.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathOperation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PointMode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/StrokeCap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/StrokeJoin.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/TileMode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/VertexMode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Vertices.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidCanvas.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidImageBitmap.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPaint.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidShader.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/RectHelper.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Brush.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Canvas.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Color.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Shader.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Shadow.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Adaptation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/ColorModel.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/ColorSpace.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/ColorSpaces.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Connector.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Illuminant.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Lab.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/RenderIntent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Rgb.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/TransferParameters.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/WhitePoint.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Xyz.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/BitmapPainter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/ColorPainter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/Painter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/PathBuilder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/PathNode.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/PathParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidBlendMode.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidColorSpace.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidMatrixConversions.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPathEffect.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPathMeasure.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidTileMode.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidVertexMode.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/CanvasUtils.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Degrees.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Float16.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Matrix.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Outline.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Path.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathEffect.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathMeasure.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PixelMap.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/RectangleShape.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Shape.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/CanvasDrawScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/ContentDrawScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawContext.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawScope.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawScopeMarker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/DrawTransform.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/drawscope/EmptyCanvas.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidColorFilter.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidRenderEffect.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ColorMatrix.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/ExperimentalGraphicsApi.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/RenderEffect.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/colorspace/Oklab.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/painter/BrushPainter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/internal/JvmDefaultWithCompatibility.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/graphics/internal/JvmDefaultWithCompatibility.jvm.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidPathIterator.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/InlineClassHelper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathIterator.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathSegment.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/vector/FastFloatParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/AndroidGraphicsContext.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/AndroidGraphicsLayer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/GraphicsLayerV23.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/GraphicsLayerV29.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/GraphicsViewLayer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/LayerManager.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/LayerSnapshot.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/view/PlaceholderHardwareCanvas.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/compose/ui/graphics/layer/view/ViewLayerContainer.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/Bezier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/GraphicsContext.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/IntervalTree.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathGeometry.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathHitTester.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/PathSvg.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/layer/ChildLayerDependenciesTracker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/layer/CompositingStrategy.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/compose/ui/graphics/layer/GraphicsLayer.kt"
+        start_line: 2
+        end_line: 2

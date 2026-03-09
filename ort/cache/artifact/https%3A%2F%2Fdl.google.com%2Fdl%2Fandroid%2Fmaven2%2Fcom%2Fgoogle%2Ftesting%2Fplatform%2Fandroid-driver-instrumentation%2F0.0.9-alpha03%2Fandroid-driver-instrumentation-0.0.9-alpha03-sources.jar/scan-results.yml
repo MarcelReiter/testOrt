@@ -1,0 +1,665 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/com/google/testing/platform/android-driver-instrumentation/0.0.9-alpha03/android-driver-instrumentation-0.0.9-alpha03-sources.jar"
+      hash:
+        value: "d8dcc80ee3d80e7c3b6e4f32368797b205be9b7a"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:15:38.000158336Z"
+    end_time: "2026-03-04T14:15:45.000351349Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/test/services/storage/TestStorageConstants.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/api/context/ContextExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/config/v1/extension/InstrumentationExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/Instrumentations.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/ShellSyntax.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/AdbConfig.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/AdbShellOutputParserModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/AdbTimeout.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/LogWriterModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/AmInstrumentationArgs.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/AmInstrumentationListener.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/AmInstrumentationParser.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/DefaultInstrumentationArgs.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/InstrumentationResult.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/TestIdentifier.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/TestResult.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/lib/InstrumentationException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/lib/InstrumentationFinder.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/io/LogWriter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/io/LogWriterException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/io/OutputsLogWriter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/network/AdbNetworkSocket.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AaptDumpPackageLineProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AbstractRegexpLineProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AdbDevicesLineProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AdbInstrumentationListProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AndroidPropertyProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/DevicesListParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ExecutedTest.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/Instrumentation.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/InstrumentationListParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/InstrumentationTestRunnerProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ListenableParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/Parser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/RunTestParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ShellGetPropParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ShellVariableParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ShellVariableProcessor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/DevicesListLineProcessorParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/InstrumentationListProcessorParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/InstrumentationProcessorRunTestParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/LineProcessorParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/ListenableLineProcessorParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/ShellGetPropProcessorParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/ShellVariableProcessorParser.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/timing/TestTimeTracker.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/timing/TestTimingData.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/coroutines/atomic/AtomicDelegate.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/lib/logging/jvm/LoggerExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/controller/ext/AndroidDeviceControllerExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationArgs.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationDriver.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationDriverErrorSummary.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationDriverException.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/TestSuiteResultExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/inject/AndroidInstrumentationDriverComponent.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/inject/AndroidInstrumentationDriverModule.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/lib/ListInstrumentationsCommand.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/lib/TestRunnerArgs.kt"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AaptDumpPackageLineProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AbstractRegexpLineProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AdbDevicesLineProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AdbInstrumentationListProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/AndroidPropertyProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ExecutedTest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/InstrumentationTestRunnerProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ShellVariableProcessor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/AdbConfig.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/AdbTimeout.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/io/LogWriter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/io/LogWriterException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/io/OutputsLogWriter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/timing/TestTimeTracker.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2018 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/timing/TestTimingData.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "androidx/test/services/storage/TestStorageConstants.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/config/v1/extension/InstrumentationExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/Instrumentations.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/AmInstrumentationArgs.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/DefaultInstrumentationArgs.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/lib/InstrumentationException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/lib/InstrumentationFinder.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/network/AdbNetworkSocket.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/DevicesListParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/Instrumentation.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/InstrumentationListParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ListenableParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/Parser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/RunTestParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ShellGetPropParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/parser/ShellVariableParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/DevicesListLineProcessorParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/InstrumentationListProcessorParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/InstrumentationProcessorRunTestParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/LineProcessorParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/ListenableLineProcessorParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/ShellGetPropProcessorParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/subprocess/parser/ShellVariableProcessorParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/coroutines/atomic/AtomicDelegate.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/logging/jvm/LoggerExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2019 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/lib/TestRunnerArgs.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/ShellSyntax.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/AdbShellOutputParserModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/inject/LogWriterModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/controller/ext/AndroidDeviceControllerExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationArgs.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationDriver.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationDriverErrorSummary.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/AndroidInstrumentationDriverException.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/inject/AndroidInstrumentationDriverComponent.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/inject/AndroidInstrumentationDriverModule.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/lib/ListInstrumentationsCommand.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/AmInstrumentationListener.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/AmInstrumentationParser.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/InstrumentationResult.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/TestIdentifier.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/lib/adb/command/instrument/TestResult.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2021 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/runtime/android/driver/TestSuiteResultExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2022 The Android Open Source Project"
+      location:
+        path: "com/google/testing/platform/api/context/ContextExt.kt"
+        start_line: 2
+        end_line: 2

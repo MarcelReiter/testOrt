@@ -1,0 +1,302 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/activity/activity/1.8.2/activity-1.8.2-sources.jar"
+      hash:
+        value: "4db2a2efa9046d2bde019dddc6c857c8f67a50cf"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:16:11.000201969Z"
+    end_time: "2026-03-04T13:16:14.000883049Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/BackEventCompat.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/Cancellable.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/ComponentActivity.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/ComponentDialog.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/EdgeToEdge.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/FullyDrawnReporter.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/FullyDrawnReporterOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/ImmLeaksCleaner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/OnBackPressedCallback.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/OnBackPressedDispatcher.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/OnBackPressedDispatcherOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/ViewTreeFullyLoadedReporterOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/ViewTreeOnBackPressedDispatcherOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/contextaware/ContextAware.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/contextaware/ContextAwareHelper.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/contextaware/OnContextAvailableListener.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/ActivityResult.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/ActivityResultCallback.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/ActivityResultCaller.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/ActivityResultLauncher.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/ActivityResultRegistry.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/ActivityResultRegistryOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/IntentSenderRequest.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/PickVisualMediaRequest.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/contract/ActivityResultContract.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/activity/result/contract/ActivityResultContracts.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/ActivityResultCallback.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/ActivityResultCaller.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/ActivityResultLauncher.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/ActivityResultRegistry.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "androidx/activity/ComponentActivity.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "androidx/activity/ImmLeaksCleaner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2018 The Android Open Source Project"
+      location:
+        path: "androidx/activity/OnBackPressedCallback.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/activity/Cancellable.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/activity/OnBackPressedDispatcher.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/activity/OnBackPressedDispatcherOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/contextaware/ContextAware.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/contextaware/ContextAwareHelper.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/contextaware/OnContextAvailableListener.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/ActivityResult.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/ActivityResultRegistryOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/IntentSenderRequest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/contract/ActivityResultContract.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/contract/ActivityResultContracts.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/activity/ComponentDialog.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2021 The Android Open Source Project"
+      location:
+        path: "androidx/activity/ViewTreeOnBackPressedDispatcherOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidx/activity/FullyDrawnReporter.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidx/activity/FullyDrawnReporterOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidx/activity/ViewTreeFullyLoadedReporterOwner.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "androidx/activity/result/PickVisualMediaRequest.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidx/activity/BackEventCompat.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "androidx/activity/EdgeToEdge.kt"
+        start_line: 2
+        end_line: 2

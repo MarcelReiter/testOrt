@@ -1,0 +1,82 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-compose-android/2.8.3/lifecycle-runtime-compose-android-2.8.3-sources.jar"
+      hash:
+        value: "4a2b73533cbdd3bf81ce77053c58f78e70ee671c"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:19:49.000643647Z"
+    end_time: "2026-03-04T14:19:51.000935867Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidMain/androidx/lifecycle/compose/LocalLifecycleOwner.android.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/DropUnlessLifecycle.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/FlowExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/LifecycleEffect.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/LifecycleExt.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/LocalLifecycleOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2022 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/FlowExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/LifecycleEffect.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2023 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/LifecycleExt.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "androidMain/androidx/lifecycle/compose/LocalLifecycleOwner.android.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/DropUnlessLifecycle.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2024 The Android Open Source Project"
+      location:
+        path: "commonMain/androidx/lifecycle/compose/LocalLifecycleOwner.kt"
+        start_line: 2
+        end_line: 2

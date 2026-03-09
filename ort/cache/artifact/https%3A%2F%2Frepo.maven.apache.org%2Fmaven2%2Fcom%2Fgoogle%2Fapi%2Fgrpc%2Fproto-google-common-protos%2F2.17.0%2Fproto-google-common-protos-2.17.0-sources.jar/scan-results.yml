@@ -1,0 +1,3949 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/com/google/api/grpc/proto-google-common-protos/2.17.0/proto-google-common-protos-2.17.0-sources.jar"
+      hash:
+        value: "55129021048b3d90c4f9bbc3e73213fd5b7a9b30"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:16:04.000106463Z"
+    end_time: "2026-03-04T14:16:57.000007055Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "META-INF/maven/com.google.api.grpc/proto-google-common-protos/pom.xml"
+        start_line: 14
+        end_line: 19
+      score: 86.36
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Advice.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AdviceOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AnnotationsProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthProvider.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthProviderOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthRequirement.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthRequirementOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Authentication.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthenticationOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthenticationRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/AuthenticationRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Backend.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/BackendOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/BackendProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/BackendRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/BackendRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Billing.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/BillingOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/BillingProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ChangeType.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ClientLibraryDestination.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ClientLibraryOrganization.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ClientLibrarySettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ClientLibrarySettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ClientProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/CommonLanguageSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/CommonLanguageSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ConfigChange.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ConfigChangeOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ConfigChangeProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ConsumerProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Context.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ContextOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ContextProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ContextRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ContextRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Control.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ControlOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ControlProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/CppSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/CppSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/CustomHttpPattern.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/CustomHttpPatternOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Distribution.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DistributionOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DistributionProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Documentation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DocumentationOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DocumentationProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DocumentationRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DocumentationRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DotnetSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/DotnetSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Endpoint.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/EndpointOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/EndpointProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ErrorReason.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ErrorReasonProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/FieldBehavior.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/FieldBehaviorProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/GoSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/GoSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Http.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/HttpBody.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/HttpBodyOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/HttpBodyProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/HttpOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/HttpProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/HttpRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/HttpRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/JavaSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/JavaSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/JwtLocation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/JwtLocationOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LabelDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LabelDescriptorOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LabelProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LaunchStage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LaunchStageProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LogDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LogDescriptorOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LogProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Logging.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LoggingOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/LoggingProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MethodSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MethodSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Metric.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MetricDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MetricDescriptorOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MetricOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MetricProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MetricRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MetricRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoredResource.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoredResourceDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoredResourceDescriptorOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoredResourceMetadata.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoredResourceMetadataOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoredResourceOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoredResourceProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Monitoring.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoringOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/MonitoringProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/NodeSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/NodeSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/OAuthRequirements.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/OAuthRequirementsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Page.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/PageOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/PhpSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/PhpSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ProjectProperties.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ProjectPropertiesOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Property.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/PropertyOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Publishing.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/PublishingOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/PythonSettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/PythonSettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Quota.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/QuotaLimit.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/QuotaLimitOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/QuotaOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/QuotaProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ResourceDescriptor.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ResourceDescriptorOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ResourceProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ResourceReference.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ResourceReferenceOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/RoutingParameter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/RoutingParameterOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/RoutingProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/RoutingRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/RoutingRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/RubySettings.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/RubySettingsOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Service.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ServiceOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/ServiceProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SourceInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SourceInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SourceInfoProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SystemParameter.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SystemParameterOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SystemParameterProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SystemParameterRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SystemParameterRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SystemParameters.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/SystemParametersOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Usage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/UsageOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/UsageProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/UsageRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/UsageRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/Visibility.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/VisibilityOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/VisibilityProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/VisibilityRule.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/api/VisibilityRuleOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/ExtendedOperationsProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/OperationResponseMapping.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/AuditLog.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/AuditLogOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/AuditLogProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/AuthenticationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/AuthenticationInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/AuthorizationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/AuthorizationInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/OrgPolicyViolationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/OrgPolicyViolationInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/PolicyViolationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/PolicyViolationInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/RequestMetadata.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/RequestMetadataOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/ResourceLocation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/ResourceLocationOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/ServiceAccountDelegationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/ServiceAccountDelegationInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/ViolationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/audit/ViolationInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/GetLocationRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/GetLocationRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/ListLocationsRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/ListLocationsRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/ListLocationsResponse.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/ListLocationsResponseOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/Location.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/LocationOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/cloud/location/LocationsProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/geo/type/Viewport.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/geo/type/ViewportOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/geo/type/ViewportProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/logging/type/HttpRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/logging/type/HttpRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/logging/type/HttpRequestProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/logging/type/LogSeverity.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/logging/type/LogSeverityProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/CancelOperationRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/CancelOperationRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/DeleteOperationRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/DeleteOperationRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/GetOperationRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/GetOperationRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/ListOperationsRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/ListOperationsRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/ListOperationsResponse.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/ListOperationsResponseOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/Operation.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/OperationInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/OperationInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/OperationOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/OperationsProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/WaitOperationRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/longrunning/WaitOperationRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/BadRequest.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/BadRequestOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/Code.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/CodeProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/DebugInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/DebugInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/ErrorDetailsProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/ErrorInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/ErrorInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/Help.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/HelpOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/LocalizedMessage.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/LocalizedMessageOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/PreconditionFailure.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/PreconditionFailureOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/QuotaFailure.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/QuotaFailureOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/RequestInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/RequestInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/ResourceInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/ResourceInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/RetryInfo.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/RetryInfoOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/Status.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/StatusOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/StatusProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/context/AttributeContext.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/context/AttributeContextOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/context/AttributeContextProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/context/AuditContext.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/context/AuditContextOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/rpc/context/AuditContextProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/CalendarPeriod.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/CalendarPeriodProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Color.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/ColorOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/ColorProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Date.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DateOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DateProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DateTime.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DateTimeOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DateTimeProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DayOfWeek.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DayOfWeekProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Decimal.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DecimalOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/DecimalProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Expr.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/ExprOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/ExprProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Fraction.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/FractionOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/FractionProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Interval.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/IntervalOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/IntervalProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/LatLng.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/LatLngOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/LatLngProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/LocalizedText.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/LocalizedTextOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/LocalizedTextProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Money.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/MoneyOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/MoneyProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Month.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/MonthProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/PhoneNumber.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/PhoneNumberOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/PhoneNumberProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/PostalAddress.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/PostalAddressOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/PostalAddressProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/Quaternion.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/QuaternionOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/QuaternionProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/TimeOfDay.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/TimeOfDayOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/TimeOfDayProto.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/TimeZone.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "com/google/type/TimeZoneOrBuilder.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/annotations.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/auth.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/backend.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/billing.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/client.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/config_change.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/consumer.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/context.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/control.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/distribution.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/documentation.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/endpoint.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/error_reason.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/field_behavior.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/http.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/httpbody.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/label.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/launch_stage.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/log.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/logging.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/metric.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/monitored_resource.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/monitoring.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/quota.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/resource.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/routing.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/service.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/source_info.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/system_parameter.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/usage.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/api/visibility.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/cloud/audit/audit_log.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/cloud/extended_operations.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/geo/type/viewport.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/logging/type/http_request.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/logging/type/log_severity.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/longrunning/operations.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/rpc/code.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/rpc/context/attribute_context.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/rpc/context/audit_context.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/rpc/error_details.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/rpc/status.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/calendar_period.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/color.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/date.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/datetime.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/dayofweek.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/decimal.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/expr.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/fraction.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/interval.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/latlng.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/localized_text.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/money.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/month.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/phone_number.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/postal_address.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/quaternion.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "google/type/timeofday.proto"
+        start_line: 3
+        end_line: 13
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2015 Google LLC"
+      location:
+        path: "google/api/annotations.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2016 Google LLC"
+      location:
+        path: "google/api/consumer.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2019 Google LLC."
+      location:
+        path: "google/geo/type/viewport.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Advice.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AdviceOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AnnotationsProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthProvider.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthProviderOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthRequirement.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthRequirementOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Authentication.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthenticationOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthenticationRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/AuthenticationRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Backend.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/BackendOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/BackendProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/BackendRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/BackendRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Billing.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/BillingOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/BillingProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ChangeType.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ClientLibraryDestination.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ClientLibraryOrganization.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ClientLibrarySettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ClientLibrarySettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ClientProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/CommonLanguageSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/CommonLanguageSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ConfigChange.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ConfigChangeOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ConfigChangeProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ConsumerProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Context.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ContextOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ContextProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ContextRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ContextRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Control.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ControlOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ControlProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/CppSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/CppSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/CustomHttpPattern.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/CustomHttpPatternOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Distribution.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DistributionOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DistributionProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Documentation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DocumentationOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DocumentationProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DocumentationRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DocumentationRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DotnetSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/DotnetSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Endpoint.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/EndpointOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/EndpointProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ErrorReason.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ErrorReasonProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/FieldBehavior.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/FieldBehaviorProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/GoSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/GoSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Http.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/HttpBody.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/HttpBodyOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/HttpBodyProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/HttpOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/HttpProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/HttpRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/HttpRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/JavaSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/JavaSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/JwtLocation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/JwtLocationOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LabelDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LabelDescriptorOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LabelProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LaunchStage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LaunchStageProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LogDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LogDescriptorOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LogProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Logging.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LoggingOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/LoggingProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MethodSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MethodSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Metric.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MetricDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MetricDescriptorOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MetricOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MetricProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MetricRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MetricRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoredResource.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoredResourceDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoredResourceDescriptorOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoredResourceMetadata.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoredResourceMetadataOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoredResourceOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoredResourceProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Monitoring.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoringOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/MonitoringProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/NodeSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/NodeSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/OAuthRequirements.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/OAuthRequirementsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Page.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/PageOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/PhpSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/PhpSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ProjectProperties.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ProjectPropertiesOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Property.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/PropertyOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Publishing.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/PublishingOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/PythonSettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/PythonSettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Quota.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/QuotaLimit.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/QuotaLimitOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/QuotaOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/QuotaProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ResourceDescriptor.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ResourceDescriptorOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ResourceProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ResourceReference.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ResourceReferenceOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/RoutingParameter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/RoutingParameterOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/RoutingProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/RoutingRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/RoutingRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/RubySettings.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/RubySettingsOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Service.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ServiceOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/ServiceProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SourceInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SourceInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SourceInfoProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SystemParameter.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SystemParameterOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SystemParameterProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SystemParameterRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SystemParameterRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SystemParameters.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/SystemParametersOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Usage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/UsageOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/UsageProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/UsageRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/UsageRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/Visibility.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/VisibilityOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/VisibilityProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/VisibilityRule.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/api/VisibilityRuleOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/ExtendedOperationsProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/OperationResponseMapping.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/AuditLog.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/AuditLogOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/AuditLogProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/AuthenticationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/AuthenticationInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/AuthorizationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/AuthorizationInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/OrgPolicyViolationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/OrgPolicyViolationInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/PolicyViolationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/PolicyViolationInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/RequestMetadata.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/RequestMetadataOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/ResourceLocation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/ResourceLocationOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/ServiceAccountDelegationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/ServiceAccountDelegationInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/ViolationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/audit/ViolationInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/GetLocationRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/GetLocationRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/ListLocationsRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/ListLocationsRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/ListLocationsResponse.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/ListLocationsResponseOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/Location.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/LocationOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/cloud/location/LocationsProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/geo/type/Viewport.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/geo/type/ViewportOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/geo/type/ViewportProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/logging/type/HttpRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/logging/type/HttpRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/logging/type/HttpRequestProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/logging/type/LogSeverity.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/logging/type/LogSeverityProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/CancelOperationRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/CancelOperationRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/DeleteOperationRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/DeleteOperationRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/GetOperationRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/GetOperationRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/ListOperationsRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/ListOperationsRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/ListOperationsResponse.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/ListOperationsResponseOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/Operation.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/OperationInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/OperationInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/OperationOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/OperationsProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/WaitOperationRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/longrunning/WaitOperationRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/BadRequest.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/BadRequestOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/Code.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/CodeProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/DebugInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/DebugInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/ErrorDetailsProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/ErrorInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/ErrorInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/Help.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/HelpOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/LocalizedMessage.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/LocalizedMessageOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/PreconditionFailure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/PreconditionFailureOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/QuotaFailure.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/QuotaFailureOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/RequestInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/RequestInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/ResourceInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/ResourceInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/RetryInfo.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/RetryInfoOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/Status.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/StatusOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/StatusProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/context/AttributeContext.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/context/AttributeContextOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/context/AttributeContextProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/context/AuditContext.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/context/AuditContextOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/rpc/context/AuditContextProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/CalendarPeriod.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/CalendarPeriodProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Color.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/ColorOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/ColorProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Date.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DateOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DateProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DateTime.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DateTimeOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DateTimeProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DayOfWeek.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DayOfWeekProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Decimal.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DecimalOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/DecimalProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Expr.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/ExprOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/ExprProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Fraction.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/FractionOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/FractionProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Interval.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/IntervalOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/IntervalProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/LatLng.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/LatLngOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/LatLngProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/LocalizedText.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/LocalizedTextOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/LocalizedTextProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Money.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/MoneyOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/MoneyProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Month.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/MonthProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/PhoneNumber.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/PhoneNumberOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/PhoneNumberProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/PostalAddress.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/PostalAddressOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/PostalAddressProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/Quaternion.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/QuaternionOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/QuaternionProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/TimeOfDay.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/TimeOfDayOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/TimeOfDayProto.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/TimeZone.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "com/google/type/TimeZoneOrBuilder.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2020 Google LLC"
+      location:
+        path: "google/longrunning/operations.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/calendar_period.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/color.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/date.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/datetime.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/dayofweek.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/decimal.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/expr.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/fraction.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/interval.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/latlng.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/localized_text.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/money.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/month.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/phone_number.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/postal_address.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/quaternion.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC"
+      location:
+        path: "google/type/timeofday.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2021 Google LLC."
+      location:
+        path: "google/cloud/extended_operations.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/cloud/audit/audit_log.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/logging/type/http_request.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/logging/type/log_severity.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/rpc/code.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/rpc/context/attribute_context.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/rpc/context/audit_context.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/rpc/error_details.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2022 Google LLC"
+      location:
+        path: "google/rpc/status.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/auth.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/backend.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/billing.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/client.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/config_change.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/context.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/control.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/distribution.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/documentation.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/endpoint.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/error_reason.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/field_behavior.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/http.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/httpbody.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/label.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/launch_stage.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/log.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/logging.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/metric.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/monitored_resource.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/monitoring.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/quota.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/resource.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/routing.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/service.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/source_info.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/system_parameter.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/usage.proto"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright 2023 Google LLC"
+      location:
+        path: "google/api/visibility.proto"
+        start_line: 1
+        end_line: 1

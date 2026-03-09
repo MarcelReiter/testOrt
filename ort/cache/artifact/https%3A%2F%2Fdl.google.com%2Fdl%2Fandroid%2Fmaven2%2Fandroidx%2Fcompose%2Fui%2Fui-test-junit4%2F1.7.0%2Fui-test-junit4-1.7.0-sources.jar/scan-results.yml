@@ -1,0 +1,27 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-test-junit4/1.7.0/ui-test-junit4-1.7.0-sources.jar"
+      hash:
+        value: "521cc2c5f2e798ebc272fa800d7238047be0f628"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T12:13:49.000432039Z"
+    end_time: "2026-03-04T12:13:51.000494598Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "jvmMain/androidx/compose/ui/test/junit4/ComposeTestRule.jvm.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright 2020 The Android Open Source Project"
+      location:
+        path: "jvmMain/androidx/compose/ui/test/junit4/ComposeTestRule.jvm.kt"
+        start_line: 2
+        end_line: 2

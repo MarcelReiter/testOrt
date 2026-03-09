@@ -1,0 +1,60 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime/2.6.1/lifecycle-runtime-2.6.1-sources.jar"
+      hash:
+        value: "f653a171fc041d7062a83c81458c12f0201bcd6f"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T14:19:36.000250638Z"
+    end_time: "2026-03-04T14:19:38.000494606Z"
+    licenses:
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/LifecycleRegistry.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/LifecycleRegistryOwner.java"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/ReportFragment.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    - license: "Apache-2.0"
+      location:
+        path: "androidx/lifecycle/ViewTreeLifecycleOwner.kt"
+        start_line: 4
+        end_line: 14
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/LifecycleRegistry.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/LifecycleRegistryOwner.java"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright (c) 2017 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/ReportFragment.kt"
+        start_line: 2
+        end_line: 2
+    - statement: "Copyright 2019 The Android Open Source Project"
+      location:
+        path: "androidx/lifecycle/ViewTreeLifecycleOwner.kt"
+        start_line: 2
+        end_line: 2

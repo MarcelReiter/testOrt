@@ -1,0 +1,105 @@
+---
+- provenance:
+    source_artifact:
+      url: "https://repo.maven.apache.org/maven2/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar"
+      hash:
+        value: "309cd2cff7260e465792fda3dcbb063b730d8050"
+        algorithm: "SHA-1"
+  scanner:
+    name: "ScanCode"
+    version: "32.4.1"
+    configuration: "--copyright --license --strip-root --json"
+  summary:
+    start_time: "2026-03-04T13:39:09.000035145Z"
+    end_time: "2026-03-04T13:39:12.000091051Z"
+    licenses:
+    - license: "MIT"
+      location:
+        path: "org/kxml2/io/KXmlParser.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "org/kxml2/io/KXmlSerializer.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "org/kxml2/kdom/Document.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "org/kxml2/kdom/Element.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "org/kxml2/kdom/Node.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "org/kxml2/wap/Wbxml.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "org/kxml2/wap/WbxmlParser.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    - license: "MIT"
+      location:
+        path: "org/kxml2/wap/WbxmlSerializer.java"
+        start_line: 3
+        end_line: 19
+      score: 100.0
+    copyrights:
+    - statement: "Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany"
+      location:
+        path: "org/kxml2/io/KXmlParser.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany"
+      location:
+        path: "org/kxml2/io/KXmlSerializer.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany"
+      location:
+        path: "org/kxml2/kdom/Document.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany"
+      location:
+        path: "org/kxml2/kdom/Element.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany"
+      location:
+        path: "org/kxml2/kdom/Node.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany"
+      location:
+        path: "org/kxml2/wap/Wbxml.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany"
+      location:
+        path: "org/kxml2/wap/WbxmlSerializer.java"
+        start_line: 1
+        end_line: 1
+    - statement: "Copyright (c) 2002,2003,2004 Stefan Haustein, Oberhausen, Rhld.,\
+        \ Germany"
+      location:
+        path: "org/kxml2/wap/WbxmlParser.java"
+        start_line: 1
+        end_line: 1
