@@ -452,13 +452,12 @@ var _self="undefined"!=typeof window?window:"undefined"!=typeof WorkerGlobalScop
 Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:((?:\r?\n|\r)[ \t]+)[^\r\n]+(?:\2[^\r\n]+)*)/,lookbehind:!0,alias:"string"},comment:/#.*/,key:{pattern:/(\s*(?:^|[:\-,[{\r\n?])[ \t]*(?:![^\s]+)?[ \t]*)[^\r\n{[\]},#\s]+?(?=\s*:\s)/,lookbehind:!0,alias:"atrule"},directive:{pattern:/(^[ \t]*)%.+/m,lookbehind:!0,alias:"important"},datetime:{pattern:/([:\-,[{]\s*(?:![^\s]+)?[ \t]*)(?:\d{4}-\d\d?-\d\d?(?:[tT]|[ \t]+)\d\d?:\d{2}:\d{2}(?:\.\d*)?[ \t]*(?:Z|[-+]\d\d?(?::\d{2})?)?|\d{4}-\d{2}-\d{2}|\d\d?:\d{2}(?::\d{2}(?:\.\d*)?)?)(?=[ \t]*(?:$|,|]|}))/m,lookbehind:!0,alias:"number"},boolean:{pattern:/([:\-,[{]\s*(?:![^\s]+)?[ \t]*)(?:true|false)[ \t]*(?=$|,|]|})/im,lookbehind:!0,alias:"important"},null:{pattern:/([:\-,[{]\s*(?:![^\s]+)?[ \t]*)(?:null|~)[ \t]*(?=$|,|]|})/im,lookbehind:!0,alias:"important"},string:{pattern:/([:\-,[{]\s*(?:![^\s]+)?[ \t]*)("|')(?:(?!\2)[^\\\r\n]|\\.)*\2(?=[ \t]*(?:$|,|]|}|\s*#))/m,lookbehind:!0,greedy:!0},number:{pattern:/([:\-,[{]\s*(?:![^\s]+)?[ \t]*)[+-]?(?:0x[\da-f]+|0o[0-7]+|(?:\d+\.?\d*|\.?\d+)(?:e[+-]?\d+)?|\.inf|\.nan)[ \t]*(?=$|,|]|})/im,lookbehind:!0},tag:/![^\s]+/,important:/[&*][\w]+/,punctuation:/---|[:[\]{}\-,|>?]|\.\.\./},Prism.languages.yml=Prism.languages.yaml;
 </script><div id="report-container">
          <div id="report-top-label">Scan Report</div>
-         <div>Created by <strong>ORT</strong>, the <a href="https://oss-review-toolkit.org/">OSS Review Toolkit</a>, version 74.1.0 on 2026-03-24T08:44:51.567568619Z.</div>
+         <div>Created by <strong>ORT</strong>, the <a href="https://oss-review-toolkit.org/">OSS Review Toolkit</a>, version 74.1.0 on 2026-03-24T10:55:54.962806099Z.</div>
          <h2>Project</h2>
-         <div>Scanned revision c902d531789fb7929d790b540a5394ab050c427b of Git repository ssh://git@github.com/MarcelReiter/testOrt.git</div>
+         <div>Scanned revision 0578e870d943d186b71a9ce142740d5c2263a4af of Git repository ssh://git@github.com/MarcelReiter/testOrt.git</div>
          <h2>Index</h2>
          <ul>
             <li><a href="#rule-violation-summary">Rule Violation Summary (0 errors, 0 warnings, 0 hints to resolve)</a></li>
-            <li><a href="#scanner-issue-summary">Scanner Issue Summary (4 errors, 0 warnings, 0 hints to resolve)</a></li>
             <li><a href="#Gradle::TestOrt:">Gradle::TestOrt:</a></li>
             <li><a href="#Gradle:TestOrt:app:">Gradle:TestOrt:app:</a></li>
             <li><a href="#Gradle:TestOrt:feature1:">Gradle:TestOrt:feature1:</a></li>
@@ -466,67 +465,6 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
             <li><a href="#repository-configuration">Repository Configuration</a></li>
          </ul>
          <h2 id="rule-violation-summary">Rule Violation Summary (0 errors, 0 warnings, 0 hints to resolve)</h2>No rule violations found.
-         <h2 id="scanner-issue-summary">Scanner Issue Summary (4 errors, 0 warnings, 0 hints to resolve)</h2>
-         <p>Issues from excluded components are not shown in this summary.</p>
-         <table class="report-table">
-            <thead>
-               <tr>
-                  <th>#</th>
-                  <th>Package</th>
-                  <th>Message</th>
-               </tr>
-            </thead>
-            <tbody>
-               <tr class="error" id="scanner-issue-summary-1">
-                  <td><a href="#scanner-issue-summary-1">1</a></td>
-                  <td>Gradle::TestOrt:</td>
-                  <td>
-                     <p>IOException: Could not resolve provenance for package 'Gradle::TestOrt:' for source
-                        code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle::TestOrt:' with VcsInfo(type=Git,
-                        url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=):<br>	Could not find any revision candidates for package 'Gradle::TestOrt:' with VcsInfo(type=Git,
-                        url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=).</p>
-                  </td>
-               </tr>
-               <tr class="error" id="scanner-issue-summary-2">
-                  <td><a href="#scanner-issue-summary-2">2</a></td>
-                  <td>Gradle:TestOrt:app:</td>
-                  <td>
-                     <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:app:' for source
-                        code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:app:' with VcsInfo(type=Git,
-                        url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=app):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:app:' with VcsInfo(type=Git,
-                        url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=app).</p>
-                  </td>
-               </tr>
-               <tr class="error" id="scanner-issue-summary-3">
-                  <td><a href="#scanner-issue-summary-3">3</a></td>
-                  <td>Gradle:TestOrt:feature1:</td>
-                  <td>
-                     <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:feature1:' for
-                        source code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:feature1:' with
-                        VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=feature1):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:feature1:' with
-                        VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=feature1).</p>
-                  </td>
-               </tr>
-               <tr class="error" id="scanner-issue-summary-4">
-                  <td><a href="#scanner-issue-summary-4">4</a></td>
-                  <td>Gradle:TestOrt:feature2:</td>
-                  <td>
-                     <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:feature2:' for
-                        source code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:feature2:' with
-                        VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=feature2):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:feature2:' with
-                        VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                        path=feature2).</p>
-                  </td>
-               </tr>
-            </tbody>
-         </table>
          <div class="project " id="Gradle::TestOrt:">
             <h2>Gradle::TestOrt: (build.gradle.kts)</h2>
             <h3>VCS Information</h3>
@@ -546,7 +484,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                   </tr>
                   <tr>
                      <td>Revision</td>
-                     <td>c902d531789fb7929d790b540a5394ab050c427b</td>
+                     <td>0578e870d943d186b71a9ce142740d5c2263a4af</td>
                   </tr>
                </tbody>
             </table>
@@ -568,20 +506,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                      <td>Gradle::TestOrt:</td>
                      <td></td>
                      <td></td>
-                     <td>
-                        <table class="report-table package-issue-table">
-                           <tr class="error">
-                              <td>
-                                 <p>IOException: Could not resolve provenance for package 'Gradle::TestOrt:' for source
-                                    code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle::TestOrt:' with VcsInfo(type=Git,
-                                    url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=):<br>	Could not find any revision candidates for package 'Gradle::TestOrt:' with VcsInfo(type=Git,
-                                    url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=).</p>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
+                     <td></td>
                      <td></td>
                   </tr>
                </tbody>
@@ -606,7 +531,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                   </tr>
                   <tr>
                      <td>Revision</td>
-                     <td>c902d531789fb7929d790b540a5394ab050c427b</td>
+                     <td>0578e870d943d186b71a9ce142740d5c2263a4af</td>
                   </tr>
                </tbody>
             </table>
@@ -628,20 +553,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                      <td>Gradle:TestOrt:app:</td>
                      <td></td>
                      <td></td>
-                     <td>
-                        <table class="report-table package-issue-table">
-                           <tr class="error">
-                              <td>
-                                 <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:app:' for source
-                                    code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:app:' with VcsInfo(type=Git,
-                                    url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=app):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:app:' with VcsInfo(type=Git,
-                                    url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=app).</p>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
+                     <td></td>
                      <td></td>
                   </tr>
                   <tr class="pkg " id="Gradle:TestOrt:app:-pkg-2">
@@ -653,20 +565,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                         </ul>
                      </td>
                      <td></td>
-                     <td>
-                        <table class="report-table package-issue-table">
-                           <tr class="error">
-                              <td>
-                                 <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:feature1:' for
-                                    source code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:feature1:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature1):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:feature1:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature1).</p>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
+                     <td></td>
                      <td></td>
                   </tr>
                   <tr class="pkg " id="Gradle:TestOrt:app:-pkg-3">
@@ -678,20 +577,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                         </ul>
                      </td>
                      <td></td>
-                     <td>
-                        <table class="report-table package-issue-table">
-                           <tr class="error">
-                              <td>
-                                 <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:feature2:' for
-                                    source code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:feature2:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature2):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:feature2:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature2).</p>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
+                     <td></td>
                      <td></td>
                   </tr>
                   <tr class="pkg " id="Gradle:TestOrt:app:-pkg-4">
@@ -3343,7 +3229,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                   </tr>
                   <tr>
                      <td>Revision</td>
-                     <td>c902d531789fb7929d790b540a5394ab050c427b</td>
+                     <td>0578e870d943d186b71a9ce142740d5c2263a4af</td>
                   </tr>
                </tbody>
             </table>
@@ -3365,20 +3251,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                      <td>Gradle:TestOrt:feature1:</td>
                      <td></td>
                      <td></td>
-                     <td>
-                        <table class="report-table package-issue-table">
-                           <tr class="error">
-                              <td>
-                                 <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:feature1:' for
-                                    source code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:feature1:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature1):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:feature1:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature1).</p>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
+                     <td></td>
                      <td></td>
                   </tr>
                </tbody>
@@ -3403,7 +3276,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                   </tr>
                   <tr>
                      <td>Revision</td>
-                     <td>c902d531789fb7929d790b540a5394ab050c427b</td>
+                     <td>0578e870d943d186b71a9ce142740d5c2263a4af</td>
                   </tr>
                </tbody>
             </table>
@@ -3425,20 +3298,7 @@ Prism.languages.yaml={scalar:{pattern:/([\-:]\s*(?:![^\s]+)?[ \t]*[|>])[ \t]*(?:
                      <td>Gradle:TestOrt:feature2:</td>
                      <td></td>
                      <td></td>
-                     <td>
-                        <table class="report-table package-issue-table">
-                           <tr class="error">
-                              <td>
-                                 <p>IOException: Could not resolve provenance for package 'Gradle:TestOrt:feature2:' for
-                                    source code origins [VCS, ARTIFACT].<br>Resolution of VCS failed with:<br>IOException: Could not resolve revision for package 'Gradle:TestOrt:feature2:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature2):<br>	Could not find any revision candidates for package 'Gradle:TestOrt:feature2:' with
-                                    VcsInfo(type=Git, url=ssh://git@github.com/MarcelReiter/testOrt.git, revision=c902d531789fb7929d790b540a5394ab050c427b,
-                                    path=feature2).</p>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
+                     <td></td>
                      <td></td>
                   </tr>
                   <tr class="pkg " id="Gradle:TestOrt:feature2:-pkg-2">

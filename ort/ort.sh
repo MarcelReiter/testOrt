@@ -50,6 +50,7 @@ echo -e "\e[1;33m Running ORT scanner \e[0m"
 # This will download all dependencies and scan them for license information line-by-line
 # Make sure to also check config.yml for scanner-configuration
 run_ort scan \
+    --package-types=PACKAGE \
     --ort-file /project/"$RESULT_DIR"/analyzer-result.yml \
     --scanners=ScanCode \
     --output-dir /project/"$RESULT_DIR" \
