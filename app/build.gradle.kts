@@ -38,6 +38,9 @@ android {
     }
 }
 
+group = "com.yourcompany"
+version = "0.0.1"
+
 dependencies {
     implementation(project(":feature1"))
     implementation(project(":feature2"))

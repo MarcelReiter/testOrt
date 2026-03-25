@@ -11,3 +11,6 @@ kotlin {
         jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_11
     }
 }
+
+group = "com.yourcompany"
+version = "0.0.1"
